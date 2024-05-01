@@ -2,7 +2,6 @@ import base64
 import streamlit as st
 import random
 import time
-import streamlit_authenticator as stauth
 from streamlit_authenticator import Authenticate
 from streamlit_authenticator.utilities.hasher import Hasher
 import yaml
@@ -154,7 +153,7 @@ def main():
             response = {}
             # Process the query using TextGen class
             response['text'] = text_gen.process_query(prompt,selected_language)
-            response['image'] = main_current(prompt, os.path.join("data", uploaded.name), selected_language)
+            response['image'] = main_current(prompt, os.path.join("data", uploaded.name), uploaded.name, selected_language)
             import pandas as pd
             pd.DataFrame(response).to_csv("Tezt.csv")
             # Display assistant response in chat message container

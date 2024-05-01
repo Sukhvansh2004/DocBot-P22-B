@@ -18,11 +18,11 @@ generation_params = {
     "max_length": 1000
 }
 
-device = 'cpu'
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 # Move SBERT model to CUDA if available
-
+model.to(device=device)
 # Move LM model to CUDA if available
-
+tokenizer.to(device=device)
 # Ensure that the LM model is in evaluation mode
 model.eval()
 input_text = tokenizer(
@@ -32,5 +32,5 @@ input_text = tokenizer(
 outputs = model.generate(**input_text, **generation_params)
 
 output = tokenizer.decode(outputs[0])
-print(output)
+
 

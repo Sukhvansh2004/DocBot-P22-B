@@ -135,7 +135,7 @@ def find_most_similar_sentence(sentences, xrefs, index, image_xref):
 
     return list_hold
     
-def text2embedd2query(query, pdf_path, language):
+def text2embedd2query(query, pdf_path, name, language):
     with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
         retrieved_list = pickle.load(f)
     sentences = retrieved_list
@@ -145,7 +145,7 @@ def text2embedd2query(query, pdf_path, language):
 
     vector_dimension = len(paragraph_embeddings[0])
     
-    annoy_index_path = os.path.join(datafolder, f'index_{language}.ann')
+    annoy_index_path = os.path.join(datafolder, f'{name}-{language}.ann')
     annoy_index = None # load_annoy_index_from_file(vector_dimension, annoy_index_path)
     if annoy_index is None:
         annoy_index = AnnoyIndex(vector_dimension, 'angular')
@@ -221,14 +221,14 @@ def save_data(pdf_path, text_xref_pairs_list_1, text_list_1):
     with open(f"{pdf_path}_prev_text.pickle", "wb") as f:
         pickle.dump(text_list_1, f)
         
-def main_current(query, pdf_path, language):
+def main_current(query, pdf_path, name, language):
     # pdf_files = list_pdf_files_glob(datafolder)
 
     # for pdf_path in pdf_files:
         pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
         # query = "Instrument and  control functions  4 - 3 3s"
         process_pdf(pdf_path)
-        nearest = text2embedd2query(query, pdf_path, language)
+        nearest = text2embedd2query(query, pdf_path, name, language)
         print(nearest)
         with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
             retrieved = pickle.load(f)
