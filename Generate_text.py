@@ -1,8 +1,7 @@
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
- # Create the 'data' folder if it doesn't exist
-
+ 
 auth_token = "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"
 
 # sbert_model = SentenceTransformer('sentence-transformers/multi-qa-mpnet-base-cos-v1', use_auth_token=auth_token)  # Example model, replace with your desired SBERT model

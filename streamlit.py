@@ -155,7 +155,7 @@ def main():
             response['text'] = text_gen.process_query(prompt,selected_language)
             response['image'] = main_current(prompt, os.path.join("data", uploaded.name), uploaded.name, selected_language)
             import pandas as pd
-            pd.DataFrame(response).to_csv("Tezt.csv")
+            pd.DataFrame(response).to_csv("Text.csv")
             # Display assistant response in chat message container
             with st.chat_message("assistant"):
                 st.markdown(response['text'].decode('utf-8'))
