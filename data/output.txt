@@ -1,0 +1,6609 @@
+OWNER’S MANUAL     Read this manual carefully 
+before operating this vehicle.
+MOTORCYCLE
+D83-28199-E0MTN1000D (MT-10 SP)Safety information
+Description
+Special features
+Instrument and control functions
+For your safety – pre-operation checks
+Operation and important riding points
+Periodic maintenance and adjustment
+Motorcycle care and storage
+Specifications
+Consumer information
+Index1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+D83-28199-E0_cover.indd   1D83-28199-E0_cover.indd   1 2023/11/08   15:24:022023/11/08   15:24:02EAU81566
+ 
+ Read this manual carefully before operating this vehicle. This manual should stay with this vehicle if it is sold.
+EAU81572
+ 
+ 
+Declaration of Conformity: Hereby,  YAMAHA  MOTOR  ELECTRONICS  Co., Ltd declares  that the radio  equipment  type,  IMMOBILIZER,  B5Y-00  is in
+compliance with Directive 2014/53/EU.The full text of the EU declaration of conformity is available at the following internet address:
+https://global.yamaha-motor.com/eu_doc/ Frequency band: 134.2 kHzThe maximum radio frequency power: 49.0 [dBμV/m] Manufacturer:YAMAHA MOTOR ELECTRONICS Co., Ltd1450-6 Mori, Mori-machi, Shuchi-Gun, Shizuoka, 437-0292 Japan Importer:YAMAHA MOTOR EUROPE N.V.Koolhovenlaan 101, 1119 NC Schiphol-Rijk, 1117 ZN, Schiphol, the Netherlands
+D83-28199-E0_cover.indd   2D83-28199-E0_cover.indd   2 2023/11/08   15:24:022023/11/08   15:24:02EAU94372
+ 
+Fo
+r UK
+ 
+Declaration of Conformity:
+ 
+He
+reby,  YAMAHA  MOTOR  ELECTRONICS  Co., Ltd declares  that the radio  equipment  type,  IMMOBILIZER,  B5Y-00  is in
+compliance with the Radio Equipment Regulations 2017.
+The full text of the declaration of conformity is available at the following internet address:
+https://global.yamaha-motor.com/eu_doc/
+ 
+Frequency band: 134.2 kHz
+The maximum radio frequency power: 49.0 [dBμV/m]
+ 
+Manufacturer:
+YAMAHA MOTOR ELECTRONICS Co., Ltd
+1450-6 Mori, Mori-machi, Shuchi-Gun, Shizuoka, 437-0292 Japan
+ 
+Importer:
+YAMAHA MOTOR EUROPE N.V., BRANCH UK
+Units A2-A3, Kingswey Business Park, Forsyth Road, Woking, Surrey. GU21 5SA. United Kingdom.
+ EAU10103
+ 
+We
+lcome to the Yamaha world of motorcycling!
+As the owner  of the MTN1000D,  you are benefiting  from Yamaha’s  vast experience  and newest  technology  regarding  the
+design and manufacture of high-quality products, which have earned Yamaha a reputation for dependability.
+Please  take the time to read this manual  thoroughly,  so as to enjoy  all advantages  of your MTN1000D.  The Owner’s  Manual
+does not only instruct you in how to operate, inspect and maintain your motorcycle, but also in how to safeguard yourself and
+others from trouble and injury.
+In addition,  the many  tips given  in this manual  will help keep  your motorcycle  in the best possible  condition.  If you have any
+further questions, do not hesitate to contact your Yamaha dealer.
+The Yamaha team wishes you many safe and pleasant rides. So, remember to put safety first!
+Yamaha  continually  seeks  advancements  in product  design  and quality.  Therefore,  while  this manual  contains  the most
+current product information available at the time of printing, there may be minor discrepancies between your motorcycle and
+this manual. If there is any question concerning this manual, please consult a Yamaha dealer.
+EWA10032
+WARNING
+Please read this manual carefully and completely before operating this motorcycle.IntroductionEAU10134
+ 
+Pa
+rticularly important information is distinguished in this manual by the following notations:
+This is the safety alert symbol. It is used to alert you to potential personal injury haz-
+ar
+ds. Obey all safety messages that follow this symbol to avoid possible injury or
+death.
+WARNING
+A WARNING indicates a hazardous situation which, if not avoided, could result in death
+or
+ serious injury.
+NOTICE
+A NOTICE indicates special precautions that must be taken to avoid damage to the
+ve
+hicle or other property.
+TIP
+A TIP provides key information to make procedures easier or clearer.
+*Product and specifications are subject to change without notice.Important manual informationEAU10202
+ 
+MTN1000D
+OW
+NER’S MANUAL
+©2024 by Yamaha Motor Co., Ltd.
+1st edition, October 2023
+All rights reserved.
+Any reprinting or unauthorized use
+without the written permission of
+Yamaha Motor Co., Ltd.
+is expressly prohibited.
+Printed in Japan.Important manual informationSafety information ............................. 1-1
+Description .........................................
+2-1
+Left view ........................................... 2-1
+Right view......................................... 2-2
+Controls and instruments ................. 2-3
+Special features ................................. 3-1
+YRC (Yamaha Ride Control).............. 3-1
+Glossary........................................... 3-4
+YRC functions visual guide............... 3-5
+Cruise control system....................... 3-6
+Yamaha variable speed limiter
+(YVSL)........................................... 3-8
+Instrument and control functions ..... 4-1
+Immobilizer system .......................... 4-1
+Main switch/steering lock................. 4-2
+Handlebar switches.......................... 4-3
+Indicator lights and warning
+lights ............................................. 4-5
+Display ............................................. 4-9
+MENU screen ................................. 4-18
+Clutch lever .................................... 4-29
+Shift pedal ...................................... 4-29
+Brake lever ..................................... 4-30
+Brake pedal .................................... 4-30
+Brake control system (BC) .............. 4-31
+Fuel tank cap .................................. 4-32
+Fuel ................................................ 4-33
+Fuel tank overflow  hose .................. 4-34Catalytic converter ......................... 4-35
+Seat................................................
+4-35
+Adjusting the front fork ................... 4-36
+Adjusting the shock absorber
+assembly .................................... 4-37
+Luggage strap holders.................... 4-39
+EXUP system.................................. 4-39
+Power outlet ................................... 4-39
+Sidestand....................................... 4-40
+Ignition circuit cut-off system.......... 4-41
+For your safety – pre-operation
+checks ................................................ 5-1
+Operation and important riding
+points .................................................. 6-1
+Engine break-in ................................ 6-1
+Starting the engine ........................... 6-2
+Shifting............................................. 6-3
+Tips for reducing fuel
+consumption................................. 6-4
+Parking............................................. 6-5
+Periodic maintenance and
+adjustment ......................................... 7-1
+Tool kits ............................................ 7-2
+Periodic maintenance charts............ 7-3
+Periodic maintenance chart for
+the emission control system.......... 7-3
+General maintenance and
+lubrication chart ............................ 7-5Checking the spark plugs ................. 7-9
+Canister..........................................
+7-10
+Engine oil........................................ 7-10
+Why Yamalube ............................... 7-11
+Coolant........................................... 7-11
+Air filter element.............................. 7-14
+Checking the engine idling speed ... 7-14
+Valve clearance .............................. 7-14
+Tires ............................................... 7-15
+Cast wheels.................................... 7-17
+Adjusting the clutch lever free
+play ............................................. 7-18
+Checking the brake lever free
+play ............................................. 7-19
+Brake light switches........................ 7-19
+Checking the front and rear
+brake pads .................................. 7-20
+Checking the brake fluid level ......... 7-20
+Changing the brake fluid................. 7-21
+Drive chain slack............................. 7-22
+Cleaning and lubricating the
+drive chain................................... 7-23
+Checking and lubricating the
+cables ......................................... 7-24
+Checking and lubricating the
+throttle grip.................................. 7-24
+Checking and lubricating the
+brake and shift pedals ................. 7-24
+Checking and lubricating the
+brake and clutch levers ............... 7-25Table of contentsChecking and lubricating the
+sidestand ....................................
+7-26
+Lubricating the swingarm pivots..... 7-26
+Checking the front fork ................... 7-26
+Checking the steering..................... 7-27
+Checking the wheel bearings.......... 7-27
+Battery............................................ 7-28
+Replacing the fuses ........................ 7-29
+Vehicle lights .................................. 7-31
+Supporting the motorcycle ............. 7-31
+Troubleshooting ............................. 7-32
+Troubleshooting chart..................... 7-33
+Motorcycle care and storage ............ 8-1
+Matte color caution........................... 8-1
+Care.................................................. 8-1
+Storage ............................................ 8-4
+Specifications .................................... 9-1
+Consumer information .................... 10-1
+Identification  numbers.................... 10-1
+Diagnostic connector ..................... 10-2
+Use of your data.............................. 10-3
+Index ................................................. 11-1Table of contentsEAU1028C
+ 
+Be a Responsible Owner
+As
+ the vehicle’s owner, you are respon-
+sible for the safe and proper  operation
+of your motorcycle.
+Motorcycles are single-track vehicles.
+Their  safe use and operation  are de-
+pendent  upon  the use of proper  riding
+techniques  as well as the expertise  of
+the operator.  Every  operator  should
+know  the following  requirements  be-
+fore riding this motorcycle.
+He or she should:
+lObtain  thorough  instructions  from
+a competent source on all aspects
+of motorcycle operation.
+lObserve the warnings and mainte-
+nance  requirements  in this Own-
+er’s Manual.
+lObtain  qualified  training  in safe
+and proper riding techniques.
+lObtain  professional  technical
+service  as indicated  in this Own-
+er’s Manual  and/or  when  made
+necessary  by mechanical  condi-
+tions.lNever  o perate  a motorcycle  with-
+out proper  training  or instruction.
+Take  a training  course.  Beginners
+should  receive  training  from a cer-
+tified  instructor.  Contact  an au-
+thorized  motorcycle  dealer  to find
+out about  the training  courses
+nearest you.
+Safe Riding
+Perform the pre-operation checks each
+time you use the vehicle to make sure it
+is in safe operating condition. Failure to
+inspect or maintain the vehicle properly
+increases  the possibility  of an accident
+or equipment  damage.  See page
+5-1 for a list of pre-operation
+checks.
+lThis motorcycle  is designed  to
+carry  the operator  and a passen-
+ger.
+lThe failure  of motorists  to detect
+and recognize  motorcycles  in traf-
+fic is the predominating  cause  of
+automobile/motorcycle accidents.
+Many accidents have been caused
+by an automobile  driver  who did
+not see the motorcycle.  Making
+yourself  conspicuous  appears  tobe very e ffective  in reducing  the
+chance of this type of accident.
+Therefore:
+• Wear a brightly colored jacket.
+• Use  extra  caution  when  you are
+approaching  and passing
+through  intersections,  since  in-
+tersections  are the most  likely
+places for motorcycle accidents
+to occur.
+• Ride  where  other  motorists  can
+see you. Avoid  riding  in another
+motorist’s blind spot.
+• Never  maintain  a motorcycle
+without  proper  knowledge.
+Contact an authorized motorcy-
+cle dealer to inform you on basic
+motorcycle  maintenance.  Cer-
+tain maintenance  can only be
+carried out by certified staff.
+lMany  accidents  involve  inexper-
+ienced  operators.  In fact, many
+operators who have been involved
+in accidents  do not even have a
+current motorcycle license.
+• Make sure that you are qualified
+and that you only lend your mo-
+torcycle  to other  qualified  oper-
+ators.
+Safety information
+1-11• Know  your s kills and limits.
+Staying  within  your limits  may
+help you to avoid an accident.
+• We  recommend  that you prac-
+tice riding  your motorcycle
+where there is no traffic until you
+have become  thoroughly  famili-
+ar with the motorcycle and all of
+its controls.
+lMany accidents have been caused
+by error of the motorcycle  opera-
+tor. A typical error made by the op-
+erator is veering wide on a turn due
+to excessive  speed  or undercor-
+nering  (insufficient  lean angle  for
+the speed).
+• Always obey the speed limit and
+never travel faster than warrant-
+ed by road and traffic  condi-
+tions.
+• Always  signal  before  turning  or
+changing  lanes.  Make  sure that
+other motorists can see you.
+lThe posture  of the operator  and
+passenger  is important  for proper
+control.
+• The  operator  should  keep  both
+hands  on the handlebar  and
+both feet on the operator  footr-ests during  o peration  to main-
+tain control of the motorcycle.
+• The  passenger  should  always
+hold onto the operator,  the seat
+strap  or grab bar, if equipped,
+with both hands  and keep  both
+feet on the passenger footrests.
+Never  carry  a passenger  unless
+he or she can firmly  place  both
+feet on the passenger footrests.
+lNever  ride under  the influence  of
+alcohol or other drugs.
+lThis motorcycle  is designed  for
+on-road  use only. It is not suitable
+for off-road use.
+Protective Apparel
+The majority  of fatalities  from motorcy-
+cle accidents are the result of head inju-
+ries. The use of a safety  helmet  is the
+single most critical factor in the preven-
+tion or reduction of head injuries.
+lAlways wear an approved helmet.
+lWear  a face shield  or goggles.
+Wind  in your unprotected  eyes
+could  contribute  to an impairment
+of vision  that could  delay  seeing  a
+hazard.lThe u se  of a jacket,  heavy  boots,
+trousers,  gloves,  etc., is effective
+in preventing  or reducing  abra-
+sions or lacerations.
+lNever  wear  loose-fitting  clothes,
+otherwise  they could  catch  on the
+control levers, footrests, or wheels
+and cause injury or an accident.
+lAlways  wear  protective  clothing
+that covers  your legs, ankles,  and
+feet. The engine or exhaust system
+become  very hot during  or after
+operation and can cause burns.
+lA passenger  should  also observe
+the above precautions.
+Avoid Carbon Monoxide Poisoning
+All engine  exhaust  contains  carbon
+monoxide, a deadly gas. Breathing car-
+bon monoxide  can cause  headaches,
+dizziness,  drowsiness,  nausea,  confu-
+sion, and eventually death.
+Carbon  Monoxide  is a colorless,  odor-
+less, tasteless  gas which  may be
+present  even if you do not see or smell
+any engine  exhaust.  Deadly  levels  of
+carbon  monoxide  can collect  rapidly
+and you can quickly  be overcome  and
+unable  to save yourself.  Also,  deadly
+Safety information
+1-21levels  of c arbon  monoxide  can linger
+for hours  or days in enclosed  or poorly
+ventilated  areas.  If you experience  any
+symptoms  of carbon  monoxide  poi-
+soning, leave the area immediately, get
+fresh  air, and SEEK  MEDICAL  TREAT-
+MENT.
+lDo not run engine  indoors.  Even  if
+you try to ventilate  engine  exhaust
+with fans or open  windows  and
+doors,  carbon  monoxide  can rap-
+idly reach dangerous levels.
+lDo not run engine  in poorly  venti-
+lated  or partially  enclosed  areas
+such  as barns,  garages,  or car-
+ports.
+lDo not run engine  outdoors  where
+engine  exhaust  can be drawn  into
+a building  through  openings  such
+as windows and doors.
+Loading
+Adding  accessories  or cargo  to your
+motorcycle can adversely affect stabili-
+ty and handling  if the weight  distribu-
+tion of the motorcycle  is changed.  To
+avoid the possibility of an accident, use
+extreme  caution  when  adding  cargo  or
+accessories  to your motorcycle.  Useextra  care w hen riding  a motorcycle
+that has added  cargo  or accessories.
+Here,  along  with the information  about
+accessories  below,  are some  general
+guidelines  to follow  if loading  cargo  to
+your motorcycle:
+The total weight  of the operator,  pas-
+senger,  accessories  and cargo  must
+not exceed  the maximum  load limit.
+Operation  of an overloaded  vehicle
+could cause an accident.
+Maximum load:
+171 kg (377 lb)
+When  loading  w ithin this weight  limit,
+keep the following in mind:
+lCargo  and accessory  weight
+should be kept as low and close to
+the motorcycle  as possible.  Se-
+curely pack your heaviest items as
+close to the center of the vehicle as
+possible  and make  sure to distrib-
+ute the weight  as evenly  as possi-
+ble on both  sides  of the
+motorcycle  to minimize  imbalance
+or instability.
+lShifting  weights  can create  a sud-
+den imbalance. Make sure that ac-cessories  an d cargo  are securely
+attached  to the motorcycle  before
+riding.  Check  accessory  mounts
+and cargo restraints frequently.
+• Properly  adjust  the suspension
+for your load (suspension-ad-
+justable  models  only),  and
+check  the condition  and pres-
+sure of your tires.
+• Never  attach  any large  or heavy
+items  to the handlebar,  front
+fork, or front fender.  These
+items,  including  such  cargo  as
+sleeping  bags,  duffel  bags,  or
+tents,  can create  unstable  han-
+dling  or a slow steering  re-
+sponse.
+lThis vehicle  is not designed  to
+pull a trailer  or to be attached  to
+a sidecar.
+Genuine Yamaha Accessories
+Choosing  accessories  for your vehicle
+is an important  decision.  Genuine
+Yamaha  accessories,  which  are availa-
+ble only from a Yamaha  dealer,  have
+been  designed,  tested,  and approved
+by Yamaha for use on your vehicle.
+Safety information
+1-31Many companies with no connection to
+Ya
+maha manufacture parts and acces-
+sories  or offer other  modifications  for
+Yamaha  vehicles.  Yamaha  is not in a
+position  to test the products  that these
+aftermarket  companies  produce.
+Therefore,  Yamaha  can neither  en-
+dorse  nor recommend  the use of ac-
+cessories  not sold by Yamaha  or
+modifications  not specifically  recom-
+mended  by Yamaha,  even if sold and
+installed by a Yamaha dealer.
+Aftermarket Parts, Accessories,
+and Modifications
+While  you may find aftermarket  prod-
+ucts similar  in design  and quality  to
+genuine  Yamaha  accessories,  recog-
+nize that some aftermarket accessories
+or modifications  are not suitable  be-
+cause  of potential  safety  hazards  to
+you or others.  Installing  aftermarket
+products  or having  other  modifications
+performed  to your vehicle  that change
+any of the vehicle’s design or operation
+characteristics  can put you and others
+at greater risk of serious injury or death.
+You are responsible  for injuries  related
+to changes in the vehicle.Keep  the f ollowing  guidelines  in mind,
+as well as those  provided  under  “Loa-
+ding” when mounting accessories.
+lNever  install  accessories  or carry
+cargo  that would  impair  the per-
+formance  of your motorcycle.
+Carefully  inspect  the accessory
+before  using  it to make  sure that it
+does  not in any way reduce
+ground  clearance  or cornering
+clearance,  limit suspension  travel,
+steering  travel  or control  opera-
+tion, or obscure lights or reflectors.
+• Accessories  fitted  to the han-
+dlebar  or the front fork area can
+create instability due to improp-
+er weight distribution or aerody-
+namic  changes.  If accessories
+are added  to the handlebar  or
+front fork area,  they must  be as
+lightweight  as possible  and
+should be kept to a minimum.
+• Bulky  or large  accessories  may
+seriously  affect  the stability  of
+the motorcycle  due to aerody-
+namic  effects.  Wind  may at-
+tempt  to lift the motorcycle,  or
+the motorcycle  may become
+unstable  in cross  winds.  Theseaccessories  ma y also cause  in-
+stability  when  passing  or being
+passed by large vehicles.
+• Certain  accessories  can dis-
+place  the operator  from his or
+her normal  riding  position.  This
+improper  position  limits  the
+freedom  of movement  of the
+operator  and may limit control
+ability, therefore, such accesso-
+ries are not recommended.
+lUse caution  when  adding  electri-
+cal accessories. If electrical acces-
+sories  exceed  the capacity  of the
+motorcycle’s  electrical  system,  an
+electric  failure  could  result,  which
+could  cause  a dangerous  loss of
+lights or engine power.
+Aftermarket Tires and Rims
+The tires and rims that came  with your
+motorcycle  were  designed  to match
+the performance  capabilities  and to
+provide  the best combination  of han-
+dling, braking, and comfort. Other tires,
+rims,  sizes,  and combinations  may not
+be appropriate.  See page  7-15 for
+tire specifications  and for information
+on servicing and replacing your tires.
+Safety information
+1-41Transporting the Motorcycle
+Be s
+ure to observe  following  instruc-
+tions  before  transporting  the motorcy-
+cle in another vehicle.
+lRemove  all loose  items  from the
+motorcycle.
+lCheck  that the fuel cock  (if equip-
+ped) is in the off position  and that
+there are no fuel leaks.
+lShift the transmission into gear (for
+models  with a manual  transmis-
+sion).
+lSecure  the motorcycle with  tie-
+downs  or suitable  straps  that are
+attached  to solid parts  of the mo-
+torcycle,  such as the frame  or up-
+per front fork triple clamp (and not,
+for example,  to rubber-mounted
+handlebars or turn signals, or parts
+that could  break).  Choose  the lo-
+cation  for the straps  carefully  so
+the straps  will not rub against
+painted surfaces during transport.
+lThe suspension  should  be com-
+pressed  somewhat  by the tie-
+downs,  if possible,  so that the
+motorcycle will not bounce exces-
+sively during transport.
+Safety information
+1-51EAU10411
+Le
+ft view
+1
+62, 3 45
+789
+1. Headlight (page 7-31)
+2. ERS coupler (page 4-36)
+3. Spring preload adjuster (page 4-36)
+4. Battery (page 7-28)
+5. Fuses (page 7-29)
+6. Spring preload adjuster (page 4-37)
+7. Shift pedal (page 4-29)
+8. Engine oil level check window (page 7-10)9. Engine oil filter cartridge  (page 7-10)Description
+2-12EAU10421
+Ri
+ght view
+6 8 7 52 1 3, 4
+1. Tool kit (page 7-2)
+2. Fuel tank cap (page 4-32)
+3. ERS coupler (page 4-36)
+4. Spring preload adjuster (page 4-37)
+5. Coolant reservoir (page 7-11)
+6. Engine oil filler cap  (page 7-10)
+7. Brake pedal (page 4-30)8. Rear brake fluid r eservoir (page 7-20)Description
+2-22EAU10431
+Co
+ntrols and instruments
+1 2 3 4 6 7 8 9 5
+1. Clutch lever (page 4-29)
+2. Left handlebar switches (page 4-3)
+3. Main switch/steering lock (page 4-2)
+4. Instrument panel (page 4-5, 4-9)
+5. Power outlet (page 4-39)
+6. Front brake fluid r eservoir (page 7-20)
+7. Right handlebar switches (page 4-3)
+8. Throttle grip9. Brake lever (page 4-30)Description
+2-32EAU93653
+YR
+C (Yamaha Ride Control)
+Yamaha  Ride Control  is a system  that
+incorporates  numerous  sensors  and
+controls  to support  an improved  riding
+experience.  The vehicle  senses  and
+can react  to forces  along  the longitudi-
+nal (front-to-back), lateral (left-to-right),
+and vertical  (up-and-down)  axes.  Lean
+angle  and  G-force  accelerations  are
+also detected. This information is proc-
+essed  multiple  times  a second  and the
+related  physical  systems  are automati-
+cally adjusted  as necessary.  The fol-
+lowing  functions  represent  individual
+YRC items  which  can be turned  on/off
+or adjusted  to suit various  riders  and
+riding  conditions.  For setting  details,
+see pages 4-15 and 4-19.
+EWA18221
+WARNING
+The Yamaha Ride Control (YRC) sys-
+te
+m is not a substitute  for the use of
+proper  riding  techniques  or the ex-
+pertise  of the operator.  This system
+cannot  prevent  loss of control
+caused  by rider  errors  such  as trav-
+eling  faster  than warranted  by road
+and traffic  conditions,  including  lossof traction  d ue to excessive  speed
+when  entering  turns,  when  acceler-
+ating  hard  at a sharp  lean angle,  or
+while  braking,  and it cannot  prevent
+front  wheel  slip or front  wheel  lift. As
+with any motorcycle,  always  ride
+within in your limits, be aware of sur-
+rounding conditions, and ride appro-
+priately  for those  conditions.
+Become  thoroughly  familiar  with the
+way the motorcycle  handles  with
+various  YRC  settings  before  at-
+tempting  more  advanced  maneu-
+vers.
+PWR
+Th
+e power  delivery  mode  system  con-
+sists of four different  control  maps
+which regulate throttle valve opening in
+relation  to the degree  of throttle  grip
+operation, thus providing you with a se-
+lection of modes to fit your preferences
+and the riding environment.
+5
+6432
+11. PWR 1
+2. PWR 2
+3. PWR 3
+4. PWR 4
+5. Throttle valve opening
+6. Throttle grip operation
+Traction control system
+Th
+e traction  control  system  helps
+maintain  traction  when  accelerating.  If
+sensors  detect  that the rear wheel  is
+starting  to slip (uncontrolled  spinning),
+the traction  control  system  assists  by
+regulating engine power as needed un-
+til traction is restored. The traction con-
+trol system  indicator/warning  light
+flashes  to let the rider know  that trac-
+tion control has engaged.Special features
+3-13This traction  c ontrol  system  automati-
+cally adjusts  according  to the vehicle’s
+lean angle.  To maximize  acceleration,
+when  the vehicle  is upright  a less
+amount  of traction  control  is applied.
+When  cornering,  a greater  amount  of
+traction control is applied.
+Traction control system
+TIP
+lThe t raction  control  system  may
+engage  when  the vehicle  travels
+over a bump.
+lYou may notice  slight  changes  in
+engine  and exhaust  sounds  when
+the traction  control  or other  YRC
+systems engage.
+lWhen  the traction  control  system
+is turned  off the SCS and LIF are
+also turned off automatically.EWA15433
+WARNING
+The traction  c ontrol  system  is not a
+substitute for riding appropriately for
+the conditions. Traction control can-
+not prevent  loss of traction  due to
+excessive  speed  when  entering
+turns,  when  accelerating  hard  at a
+sharp  lean angle,  or while  braking,
+and cannot  prevent  front  wheel  slip-
+ping.  As with any vehicle,  approach
+surfaces  that may be slippery  with
+caution and avoid especially slippery
+surfaces.
+When  the k ey is turned  to “ON”,  the
+traction  control  system  automatically
+turns  on. The traction  control  system
+can be turned  on or off manually  only
+when  the key is in the “ON”  position
+and the motorcycle is stopped.
+TIP
+Turn the t raction  control  system  off to
+help free the rear wheel  if the motorcy-
+cle gets stuck  in mud,  sand,  or other
+soft surfaces.ECA16801
+NOTICE
+Use only t he specified  tires.  (See
+page  7-15.)  Using  different  sized
+tires will prevent  the traction  control
+system  from  controlling  tire rotation
+accurately.
+SCS
+Th
+e slide control  system  regulates  en-
+gine power  output  when  a sideward
+slide is detected in the rear wheel. It ad-
+justs power  output  based  on data from
+the IMU. This system supports the trac-
+tion control  system  to contribute  to a
+smoother ride.
+EBM
+The engine brake management system
+reduces engine torque when decelerat-
+ing. The fuel injection,  ignition  timing,
+and electronic  throttle  valve  are elec-
+tronically  adjusted  by the ECU.  There
+are 2 settings  to suit the track,  riding
+conditions,  or your personal  prefer-
+ence.Special features
+3-231
+2
+3
+41. EBM1
+2. EBM2
+3. Engine brake force
+4. Engine r/min
+EWA20880
+WARNING
+Make  sure t he engine  has sufficient-
+ly slowed  before  shifting  to a lower
+gear.  Engaging  a lower  gear  when
+the engine  speed  is too high could
+make  the rear wheel  lose traction.
+This could  cause  loss of control,  an
+accident  and injury.  It could  also
+cause engine or drivetrain damage.
+Quick shifter
+Th
+e quick  shifter  allows  for clutch  lev-
+er-less,  electronically-assisted  shifting.When  the s ensor  on the shift rod de-
+tects the appropriate motion in the shift
+pedal,  engine  power  output  is momen-
+tarily adjusted  to allow  for the gear
+change to occur.
+The quick  shifter  does  not operate
+when  the clutch  lever is pulled,  there-
+fore normal  shifting  can be done  even
+when  the quick  shifter  is set to on.
+Check  the quick  shifter  indicator  for
+current  status  and usability  informa-
+tion.
+Quick shifter usability Indicator
+Upshifting OK
+Downshifting OK
+Upshifting and downshift-
+in
+g OK
+Quick shifter cannot be
+us
+ed
+Quick shifter turned off
+ 
+Up
+shifting conditions
+lVehicle  speed  of at least 20 km/h
+(12 mi/h)
+lEngine  speed  of at least 2100
+r/min
+ 
+Downshifting conditionslVehicle  s peed  of at least 20 km/h
+(12 mi/h)
+lEngine  speed  of at least 2000
+r/min
+lEngine  speed  sufficiently  away
+from red zone
+TIP
+lQS 
+ and QS 
+  can be individu-
+al
+ly set.
+lShifting  into or out of neutral  must
+be done using the clutch lever.
+LIF
+Th
+e lift control  system  reduces  the rate
+at which the front wheel will continue to
+rise during  extreme  acceleration,  such
+as during  starts  or out-of-corner  exits.
+When  front-wheel  lift is detected,  en-
+gine power  is regulated  to slow front-
+wheel  lift while  still providing  good
+acceleration.
+BC
+The brake control system regulates hy-
+draulic  brake  pressure  for the front and
+rear wheels  when  the brakes  are ap-
+plied  and wheel  lock is detected.  This
+system has two settings.Special features
+3-33BC1 is s tandard  ABS,  which  adjusts
+brake pressure based on vehicle speed
+and wheel  speed  data.  BC1 is de-
+signed  to engage  and maximize  brak-
+ing when the vehicle is upright.
+BC2 uses additional  data from the IMU
+to regulate  applied  brake  power  when
+cornering  to suppress  lateral  wheel
+slip.
+ABSBC1/BC2 BC2 BC2
+EWA20891
+WARNING
+The brake c ontrol  system  is not a
+substitute  for the use of proper  rid-
+ing and braking  techniques.  The
+brake control system cannot prevent
+all loss of traction  due to over-brak-
+ing from  excessive  speed,  or lateralwheel  slip w hen braking  on slippery
+surfaces.
+ERS
+Th
+e electronic  racing  suspension  by
+ÖHLINS®  features  OBTi  (objective-
+based  tuning  interface)  for simplified,
+situation-focused setting  changes  of
+the automatic  suspension  control
+modes.  In addition,  there  are manual
+modes  which  offer a finely-tuneable
+traditional suspension set-up. The ERS
+system  is controlled  by the SCU which
+can adjust  the front and rear suspen-
+sion’s  compression  stroke  and re-
+bound  stroke  damping  forces
+independently.  The automatic  modes
+will adjust  suspension  damping  forces
+based on running conditions.EAU93660
+Gl
+ossary
+ABS - Anti-lock Brake System
+ABS ECU - Anti-lock  Brake  System
+Electronic Control Unit
+BC - Brake Control
+EBM - Engine Brake Management
+ECU - Engine Control Unit
+ERS - Electronic Racing Suspension
+IMU - Inertial Measurement Unit
+LIF - Lift Control System
+PWR - Power delivery mode
+SC - Stability Control
+SCS - Slide Control System
+SCU - Suspension Control Unit
+YRC - Yamaha Ride ControlSpecial features
+3-43EAU66912
+YR
+C functions visual guide
+BC2EBM
+BC1/BC2
+1. Start
+2. Acceleration
+3. Braking
+4. Apex
+5. Exit
+6. StraightawaySpecial features
+3-53EAU94382
+Cr
+uise control system
+This model  is equipped  with a cruise
+control  system  designed  to maintain  a
+set cruising  speed  without  the need  to
+hold open the throttle by hand.
+The cruise  control  system  operates
+only when  riding  in 4th, 5th or 6th gear
+at speeds  between  approximately  50
+km/h  (31 mi/h)  and 192 km/h  (119
+mi/h).
+EWA21240
+WARNING
+lImproper  u se of the cruise  con-
+trol system  may result  in loss of
+control,  which  could  lead to an
+accident.  Do not activate  the
+cruise  control  system  in heavy
+traffic, poor weather conditions,
+or among  winding,  slippery,
+hilly, rough or gravel roads.
+lWhen  traveling  uphill  or down-
+hill, the cruise  control  system
+may not be able to maintain  the
+set cruising speed.
+lTo prevent  accidentally  activat-
+ing the cruise  control  system,
+turn it off when  not in use. Makesure that t he  cruise  control  sys-
+tem indicator light “
+ ” is off.
+QS
+1000 r/min
+TRIP-1
+MODE-ATRIP-21 2
+1. Cruise control setting indicator light “
+ ”
+2. Cruise control system indicator light “
+ ”
+RES
+SETMODE
+PASS1
+2
+3
+1. Cruise control/YVSL setting switch
+“RES+”
+2. Cruise control/YVSL power switch “
+ ”
+3. Cruise control/YVSL setting switch “SET–”Activating and setting the cruise
+contr ol system
+1
+. Push  the cruise  control/YVSL
+power  switch  “
+” located  o n  the
+left handlebar.  The cruise  control
+system  indicator  light “
+” will
+c
+ome on.
+2. Push  the “SET–”  side of the cruise
+control/YVSL  setting  switch  to ac-
+tivate  the cruise  control  system.
+Your current  traveling  speed  will
+become  the set cruising  speed.
+The cruise control setting indicator
+light “
+ ” will come on.
+Adjusting the set cruising speed
+Wh
+ile the cruise control system is oper-
+ating,  push  the “RES+”  side of the
+cruise  control/YVSL  setting  switch  to
+increase  the set cruising  speed  or the
+“SET–” side to decrease the set speed.
+TIP
+Pushing  the s etting  switch  once  will
+change  the set speed  in increments  of
+approximately  1.0 km/h  (1.0 mi/h).
+Holding  the setting  switch  will change
+the set speed  in increments  of 10 km/h
+(10 mi/h).Special features
+3-63You can a lso  manually  increase  your
+traveling  speed  using  the throttle.  After
+you have accelerated,  you can set a
+new cruising  speed  by pushing  the
+“SET–” side of the setting switch. If you
+do not set a new cruising  speed,  when
+you decrease  the throttle,  the vehicle
+will decelerate  to the previously  set
+cruising speed.
+TIP
+The current  c ruise control  speed  set-
+ting can be viewed on the vehicle infor-
+mation displays. (See page 4-11.)
+Deactivating the cruise contr ol
+system
+P
+erform one of the following operations
+to cancel  the set cruising  speed.  The
+“
+” indicator light will go off.
+lTu
+rn the throttle  grip past the
+closed  position  in the deceleration
+direction.
+11. Deceleration direction
+lApply the front or rear brake.
+lD
+isengage the clutch.
+lShift gears
+Push  the cruise  control/YVSL  power
+switch “
+ ” to turn off the cruise control
+sy
+stem. The “
+ ” indicator light and the
+“
+” indicator light will go off.
+TIP
+Traveling  speed  d ecreases  as soon  as
+the cruise  control  system  is deactivat-
+ed; unless the throttle grip is turned.
+Using the resume function
+Pu
+sh the “RES+”  side of the cruise
+control/YVSL  setting  switch  to reacti-
+vate the cruise  control  system.  The
+traveling  speed  will return  to the previ-ously set cruising speed. The “
+ ” indi-
+ca
+tor light will come on.
+EWA16351
+WARNING
+It is d angerous  to use the resume
+function  when  the previously  set
+cruising speed is too high for current
+conditions.
+TIP
+Pushing the cruise control/YVSL power
+sw
+itch “
+ ” while the system is operat-
+in
+g will turn the system  off completely
+and erase  the previously  set cruising
+speed.  You will not be able to use the
+resume  function  until a new cruising
+speed has been set.
+Automatic deactivation of the cruise
+control system
+Th
+e cruise control system for this mod-
+el is electronically  controlled  and is
+linked  with the other  control  systems.
+The cruise control system will automat-
+ically  deactivate  under  the following
+conditions:Special features
+3-73lThe c ruise  control  system  is not
+able to maintain  the set cruising
+speed.
+lWheel  slip or wheel  spin is detect-
+ed. (If the traction  control  system
+has not been  turned  off, the trac-
+tion control  system will operate
+normally  while  the cruise  control
+system is active)
+lThe start/engine  stop switch  is set
+to the “
+ ” position.
+lTh
+e engine stalls.
+lThe sidestand is lowered.
+When  traveling  with a set cruising
+speed,  if the cruise  control  system  is
+deactivated  under  the above  condi-
+tions,  the “
+” indicator  l ight  will go off
+and the “
+ ” indicator light will flash for
+4 
+seconds, and then go off.
+When  not traveling  with a set cruising
+speed, if the start/engine stop switch is
+set to the “
+” position,  t he engine
+stalls,  or the sidestand  is lowered,  then
+the “
+” indicator  l ight will go off (the
+“
+” indicator light will not flash).
+If
+ the cruise control system is automati-
+cally deactivated, please stop and con-
+firm that your vehicle  is in good
+operating condition.Before  using t he cruise  control  system
+again,  activate  it using  the cruise  con-
+trol/YVSL power switch “
+ ”.
+TIP
+In some c ases,  the cruise  control  sys-
+tem may not be able to maintain the set
+cruising speed when the vehicle is trav-
+eling uphill or downhill.
+lWhen the vehicle is traveling uphill,
+the actual traveling speed may be-
+come  lower  than the set cruising
+speed. If this occurs, accelerate to
+the desired  traveling  speed  using
+the throttle.
+lWhen  the vehicle  is traveling
+downhill,  the actual  traveling
+speed  may become  higher  than
+the set cruising  speed.  If this oc-
+curs,  the cruise  control/YVSL  set-
+ting switch  cannot  be used  to
+adjust  the set cruising  speed.  To
+reduce  the traveling  speed,  apply
+the brakes.  When  the brakes  are
+applied,  the cruise  control  system
+will deactivate.EAU93493
+Ya
+maha variable speed
+limiter (YVSL)
+This model  is equipped  with the
+Yamaha  variable  speed  limiter  (YVSL)
+which  limits  the vehicle  to a maximum
+speed set by the rider.
+The YVSL can be set to any speed limit
+between  50 km/h  (31 mi/h)  and 192
+km/h  (119 mi/h).  When  the set speed
+limit is reached, the engine output is re-
+stricted  to keep  the vehicle  from ex-
+ceeding  set speed  limit without  throttle
+control.
+EWA21200
+WARNING
+lImproper  u se of the YVSL  sys-
+tem may result in loss of control,
+which could lead to an accident.
+Do not activate the YVSL system
+in heavy  traffic,  poor weather
+conditions,  or among  winding,
+slippery,  hilly,  rough  or gravel
+roads.
+lThe YVSL  system  may not be
+able to maintain  the set speed
+limit when  traveling  uphill,
+downhill,  or under  sudden  ac-
+celeration.Special features
+3-83lTo p revent  accidentally  activat-
+ing the YVSL  system,  turn it off
+when  not in use. Make  sure that
+the YVSL display is off.
+km/h
+ 1 2 N12:00  EBM 1
+  3 SCSkm/h50LIM
+OFF OFF A-131
+2
+1. YVSL display
+2. Speed setting indicator
+3. YVSL “
+ ” indicator icon
+RES
+SETMODE
+PASS1
+2
+3
+1. Cruise control/YVSL setting switch
+“RES+”2. Cruise control/YVSL power switch “
+ ”
+3. Cruise control/YVSL setting switch “SET–”
+TIP
+In some c ases,  the YVSL  system  may
+not be able to maintain  the set speed
+limit when  the vehicle  is traveling
+downhill,  under  sudden  acceleration,
+or immediately following a gear shift.
+lIf the vehicle  exceeds  the set
+speed  limit by 5 km/h  (3 mi/h)  or
+more for more than 3 seconds, the
+YVSL  “
+ ” indicator  i con will
+flash until the vehicle  speed  de-
+creases to within the limit.
+lIf the vehicle  traveling  speed  be-
+comes  higher  than the set speed
+limit, apply the brakes.
+When the YVSL disengages, engine
+output  is gradually  derestricted  to en-
+sure a smooth  transition  to full rider
+control of the throttle.
+Activating and setting the YVSL
+1.
+Push  the cruise  control/YVSL
+power  switch  “
+” located  o n  the
+left handlebar.  The cruise  controlsystem  indicator  l ight “
+” will
+c
+ome on.
+2. Push  the cruise  control/YVSL
+power  switch  “
+” a second  t ime
+to switch  to the YVSL  standby
+mode.  The fuel meter  (gear  indica-
+tor in track  mode)  will be replaced
+by the YVSL display with the YVSL
+“
+ ” indicator  i con  and a speed
+setting indicator.
+3. Push  the “SET–”  side of the cruise
+control/YVSL  setting  switch  to ac-
+tivate  the YVSL.  The YVSL  “
+ ”
+in
+dicator icon will come on and the
+speed  limit will be set to your cur-
+rent traveling  speed  which  will be
+shown  on the YVSL  speed  setting
+indicator.
+TIP
+lPushing  t he cruise  control/YVSL
+power switch “
+ ” while the cruise
+co
+ntrol system  is active  and the
+cruise  control  setting  indicator
+light “
+” is o n  will also switch  to
+the YVSL standby mode.
+lThe cruise  control  system  and the
+YVSL  control  system  cannot  both
+be active at the same time.Special features
+3-93lIf t he  color  of the speed  setting  in-
+dicator  icon has changed  and
+flashes,  have  a Yamaha  dealer
+check the vehicle.
+km/h
+ 1 2 N12:00  EBM 1
+  3 SCSkm/hLIM
+OFF OFF A-11
+1. Speed setting indicator icon
+Adjusting the speed limit
+Wh
+ile the YVSL  is activated,  push  the
+“RES+” side of the cruise control/YVSL
+setting switch to increase the set speed
+limit or the “SET–” side to decrease the
+set speed limit.
+TIP
+Pushing  the s etting  switch  once  will
+change  the set speed  in increments  of
+approximately  1.0 km/h  (1.0 mi/h).
+Holding  the setting  switch  will changethe set s peed  in increments  of 10 km/h
+(10 mi/h).
+Deactivating the YVSL
+Wh
+en the YVSL  is disengaged,  engine
+output  is gradually  derestricted  to en-
+sure a smooth  transition  to full rider
+control of the throttle.
+Perform one of the following operations
+to deactivate the YVSL:
+lTurn the throttle  grip past the
+closed  position  in the deceleration
+direction. The YVSL “
+ ” indica-
+to
+r icon will go off and the system
+will return to standby mode.
+1
+1. Deceleration direction
+lPush t he  cruise  control/YVSL
+power  switch  “
+” located  o n  theleft handlebar.  T he YVSL  display
+will go off and return  to the fuel
+meter (gear display in track mode).
+Using the resume function
+Push  the “RES+”  side of the cruise
+control/YVSL  setting  switch  to reacti-
+vate the YVSL  when  in standby  mode.
+The speed  limit will return  to the previ-
+ously  set speed  limit. The YVSL  “
+ ”
+in
+dicator icon will come on.
+EWA21210
+WARNING
+It is d angerous  to use the resume
+function  when  the previously  set
+speed  limit is too low for current
+conditions.
+TIP
+Pushing the cruise control/YVSL power
+sw
+itch “
+” while t he  YVSL  system  is
+operating  will turn the system  off com-
+pletely  and erase  the previously  set
+speed  limit. You will not be able to use
+the resume  function  until a new speed
+limit has been set.Special features
+3-103EAU1097B
+Im
+mobilizer system
+1. Code re-registering key (red bow)
+2. Standard keys (black bow)
+This vehicle  i s equipped  with an immo-
+bilizer  system  to help prevent  theft by
+re-registering  codes  in the standard
+keys.  This system  consists  of the fol-
+lowing:
+la code re-registering key
+ltwo standard keys
+la transponder (in each key)
+lan immobilizer unit (on the vehicle)
+lan ECU (on the vehicle)
+la system  indicator  light (page
+4-7)About the keys
+Th
+e code  re-registering  key is used  to
+register  codes  in each  standard  key.
+Store  the code  re-registering  key in a
+safe place. Use a standard key for daily
+operation.
+When  key replacement  or re-register-
+ing is necessary,  bring  the vehicle  and
+the code  re-registering  key along  with
+any remaining  standard  keys to a
+Yamaha  dealer  to have them  re-regis-
+tered.
+TIP
+lKeep t he  standard  keys as well as
+keys of other  immobilizer  systems
+away  from the code  re-registering
+key.
+lKeep  other  immobilizer  system
+keys away from the main switch as
+they may cause  signal  interfer-
+ence.
+ECA11823
+NOTICE
+DO NOT L OSE  THE CODE  RE-REG-
+ISTERING  KEY!  CONTACT  YOUR
+DEALER  IMMEDIATELY  IF IT IS
+LOST!  If the code  re-registering  key
+is lost, the existing  standard  keyscan still b e  used  to start  the vehicle.
+However, registering a new standard
+key is impossible.  If all keys  have
+been  lost or damaged,  the entire  im-
+mobilizer  system  must  be replaced.
+Therefore, handle the keys carefully.
+lDo not submerse in water.
+lDo not expose  to high tempera-
+tures.
+lDo not place near magnets.
+lDo not place  near  items  that
+transmit electrical signals.
+lDo not handle roughly.
+lDo not grind or alter.
+lDo not disassemble.
+lDo not put two keys  of any im-
+mobilizer  system  on the same
+key ring.Instrument and control functions
+4-14EAU10474
+Ma
+in switch/steering lock
+ONOFF
+LOCK
+The main s witch/steering  lock controls
+the ignition and lighting systems, and is
+used  to lock the steering.  The various
+positions are described below.
+TIP
+Be sure t o  use the standard  key (black
+bow)  for regular  use of the vehicle.  To
+minimize  the risk of losing  the code  re-
+registering  key (red bow),  keep  it in a
+safe place  and only use it for code  re-
+registering.
+EAU84035
+ON
+A
+ll electrical  circuits  are supplied  with
+power  and the vehicle  lights  are turnedon. The e ngine  can be started.  The key
+cannot be removed.
+TIP
+lThe h eadlight(s)  will turn on when
+the engine is started.
+lTo prevent  battery  drain,  do not
+leave  the key in the “ON”  position
+without the engine running.
+EAU10664
+OF
+F
+All electrical  systems  are off. The key
+can be removed.
+EWA10062
+WARNING
+Never  turn t he key to “OFF”  or
+“LOCK”  while  the vehicle  is moving.
+Otherwise the electrical systems will
+be switched  off, which  may result  in
+loss of control or an accident.
+EAU73803
+LO
+CK
+The steering  is locked  and all electrical
+systems  are off. The key can be re-
+moved.To lock the steering
+1 2
+1. Push.
+2. Turn.
+1. Turn  the h andlebars  all the way to
+the left.
+2. With  the key in the “OFF”  position,
+push  the key in and turn it to
+“LOCK”.
+3. Remove the key.
+TIP
+If the s teering  will not lock, try turning
+the handlebars  back  to the right slight-
+ly.Instrument and control functions
+4-24To unlock the steering
+1 2
+1. Push.
+2. Turn.
+Push the key in and turn it to “OFF”.EAU66059
+Ha
+ndlebar switches
+Left
+RES
+SETMODE
+PASS2 3
+4
+5
+61
+8
+7
+1. “MODE” switch
+2. MODE up “
+ ” switch
+3. MODE down “
+ ” switch
+4. Cruise control/YVSL switches
+5. Hazard switch “
+ ”
+6. Horn switch “
+ ”
+7. Turn signal switch “
+ /
+”
+8. Dimmer/Pass switch “
+ /
+/PASS”Right
+11
+22
+1. Stop/Run/Start switch “
+ /
+/
+”
+2. Wheel switch “
+ ”
+EAU91630
+Di
+mmer/Pass switch “
+ /
+/
+PA
+SS”
+Set this switch  to “
+” for t he  high
+beam and to “
+ ” for the low beam.
+Wh
+ile the headlight  is set on low beam,
+push the switch down towards “PASS”
+to flash the high beam  and to mark  the
+start of each lap when using the lap tim-
+er.Instrument and control functions
+4-34EAU66040
+Tu
+rn signal switch “
+ /
+”
+To s
+ignal a right-hand  turn, push  this
+switch  to “
+”. To s ignal  a left-hand
+turn, push this switch to “
+ ”. When re-
+le
+ased,  the switch  returns  to the center
+position.  To cancel  the turn signal
+lights,  push  the switch  in after it has re-
+turned to the center position.
+EAU66030
+Horn switch “
+ ”
+Pr
+ess this switch to sound the horn.
+EAU94790
+Stop/Run/Start switch “
+ /
+/
+”
+To
+ crank the engine with the starter, set
+this switch  to “
+”, and t hen  push  the
+switch  down  towards  “
+”. See p age6-2 for s tarting  instructions  prior to
+starting the engine.
+Set this switch  to “
+” to s top  the en-
+gine in case of an emergency,  such as
+when the vehicle overturns.
+EAU91670
+Hazard switch “
+ ” 
+Us
+e this switch  to turn on the hazard
+lights  (simultaneous  flashing  of all turn
+signal  lights).  The hazard  lights  are
+used  in case of an emergency  or to
+warn  other  drivers  when  your vehicle  is
+stopped where it might be a traffic haz-
+ard.
+The hazard  lights  can be turned  on or
+off only when the key is in the “ON” po-
+sition.  You can turn the main  switch  to
+the “OFF”  or “LOCK”  position,  and the
+hazard  lights  will continue  to flash.  To
+turn off the hazard  lights,  turn the main
+switch  to the “ON”  position  and oper-
+ate the hazard switch again.
+ECA10062
+NOTICE
+Do not u se  the hazard  lights  for an
+extended  length  of time with the en-gine not r unning,  otherwise  the bat-
+tery may discharge.
+EAU94151
+Cr
+uise control/YVSL switches
+See page  3-6 for an explanation  of the
+cruise control system.
+See page  3-8 for an explanation  of the
+YVSL.
+EAU93611
+“MODE” and select switches
+Use the “MODE”  switch,  the MODE  up
+“
+” switch  a nd  the MODE  down  “
+”
+sw
+itch to change  YRC modes  or edit
+the PWR,  TCS,  SCS,  and ERS settings
+from the main screen.
+MODE  up “
+” - push t his  switch  to
+change  the selected  YRC setting  up-
+ward.
+“MODE”  - push this switch to scroll left
+to right among  the MODE,  PWR,  TCS,
+SCS, and ERS items.
+MODE down “
+ ” - push this switch to
+c
+hange  the selected  YRC setting
+downward.
+TIP
+lThe t raction  control  system  can
+only be turned  off from the mainInstrument and control functions
+4-44screen.  Select  T CS with the
+“MODE” switch, then  push and
+hold the MODE up “
+ ” switch un-
+ti
+l TCS OFF is displayed.  To turn
+the traction  control  system  back
+on, use the MODE  down  “
+”
+sw
+itch.
+lWhen  the traction  control  system
+has been  turned  off, the SCS and
+LIF systems  are also turned  off for
+all YRC modes.
+lSee “YRC  Setting”  on page
+4-19 for more  information  on
+how to customize YRC modes and
+adjust YRC item setting levels.
+EAU66100
+Wh
+eel switch “
+ ”
+Wh
+en the main screen is set to STREET
+MODE,  use the wheel  switch  to scroll
+and reset the information display items.
+When  the main  screen  is set to TRACK
+MODE,  use the wheel  switch  to scroll
+and reset  the information  display  items
+and to activate the lap timer.
+When  the display  has been  changed  to
+the MENU  screen,  use the wheelswitch  to n avigate  the setting  modules
+and make setting changes.
+Operate the wheel switch as follows.
+Rotate up  - rotate the wheel upward to
+scroll up/left or increase a setting value.
+Rotate  down  - rotate  the wheel  down-
+ward to scroll down/right or decrease a
+setting value.
+Short  push  - briefly  press  the switch
+inward to make and confirm selections.
+Long  push  - press  the switch  inward
+for one second  to reset  an information
+display  item or to access  and exit the
+MENU screen.
+TIP
+lSee p age  4-9 for more  infor-
+mation  on the main  screen  and its
+functions.
+lSee page  4-18 for more  infor-
+mation  on the MENU  screen  and
+how to make setting changes.EAU4939Y
+In
+dicator lights and warning
+lights
+km/h
+ 1 2 NQS LIF 1 12:00  EBM 1
+PWR 1 TCS   3 SCS  11000 r/min
+TRIP-1 km
+km
+MODE-A OFF9990.09990.0
+TRIP-2
+A-1
+2 6 5 1 1211 103 4 7
+8 9
+1. Immobilizer system indicator light “
+ ”
+2. Auxiliary system warning light “
+ ”
+3. Oil pressure and Coolant temperature
+warning
+ light “
+ ”
+4. Cruise control indicator lights “
+ ” /“
+ ”
+5. Left turn signal indicator light “
+ ”
+6. Neutral indicator light “
+ ”
+7. Stability control indicator light “
+ ”
+8. Shift indicator light “
+ ”
+9. High beam indicator light “
+ ”
+10.ABS warning light “
+ ”
+11.Malfunction indicator light “
+ ”
+12.Right turn signal indicator light “
+ ”Instrument and control functions
+4-54EAU88280
+Tu
+rn signal indicator lights “
+ ” and
+“
+”
+Ea
+ch indicator  light will flash when  its
+corresponding  turn signal  lights  are
+flashing.
+EAU88300
+Neutral indicator light “
+ ”
+Th
+is indicator  light comes  on when  the
+transmission is in the neutral position.
+EAU88310
+High beam indicator light “
+ ”
+Th
+is indicator  light comes  on when  the
+high beam  of the headlight  is switched
+on.
+EAU91650
+Cruise control indicator lights “
+ ”/
+“
+”
+Th
+ese indicator  lights  come  on when
+the cruise  control  system  is activated.
+(See page 3-6.)
+TIP
+When  the v ehicle  is turned  on, these
+lights  should  come  on for a few sec-
+onds and then go off. Otherwise, have a
+Yamaha dealer check the vehicle.EAU88331
+Ma
+lfunction indicator light (MIL)
+“
+”
+Th
+is light comes on or flashes if a prob-
+lem is detected  in the engine  or other
+vehicle  control  system.  If this occurs,
+have a Yamaha  dealer  check  the on-
+board diagnostic system. The electrical
+circuit  of the warning  light can be
+checked  by turning  the vehicle  power
+on. The light should  come  on for a few
+seconds,  and then go off. If the light
+does  not come  on initially  when  the ve-
+hicle power  is turned  on, or if the light
+remains  on, have  a Yamaha  dealer
+check the vehicle.
+ECA26820
+NOTICE
+If the M IL  starts  flashing,  reduce  en-
+gine speed  to prevent  exhaust  sys-
+tem damage.
+TIP
+The engine  i s sensitively  monitored  by
+the on-board  diagnostic  system  to de-
+tect deterioration  or malfunction  of the
+emission  control  system.  Therefore  the
+MIL may come  on or flash due to vehi-
+cle modifications, lack of maintenance,or excessive/improper  u se of the mo-
+torcycle. To prevent this, observe these
+precautions.
+lDo not attempt  to modify  the soft-
+ware of the engine control unit.
+lDo not add any electrical accesso-
+ries that interfere  with engine  con-
+trol.
+lDo not use aftermarket  accesso-
+ries or parts  such  as suspension,
+spark  plugs,  injectors,  exhaust
+system, etc.
+lDo not change the drivetrain spec-
+ifications  (chain,  sprockets,
+wheels, tires, etc.).
+lDo not remove or alter the O2 sen-
+sor, air induction  system,  or ex-
+haust  parts  (catalysts  or EXUP,
+etc.).
+lMaintain the drive chain properly.
+lMaintain correct tire pressure.
+lMaintain  proper  brake  pedal
+height  to prevent  rear brake  from
+dragging.
+lDo not operate  the vehicle  in an
+extreme  manner.  For example,  re-
+peated  or excessive  opening  and
+closing  of the throttle,  racing,Instrument and control functions
+4-64burnouts, wheelies, extended half-
+cl
+utch use, etc.
+EAU91500
+AB
+S warning light “
+ ”
+In n
+ormal  operation,  the ABS warning
+light comes  on when  the vehicle  is
+turned  on, and goes  off after traveling
+at a speed of 5 km/h (3 mi/h) or higher.
+TIP
+If the w arning  light does  not work  as
+described  above,  or if the warning  light
+comes on while riding, the ABS may not
+work  correctly.  Have  a Yamaha  dealer
+check the vehicle as soon as possible.
+EWA21120
+WARNING
+If the ABS warning light does not turn
+of
+f after  reaching  5 km/h  (3 mi/h),  or
+if the warning  light comes  on while
+riding:
+lUse extra  caution  to avoid  pos-
+sible  wheel  lock during  emer-
+gency braking.
+lHave  a Yamaha  dealer  check
+the vehicle as soon as possible.EAU67434
+Sh
+ift indicator light “
+ ”
+Th
+is indicator  light comes  on when  it is
+time to shift to the next higher gear. The
+engine  speeds  at which  it comes  on or
+goes  off can be adjusted.  (See page
+4-24.)
+TIP
+When the vehicle is turned on, this light
+sh
+ould come  on for a few seconds  and
+then go off. If the light does  not come
+on, or if the light remains  on, have a
+Yamaha dealer check the vehicle.
+EAU88350
+Im
+mobilizer system indicator light
+“
+”
+Wh
+en the main  switch  is turned  off and
+30 seconds  have passed,  the indicator
+light will flash steadily  to indicate  the
+immobilizer system is enabled. After 24
+hours  have passed,  the indicator  light
+will stop flashing, however the immobil-
+izer system is still enabled.
+TIP
+When the vehicle is turned on, this light
+sh
+ould come  on for a few seconds  and
+then go off. If the light does  not comeon, or i f  the light remains  on, have a
+Yamaha dealer check the vehicle.
+Transponder interference
+If
+ the immobilizer system indicator light
+flashes  in the pattern,  slowly  5 times
+then quickly  2 times,  this could  be
+caused  by transponder  interference.  If
+this occurs, try the following.
+1. Make  sure there  are no other  im-
+mobilizer  keys close  to the main
+switch.
+2. Use  the code  re-registering  key to
+start the engine.
+3. If the engine  starts,  turn it off, and
+try starting  the engine  with the
+standard keys.
+4. If one or both of the standard  keys
+do not start the engine,  take the
+vehicle  and all 3 keys to a Yamaha
+dealer  to have the standard  keys
+re-registered.
+EAU88391
+Stability control indicator light “
+ ”
+Th
+is indicator  light comes  on when  the
+traction  control  system,  SCS,  or LIF
+systems  have  engaged.  It will alsoInstrument and control functions
+4-74come  on i f  the traction  control  system
+is set to “OFF”  or if the traction  control
+system becomes disabled while riding.
+TIP
+When the vehicle is turned on, this light
+sh
+ould come  on for a few seconds  and
+then go off. If the light does  not come
+on, or if the light remains  on, have a
+Yamaha dealer check the vehicle.
+EAU88362
+Oi
+l pressure and Coolant
+temperature warning light “
+ ”
+Th
+is warning  light comes  on if the en-
+gine oil pressure  is low or if the coolant
+temperature  is high.  If this occurs,  stop
+the engine immediately.
+TIP
+lWhen the vehicle is first turned on,
+t
+his light should  come  on until the
+engine is started.
+lIf a malfunction  is detected,  this
+light will come  on and the oil pres-
+sure icon will flash.ECA22441
+NOTICE
+If the o il  pressure  and coolant  warn-
+ing light does not go off after starting
+the engine or if it comes on while the
+engine  is running,  stop the vehicle
+and engine immediately.
+lIf the engine  is overheating,  the
+coolant  temperature  warning
+icon will come on. Let the engine
+cool.  Check  the coolant  level
+(see page 7-34).
+lIf the engine  oil pressure  is low,
+the oil pressure  warning  icon
+will come  on. Check  the oil level
+(see page 7-10).
+lIf the warning  light remains  on
+after  letting  the engine  cool and
+confirming  the proper  oil level,
+have a Yamaha dealer check the
+vehicle. Do not continue to oper-
+ate the vehicle!
+EAU88370
+Au
+xiliary system warning light “
+ ”
+Th
+is warning  light comes  on if a prob-
+lem is detected in a non-engine-related
+system.
+TIPWhen the vehicle is turned on, this light
+sh
+ould come  on for a few seconds  and
+then go off. Otherwise,  have a Yamaha
+dealer check the vehicle.Instrument and control functions
+4-84EAU93595
+Di
+splay
+The display  has two different  main
+screen  display  modes,  STREET  MODE
+and TRACK  MODE.  Most  of the func-
+tions  are viewable  in either  mode,  but
+the layout  differs  slightly.  The following
+items can be found on the display.
+STREET MODE
+km/h
+ 1 2 NQS LIF 1 12:00  EBM 1
+MODE-A PWR 1 TCS  3 SCS  11000 r/min
+A-1TRIP-1 km
+km
+OFF99
+90.09990.0
+TRIP-2
+86541
+72 3
+10
+9
+1. YRC items QS/LIF/BC/EBM
+2. Speedometer
+3. Clock
+4. Revolution peak hold indicator
+5. Fuel meter
+6. Transmission gear display
+7. Grip warmer indicator (if equipped)
+8. YRC items MODE/PWR/TCS/SCS/ERS
+9. Information display
+10.TachometerTRACK MODE
+1234 12 LAP 09
+km/h 56 NGEARQS LIF 1 12:00  
+MODE-A PWR 1 TCS  3 SCS  11000 r/minEBM 1
+OFFkm1234.5TRIP-1
+A-1
+71
+69
+82
+4
+53
+1. YRC items QS/LIF/BC/EBM
+2. Lap timer
+3. Clock
+4. Transmission gear display
+5. Information display
+6. Grip warmer indicator (if equipped)
+7. YRC items MODE/PWR/TCS/SCS/ERS
+8. Speedometer
+9. Tachometer
+EWA18210
+WARNING
+Stop  the v ehicle  before  making  any
+setting  changes.  Changing  settings
+while riding can distract the operator
+and increase the risk of an accident.
+TIPlThis m odel  uses a thin-film-tran-
+sistor  liquid-crystal  display  (TFT
+LCD) for good contrast and reada-
+bility in various  lighting  conditions.
+However,  due to the nature  of this
+technology,  it is normal  for a small
+number of pixels to be inactive.
+lThe display  units can be switched
+between kilometers/miles and cel-
+cius/farenheit. (See page 4-24.)
+Speedometer
+Th
+e speedometer  shows  the vehicle’s
+traveling speed.
+Tachometer
+The tachometer  shows  the engine
+speed,  as measured  by the rotational
+velocity of the crankshaft, in revolutions
+per minute (r/min).
+TIP
+lIn T RACK  MODE,  the tachometer
+starts at 5000 r/min.
+lIn STREET MODE, the tachometer
+can be color-adjusted  and has aInstrument and control functions
+4-94revolution  pe ak hold indicator
+which can be turned on or off.
+ECA10032
+NOTICE
+Do n ot o perate the engine in  the
+tachometer red zone.
+Red zone: 11800 r/min and above
+Fuel meter
+Th
+e fuel meter  indicates  the amount  of
+fuel in the fuel tank.  The display  seg-
+ments  of the fuel meter  disappear  from
+“F” (full) towards “E” (empty) as the fuel
+level decreases.
+When  the last segment  starts  flashing,
+or the fuel level warning icon comes on,
+refuel as soon as possible.
+ECAE0121
+NOTICE
+Do not let the vehicle run completely
+ou
+t of fuel. This may cause  damage
+to the catalytic converter.
+TIP
+lIf a ll  the fuel meter  display  seg-
+ments  flash repeatedly,  have  a
+Yamaha  dealer  check  the related
+circuits.lWhen t he  Yamaha  variable  speed
+limiter  (YVSL)  system  is operating
+in STREET MODE, the fuel meter is
+replaced by the YVSL display. (See
+page 3-8.)
+km/hLIM1 2
+1. Fuel meter
+2. YVSL display
+Clock
+Th
+e clock uses a 12-hour time system.
+Transmission gear display
+This shows  which  gear the transmis-
+sion is in. This model has 6 gears and a
+neutral  position.  The neutral  position  is
+indicated  by the neutral  indicator  light
+“
+” and b y  the transmission  gear dis-
+play “
+ ”.
+TIPWhen the Yamaha variable speed limit-
+er
+ (YVSL) system is operating in TRACK
+MODE, the transmission gear display is
+replaced by the YVSL display. (See
+page 3-8.)
+km/hLIMNGEAR1 2
+1. Transmission gear display
+2. YVSL display
+Revolution peak hold indicator
+Th
+is small  bar momentarily  appears
+within the tachometer to mark the most
+recent peak engine speed.Instrument and control functions
+4-104Warning icons
+12 3412:00  
+1000 r/minEr r5 2 3 6 4 1
+1. SCU trouble warning “
+ ”
+2. Auxiliary system warning “
+ ”
+3. Coolant temperature warning “
+ ”
+4. Oil pressure warning “
+ ”
+5. Fuel level warning “
+ ”
+6. Error mode warning “Err”
+When  an e rror  is detected,  the follow-
+ing error-related warning icons will then
+be viewable.
+SCU trouble warning “
+ ”
+Th
+is icon appears  if a problem  is de-
+tected in the front or rear suspension.
+Auxiliary system warning “
+ ”
+Th
+is icon appears  if a problem  is de-
+tected in a non-engine-related system.Coolant temperature warning “
+ ”
+Th
+is icon appears  when  the coolant
+temperature  is high.  Stop the vehicle
+and turn off the engine.  Allow  the en-
+gine to cool.
+ECA10022
+NOTICE
+Do not c ontinue  to operate  the en-
+gine if it is overheating.
+Oil pressure warning “
+ ”
+Th
+is icon appears  when  the engine  oil
+pressure is low. When the vehicle is first
+turned  on, engine  oil pressure  has yet
+to build,  so this icon will come  on and
+stay on until the engine  has been  start-
+ed.
+TIP
+If a malfunction  i s detected, the oil
+pressure warning icon will flash repeat-
+edly.
+ECA26410
+NOTICE
+Do not c ontinue  to operate  the en-
+gine if the oil pressure is low.Fuel level warning “
+ ”
+Th
+is icon comes on when approximate-
+ly 4.0 L (1.06  US gal, 0.88 Imp.gal)  of
+fuel remains in the tank.
+Error mode warning “Err”
+When  an internal error occurs (e.g.,
+communication  with a system  control-
+ler has been  cut off), the error mode
+warning will appear as follows.
+“Err” and “
+ ” indicates an ECU error.
+“E
+rr” and “
+ ” indicates an SCU error.
+“E
+rr” only indicates an ABS ECU error.
+TIP
+Depending  on t he nature  of the error,
+the display  may not function  properly
+and YRC settings may be impossible to
+change.  Additionally,  ABS may not
+function  properly.  Use extra  care when
+braking  and have  a Yamaha  dealer
+check the vehicle immediately.
+Information display
+Th
+e information display items are:
+A.TEMP: air temperature
+C.TEMP: coolant temperature
+TRIP-1: tripmeter 1
+TRIP-2: tripmeter 2Instrument and control functions
+4-114F-TRIP: fuel reserve tripmeter
+OD
+O: odometer
+“
+”: cruise control speed setting
+FU
+EL AVG: average fuel consumption
+CRNT FUEL: current fuel consumption
+FUEL  CON:  the amount  of fuel con-
+sumed
+TIP
+TRIP-1,  TRIP-2,  F -TRIP,  FUEL  CON,
+and FUEL AVG items can be individual-
+ly reset.
+The display  i tems  are grouped  into 4
+customizable  pairs  (DISPLAY  1-4). In
+TRACK  MODE  only a single  item can
+be displayed  at a time.  (See page
+4-27.)
+Rotating the wheel switch above cycles
+the DISPLAY groups in order:
+STREET MODE: ® DISPLAY-1 ® DIS-
+PLAY-2  ® DISPLAY-3  ® DISPLAY-4
+® Grip warmer function ®
+TRACK  MODE:  ® FASTEST  ® AVER-
+AGE ® Grip warmer  function  ® DIS-
+PLAY-1  ® DISPLAY-2  ® DISPLAY-3
+® DISPLAY-4 ®
+TIPThe grip w armer  function  will only be
+displayed  if equipped  on the vehicle.
+(See page 4-15.)
+Air temperature:
+7A.TEM P
+A.
+ TEMP 341 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+The air t emperature  is displayed  from
+–9 °C (16 °F) to 50 °C (122 °F) in 1 °C (1
+°F) increments.  The temperature  dis-
+played  may vary from the actual  ambi-
+ent temperature.
+TIP
+l“--” w ill  be displayed  if the detect-
+ed temperature is lower.l“--” w ill  be displayed  if the detect-
+ed temperature is higher.
+Coolant temperature:
+LoC.TEM P
+C.
+ TEMP Lo1 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+The coolant  t emperature  is displayed
+from 41 °C (106 °F) to 124 °C (255 °F) in
+1 °C (1 °F) increments.
+TIP
+lIf t he  vehicle  coolant  temperature
+is below  41 °C (106 °F) the coolant
+temperature display will read “Lo”.
+lIf the vehicle  coolant  temperature
+is above  124 °C (255 °F) the cool-
+ant temperature  display  will read
+“Hi”.Instrument and control functions
+4-124Tripmeters:
+km1234.5TRIP-1
+km1234.5TRIP-2TRIP-1 km 3330.0
+TRIP-2 km 6
+660.01 2
+1 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+TRIP1  and T RIP2  show  the distance
+traveled  since  they were  last set to
+zero.
+TIP
+TRIP-1  and T RIP-2  will reset  to 0 and
+begin  counting  again  after 9999.9  has
+been reached.Fuel reserve tripmeter:
+km4.5F-TRIP
+F-TRIP km1. 31 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+When  the f uel tank reserve  level has
+been  reached,  F-TRIP  appears  auto-
+matically  and begins  recording  dis-
+tance traveled from that point.
+After refueling  and traveling  some  dis-
+tance,  F-TRIP  will automatically  disap-
+pear.
+TIP
+The MENU c annot  be accessed  while
+F-TRIP  is displayed.  To access  the
+MENU  while  F-TRIP  is active,  first
+switch the information display to anoth-
+er item using the wheel switch.Odometer:
+km123456ODO km 7890001 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+The odometer shows the total distance
+tr
+aveled by the vehicle.
+TIP
+ODO will lock at 999999 and cannot be
+re
+set.Instrument and control functions
+4-134Cruise control speed setting:
+km/h90 80 km/h1 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+Displays  the s elected  speed  setting  for
+the cruise  control  system.  To adjust
+this speed  setting,  see page  3-6 for an
+explanation  of the cruise  control  sys-
+tem.Average fuel consumption:
+km / LFUEL A
+VG4.9km / L FUEL A VG4.91 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+The average  f uel consumption  display
+can be set to “km/L”  or “L/100km”.
+(See page 4-24.)
+TIP
+After resetting  t he average  fuel con-
+sumption  display,  “--.-”  will be shown
+until the vehicle has traveled 1 km.Current fuel consumption:
+km / LCRNT FUEL4.9CRNT FUEL km / L4. 91 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+The current  f uel consumption  display
+can be set to “km/L”  or “L/100km”.
+(See page 4-24.)
+TIP
+If traveling  a t speeds  under  10 km/h,
+“--.-” will be displayed.Instrument and control functions
+4-144Fuel consumption trip meter:
+LFUEL CON4.9FUEL CON L4. 91 2
+1. Display in STREET MODE
+2. Display in TRACK MODE
+Displays  how m uch fuel has been  con-
+sumed  since  the trip meter  was last re-
+set.
+TIP
+The current  f uel consumption  function
+should  be used  for general  reference
+only. Do not use this figure  to estimate
+the distance that can be traveled on the
+current tank of fuel.
+To reset information display items
+1.
+Use the wheel  switch  to scroll
+through  the display  items  until the
+item you want to reset appears.2. STREET  MO DE: Short  push  the
+wheel  switch  and the item group
+will flash for 5 seconds.  If both
+items  in the group  are resettable,
+the top item will flash first. Scroll
+down to select the bottom item.
+TRACK  MODE:  Short  push  the
+wheel  switch  and the information
+display will flash for 5 seconds.
+3. While  the item is flashing,  long
+push  the wheel  switch  and the
+item will reset.
+Grip warmer indicator (if equipped)
+The grip warmers  can be used  when
+the engine  is running.  There  are 3 cus-
+tomizable temperature presets that can
+be customized  between  10 different
+temperature levels. (See page 4-29.)
+The indicator  displays  the current  tem-
+perature  setting  as “OFF”  or segments
+(LO/MIDDLE/HIGH).
+To activate the grip warmer
+1.
+Use the wheel  switch  to highlight
+the grip warmer  display  with the
+cursor.
+2. Short  push  the wheel  switch  and
+the indicator will start flashing.3. Rotate  the w heel switch  to select
+the temperature preset.
+4. Short  push  the wheel  switch  to
+confirm  the selection  and the grip
+warmer indicator will stop flashing.
+ECA17932
+NOTICE
+lBe sure to wear gloves when us-
+i
+ng the grip warmers.
+lDo not use the grip warmers  in
+warm weather.
+lIf the handlebar  grip or throttle
+grip becomes worn or damaged,
+stop using the grip warmers and
+replace the grips.
+YRC icons
+Th
+e current  YRC MODE  preset  and its
+related  settings  are shown  on various
+icons at the top and bottom of the main
+screen.
+Settings  for YRC items  PWR,  TCS,
+SCS,  QS“
+ ”, QS“
+ ”, LIF, E BM,  BC
+“
+”, and E RS  are organized  into pre-
+sets (MODE-A,  MODE-B,  MODE-C,
+and MODE-D).  The settings  for each
+MODE  preset  can be customized  viaInstrument and control functions
+4-154the YRC s etting  menu.  (See page
+4-19.)
+TIP
+lYRC s ettings  shown  on the bot-
+tom of the main  screen  (PWR,
+TCS, SCS and ERS) can be adjust-
+ed independently  from the main
+screen.
+lYRC settings  shown  on the top of
+the main screen (QS“
+ ”, QS“
+ ”,
+LI
+F, BC“
+ ” and E BM)  cannot  be
+adjusted  independently  from the
+main screen. To change these val-
+ues, use the YRC Setting  MENU.
+(See page 4-19.)
+lThe LIF icon only show  as active/
+inactive  but have different  setting
+levels  that can be adjusted  in the
+YRC Setting  MENU.  (See page
+4-19.)
+lThe BC “
+” and E BM  icons  show
+both active/inactive  as well as the
+current setting level.
+The YRC m odes  come  preset  from the
+factory  for different  riding  conditions.
+When  using  the factory  presets,  the
+suggested YRC modes are as follows.
+MODE-A: suitable for track ridingMODE-B: softer track-riding setting
+MO
+DE-C: suitable for road use
+MODE-D: street use or rainy weather
+To change YRC modes or make setting
+changes
+1.
+Use the “MODE”  switch  to scroll
+left to right and highlight  the item
+you want to adjust.
+2. Use  the MODE  up “
+” or M ODE
+down “
+ ” switches to change the
+se
+lected item value.
+TIP
+lWhen t he  malfunction  indicator
+light “
+”, the a uxiliary  system
+warning  “
+”, or t he  coolant  tem-
+perature warning “
+ ” are on, YRC
+se
+ttings cannot be adjusted.
+lWhen  the SCU trouble  warning
+“
+” is o n,  ERS cannot  be adjust-
+ed.
+lWhen  a YRC function  is actively
+engaged  that item cannot  be ad-
+justed.  For example,  when  accel-
+erating PWR cannot be adjusted.
+lWhen  a YRC item is highlighted
+but cannot  be adjusted,  the YRC
+item box will return to black.lIf t he  ERS mode  disappears  from
+the ERS indicator  (the icon turns
+blank),  stop the vehicle  and wait a
+few seconds  until the mode  reap-
+pears.
+1234 12 LAP 09
+km/h 56 NGEARQS LIF 1 12:00  EBM-1
+MODE-A PWR 1 TCS  3 SCS  11000 r/min
+OFFkm1234.5TRIP-1
+A-1MODE -A MODE -A
+Turning off the traction control system
+To t
+urn off the traction  control  system,
+select  TCS with the “MODE”  switch,
+then press and hold the MODE up “
+ ”
+sw
+itch until TCS OFF is displayed.
+To turn the traction  control  system
+back  on, select  TCS OFF and then
+press the MODE down “
+ ” switch (the
+tr
+action  control  system  will return  to its
+previous setting).Instrument and control functions
+4-164TIPTurning  off t he traction  control  system
+will turn off the SCS and LIF systems for
+all YRC mode presets.
+Lap timer
+Th
+is stopwatch  function  measures  and
+records  up to forty laps. On the main
+screen,  the lap timer  shows  the current
+lap time and lap number  (indicated  by
+the LAP mark).  Use the Dimmer/Pass
+switch  “
+/
+/PASS”  to m ark lap
+times. When a lap is completed, the lap
+timer  will show  the latest  lap time
+(marked  by the LATEST  indicator)  for
+five seconds.
+1234 12 LAP 09
+km/h 56 NGEARQS LIF 1 12:00  EBM 1
+MODE-A PWR 1 TCS  3 SCS  11000 r/min
+OFFkm1234.5TRIP-1
+A-1
+341
+2
+1. Lap time
+2. Latest lap time indicator “LATEST”3. Information display item
+4. Lap number
+To use the lap timer
+1.
+While in TRACK MODE, short push
+the wheel  switch.  The information
+display will flash for five seconds.
+2. While  the information  display  item
+is flashing,  rotate  the wheel  switch
+upward.  The lap timer  will flash for
+five seconds.
+3. While the lap timer is flashing, long
+push  the wheel  switch  to activate
+the lap timer or stop the lap timer.
+4. When  the lap timer  has been  acti-
+vated  and the headlight  is set on
+low beam,  push  the switch  down
+towards  “PASS”  to flash the high
+beam and start the timer.
+TIP
+lThe engine must be running to use
+t
+he lap timer.
+lSet the information  display  to
+FASTEST  or AVERAGE  for addi-
+tional lap time information.
+lAccessing  the MENU  screen  will
+automatically stop the lap timer.lWhenever the lap timer is stopped,
+t
+he current  lap will not be record-
+ed.
+lThe lap time record can be viewed
+and reset from the MENU screen.Instrument and control functions
+4-174EAU93604
+ME
+NU screen
+YRC Setting
+Lap Time
+Maintenance
+Unit
+W
+allpaperDisplay ModeMENU km/h GPS 10:00  
+The MENU m ain screen  contains  the
+following setting modules.
+Module Description
+Display ModeSwitch the display between
+ST
+REET MODE and TRACK
+MODE
+YRC Setting Adjust YRC settings
+Lap Time View and reset lap times
+MaintenanceView and reset mainte-
+na
+nce interval tripmeters
+UnitSet fuel consumption and
+di
+stance units
+WallpaperSet display background
+co
+lors
+Shift IndicatorTurn the shift indicator on/
+of
+f and adjust tachometer
+settingsModule Description
+Display SettingSelect the information dis-
+pl
+ay groupings
+Brightness Adjust screen brightness
+Grip Warmer
+Se
+ttingAdjust grip warmer presets
+(i
+f equipped)
+Clock Adjust the clock
+All ResetReturn all settings to factory
+de
+faults
+MENU access and operation
+Ac
+cess the MENU  by pressing  and
+holding  the wheel  switch  (long  push)
+while the vehicle is not in motion.
+Rotate  the wheel  switch  up or down  to
+highlight  modules/items  or increase/
+decrease values.
+Briefly  press  the wheel  switch  inward
+(short  push)  to select  menus  items  and
+confirm setting values.
+Press  and hold the wheel  switch  (long
+push)  until the screen  returns  to the
+main  display  to exit the MENU  at any
+time.
+TIP
+lCertain menu screens have an up-
+w
+ard pointing  triangle  mark  item.
+Select  the triangle  mark  to savesettings  changes  a nd exit the cur-
+rent screen.
+lShould  vehicle  motion  be detect-
+ed, the screen  will automatically
+exit the MENU  and return  to the
+main display.
+lTo ensure that the desired settings
+changes  are saved,  be sure to exit
+each  menu  via the triangle  mark  (if
+displayed).  Exiting  the settings
+menu  by pressing  and holding
+(long  push)  the wheel  switch  may
+not save settings changes.
+“Display Mode”
+Th
+ere are two main  screen  display
+modes,  STREET  MODE  and TRACK
+MODE.
+km/h 10:00  
+TRACK MODESTREET MODEDisplay ModeInstrument and control functions
+4-184“YRC Setting”
+Th
+is module  allows  you to customize
+the four YRC mode  presets  (MODE-A,
+MODE-B,  MODE-C,  and MODE-D)  by
+adjusting  the setting  levels  (or on/off
+status  as applicable)  of YRC items
+PWR, TCS, SCS, QS“
+ ”, QS“
+ ”, LIF,
+EB
+M, BC and ERS.
+TIP
+lThe t raction  control  system  has 5
+setting  levels  and ERS has 6
+modes.
+lWhenever  there  are more  selec-
+tions  (setting  levels  or modes)
+available  than can be shown  on
+the screen  at one time,  a scroll  bar
+will appear on the righthand side of
+the screen  to notify  you that addi-
+tional  selections  are available  by
+scrolling.
+PWR
+Se
+lect PWR-1  for the most  aggressive
+throttle  response,  PWR-2  and PWR-3
+for smoother  throttle  grip/engine  re-
+sponse,  and use PWR-4  for rainy days
+or whenever less engine power is desir-
+able.
+5
+6432
+11. PWR 1
+2. PWR 2
+3. PWR 3
+4. PWR 4
+5. Throttle valve opening
+6. Throttle grip operation
+Traction control system
+Th
+is model  uses a variable  traction
+control  system.  For each  setting  level,
+the farther  the vehicle  is leaned  over,
+the more  traction  control  (system  inter-
+vention)  is applied.  There  are 5 setting
+levels  available.  Setting  level 1 applies
+the least system intervention, while set-
+ting level 5 applies  the most  overall
+traction control.
+TIPlThe t raction  control  system  can
+only be turned  off completely  via
+the main screen using the “MODE”
+switch and MODE up “
+ ” switch.
+Se
+e “Turning  off the traction  con-
+trol system” on page 4-16.
+lWhen  the traction  control  system
+has been turned off; TCS, SCS and
+LIF will be set to OFF and cannot
+be adjusted.  When  the traction
+control  system  is turned  on again,
+these  related-traction  control
+functions  will return  to their previ-
+ous setting levels.
+1
+TCS
+215432
+1. System intervention
+2. Lean angleInstrument and control functions
+4-194SCS
+SC
+S can be set to OFF, 1, 2, and 3. OFF
+turns  the slide control  system  off, set-
+ting level 1 provides  the least system
+intervention,  and setting  level 3 pro-
+vides the most system intervention.
+13
+21
+SCS
+2
+1. System intervention
+2. Sideward slide
+Quick shifter
+Th
+e quick  shifter  is divided  into QS 
+(upshift)  and Q S 
+ (downshift)  s ec-
+tions.  QS 
+ and Q S  
+ are n ot  linked
+and can be independently  turned  on or
+off.
+OFF turns  the respective  upshift  or
+downshift  function  off, and the clutch
+lever must  then be used  when  shifting
+in that direction.LIF
+LI
+F can be set to 1, 2, 3, or OFF. Setting
+level 3 most strongly reduces wheel lift,
+and setting  level 1 provides  the least
+system intervention. OFF turns LIF off.
+13
+21
+LIF
+2
+1. System intervention
+2. Wheel lift
+EBM
+Th
+is system  has two settings.  Level  1
+provides  the least system  intervention,
+and therefore  the strongest  engine
+braking. Level 2 provides the most sys-
+tem intervention,  and therefore  the
+least engine braking.
+BC
+Se
+lect BC1 when  only standard  ABS is
+desired.  Select  BC2 to have the brakecontrol  system  a lso regulate  brake
+pressure  while  cornering  to suppress
+lateral wheel slip.
+TIP
+For skilled riders and when riding at the
+tr
+ack, due to varying  conditions,  BC2
+brake  system  engagement  may come
+on sooner  than expected  relative  to
+your desired  cornering  speed  or in-
+tended cornering line.
+To customize a YRC mode or adjust a
+YRC item
+1.
+While  the “YRC  Setting”  screen  is
+displayed, and the YRC mode box
+“YRC”  is highlighted.  Short  push
+the wheel  switch  to enter  the box
+and then select  the YRC mode
+preset (A, B, C, or D) that you want
+to adjust.Instrument and control functions
+4-204PWR TCS SCS QS QS LIF EBM ERS BC10:00  YRC Setting km/h
+A
+B
+C
+D1
+2
+3
+43
+4
+51
+2
+3
+OFF OFFON ON
+OFF1
+2
+3
+OFF1
+21
+21
+2
+YRCA-1
+A-2
+A-3
+M-1
+M-2
+BC
+1 3 21. Triangle mark
+2. YRC mode box
+3. YRC item
+2. Select  the Y RC item PWR,  TCS,
+SCS, QS 
+ , QS 
+ , LIF, EBM, BC,
+or
+ ERS that you want to adjust.
+YRC PWR TCS SCS QS QS LIF EBM BC10:00  YRC Setting km/h
+A
+B
+C
+D1
+2
+3
+42
+3
+4
+51
+2
+3
+OFF OFFON ON
+OFF1
+2
+3
+OFF1
+21
+21
+ERSA-1
+A-2
+A-3
+M-1
+M-2
+134
+2
+1. YRC item
+2. Current level setting
+3. Factory preset level4. YRC mode
+TIP
+lWhen a Y RC item is selected,  the
+current  setting  level is highlighted
+blue and the factory  preset  level is
+highlighted grey.
+lFactory preset levels vary depend-
+ing on the selected  YRC mode
+preset.
+3. When  finished,  s elect the triangle
+mark  on the far left to return  to the
+MENU  screen;  or select  the “
+”
+ma
+rk to adjust  the individual  ERS
+presets.
+ERS
+SETTINGBRAKE
+SUPPORTCORNER
+SUPPORTACCEL
+SUPPORTFRONT
+FIRMREAR
+FIRM10:00  YRC Setting km/h
+A-1H-2
+SH+2
+SA-2
+A-31
+3
+48
+57
+6 2
+1. ERS mode
+2. Braking support level3. Cornering support level
+4. Acceleration support level
+5. Front overall damping level
+6. Rear overall damping level
+7. Factory preset level
+8. Current level
+The ERS c onsists  of three  semi-active
+automatic  presets  (A-1, A-2, and A-3)
+and three  manual  setting  presets  (M-1,
+M-2, and M-3). When an automatic pre-
+set is selected,  the SCU will adjust  the
+compression  and rebound  damping
+forces  based  on running  conditions.
+For all presets,  spring  preload  must  be
+physically  adjusted  by hand.  (See pa-
+ges 4-36 and 4-37.)
+TIP
+The factory  p reset  levels  are intended
+as follows:
+lA-1/M-1  are preset  for track  use
+with racing slick tires.
+lA-2/M-2  are preset  for track  use
+with street tires.
+lA-3/M-3  are preset  for road use
+with street tires.Instrument and control functions
+4-214Semi-active automatic presets (A-1/
+A-2/A-3) adjustable settings:
+BR
+AKE SUPPORT:  reduces  nosedive
+(front-end pitch from braking)
+CORNER  SUPPORT:  increases  damp-
+ing to absorb  chassis  fluctuations  for
+smooth  cornering.  Reduce  this setting
+for increased rear wheel grip.
+ACCEL  SUPPORT:  reduces  rear-end
+squat  (rear-end  pitch  due to accelera-
+tion)
+FRONT  FIRM:  hardens  (H) or softens
+(S) overall damping of the front suspen-
+sion
+REAR  FIRM:  hardens  (H) or softens  (S)
+overall damping of the rear suspension
+TIP
+For the r oad  preset  A-3, CORNER
+SUPPORT and ACCEL SUPPORT can-
+not be adjusted  and are not visible  in
+the menu.
+SETTINGBRAKE
+SUPPORTFRONT
+FIRMREAR
+FIRM10:00  YRC Setting km/h
+A-3H-2
+SH+2
+SA-1
+A-2
+3
+4 26
+511. ERS mode
+2. Braking support level
+3. Front overall damping level
+4. Rear overall damping level
+5. Factory preset level
+6. Current level
+Manual presets (M-1/M-2/M-3) adjust-
+able settings:
+Fr
+ COM: front compression damping
+Fr REB: front rebound damping
+Rr COM: rear compression damping
+Rr REB: rear rebound damping
+To adjust the ERS mode settings
+1.
+In the YRC setting  module,  select
+the ERS preset  (A-1/A-2/A-3/M-1/
+M-2/M-3) you want to adjust.
+YRC PWR TCS SCS LCS QS QS LIF EBM BC ERS10:00  YRC Setting km/h
+A
+B
+C
+D1
+2
+3
+41
+2
+3
+4
+51
+2
+3
+OFF1
+2
+OFFON
+OFFON
+OFF1
+2
+3
+OFF1
+21
+2A-1
+A-2
+A-3
+M-1
+M-2
+1231. To ERS menu
+2. Manual modes
+3. Automatic modes
+TIP
+The ERS s etting  menu  is divided  into
+automatic  (A-1/A-2/A-3)  and manual
+(M-1/M-2/M-3)  screens,  and the two
+types  are accessed  separately.  Before
+moving  to the ERS setting  menu  be
+sure you have selected the appropriate
+type (automatic/manual)  of ERS mode
+preset.
+2. In the Y RC  setting  menu,  select
+the “
+” mark, l ocated  to the right
+of ERS,  and short  push  the wheel
+switch.
+3. The display will change to the rele-
+vant suspension  setting  screenInstrument and control functions
+4-224(automatic/manual)  wi th the ERS
+mode  selection  box “SETTING”
+highlighted.  Short  push  the wheel
+switch,  select  the preset  that you
+want  to adjust,  and short  push  the
+wheel switch again.
+4. Scroll  the different  settings  by ro-
+tating  the wheel  switch.  Once  a
+setting  is highlighted,  short  push
+the wheel  switch  to select  it and
+then rotate the wheel switch to ad-
+just the setting level.
+5. To  adjust  other  ERS modes  of the
+same  type,  repeat  from step 3. To
+switch  types  or when  finished,  se-
+lect the “
+” mark t o  return  to the
+main “YRC Setting” menu.
+10:00  YRC Setting km/h
+M-1
+M-2
+M-3
+Fr CO M Rr COM Fr REB Rr REB SETTING1 8 8 22 22 
+34
+12
+1. To YRC Setting menu
+2. ERS mode selection box “SETTING”3. Factory preset level
+4. Current level setting
+“Lap Time”
+Th
+is module allows you to view and de-
+lete the lap time record.  The fastest  lap
+and the average  lap time stored  in the
+lap time record are displayed at the top
+of the screen.  Use the wheel  switch  to
+scroll  and see all lap times.  The top
+three  fastest  laps will be highlighted  in
+silver.  Up to 40 laps can be stored  in
+memory.  If more  than 40 laps are re-
+corded,  the oldest  laps (starting  from
+lap 1) will be overwritten.
+LAP 1
+LAP 2
+LAP 3
+LAP 4FASTEST / LAP 12 
+02:54.56
+02:55.20
+02:56.04
+02:56.8002:34.56
+02:53. 00 AVERAGE Lap Time km/h GPS 10:00  
+1
+2
+3
+1. Fastest lap
+2. Average lap time
+3. Lap time recordThis module has two options. “Display”
+al
+lows you to view the lap time record.
+“Reset”  allows  you to delete  the lap
+time record data.
+km/h 10:00  
+ResetDisplayLap Time
+“Maintenance”
+Th
+is module  allows  you to record  dis-
+tance  traveled  between  engine  oil
+changes (use the OIL item), and for two
+other  items  of your choice  (use INTER-
+VAL 1 and INTERVAL 2).Instrument and control functions
+4-234To reset a maintenance item
+1.
+Select the item you want to reset.
+ INTERVAL 2 OIL
+ INTERVAL 1123456 km 
+123456 k m
+123456 kmMaintenance km/h GPS 10:00  
+2. Long  push t he wheel  switch  to re-
+set the item.
+ INTERVAL 2 OIL
+ INTER V
+AL 1 123456 km
+123456 k mMaintenance km/h GPS 10:00  
+0 km 
+TIP
+Maintenance  it em names  cannot  be
+changed.“Unit”
+Th
+is module  allows  you to switch  the
+display between kilometers and miles.
+When  using  kilometers,  the fuel con-
+sumption  units  can be changed  be-
+tween  km/L  or L/100km.  When  using
+miles, only MPG will be available.
+km/L or L/100km km/Lkm or mile kmUnit km/h GPS10:00  
+“Wallpaper”
+Th
+is module  allows  you to individually
+set the STREET  MODE  and TRACK
+MODE  display  background  colors  to
+black  or white  for both day and night
+settings.  A photo  sensor  equipped  in
+the instrument  panel  detects  lighting
+conditions  and will automatically
+change the display between its day and
+night  settings.  The photo  sensor  also
+controls  a subtle  automatic  brightnessadjustment  fu nction  within  both day
+and night  modes  to suit ambient  light
+conditions.
+1
+1. Photo sensor
+“Shift indicator”
+Th
+e shift indicator  module  contains  the
+following sub-modules.
+Module Description
+Shift IND
+Setting
+Set the shift indicator pat-
+te
+rn to “ON”, “Flash”, or
+“OFF” and adjust at what
+r/min the indicator will come
+on and go off.
+Shift IND
+Brightness
+Adjust the brightness of the
+sh
+ift indicator.Instrument and control functions
+4-244Module Description
+Tach IND
+Setting
+Set the tachometer color
+di
+splay to “ON” or “OFF”
+and adjust at what r/min the
+tachometer will be green
+and orange.
+Peak Rev IND
+Setting
+Set the tachometer peak rev
+in
+dicator to “ON” or “OFF”.
+GPS MENU km/h 10:00  
+BrightnessDisplay Setting
+Grip Warmer Setting
+ClockShift Indicator
+All ResetTo make setting changes
+1.
+Select “Shift IND Setting”.
+GPS
+Tach IND SettingShift IND Brightness
+Peak Re
+v IND SettingShift Indicator
+Shift IND Settingkm/h 10:00  
+2. Select “IND Mode”.
+1000 r/min12:00  
+Shift IND Setting
+IND Mode
+IND Start
+IND Sto pON 
+6000  r/min
+12000  r/minkm/h Shift Indicator
+3. Select  “ON” t o have the indicator
+light steadily,  “OFF”  to turn the in-
+dicator  off, or “Flash”  to have the
+shift indicator  flash when  the indi-
+cator  start threshold  has been
+reached.
+1000 r/min12:00  
+Shift IND Setting
+IND Mode
+IND Sta r
+t
+IND StopON 
+6000  r/min
+12000  r/minkm/h Shift Indicator4. Select “IND Start”.
+1000 r/min12:00  
+Shift IND Setting
+IND Mode
+IND Start
+IND StopON 
+7000  r/min
+12000  r/minkm/h Shift Indicator
+5. Rotate  the w heel switch  to adjust
+the r/min  at which  the shift timing
+indicator  light will come  on. “IND
+Start”  operational  range  is 5000–
+12800 r/min.Instrument and control functions
+4-2541000 r/min12:00  
+Shift IND Setting
+IND Mode
+IND Sta r
+t
+IND StopON 
+8000  r/min
+13000  r/minkm/h Shift Indicator6. Select “IND Stop”, and then rotate
+th
+e wheel  switch  to adjust  the
+r/min at which the shift timing indi-
+cator will go off. “IND Stop” opera-
+tional range is 5500–13000 r/min.
+TIP
+The blue a rea  on the tachometer  indi-
+cates  the currently  set operational
+range of the shift indicator light.
+“Shift IND Brightness”
+Th
+e shift timing  indicator  light has six
+brightness levels. Short push the wheel
+switch to confirm the setting and exit.
+Shift Indicator
+Shift IND Brightnesskm/h GPS 10:00  
+3“Tach IND Setting”
+Th
+is module  allows  you  to turn the
+tachometer  color  display  on or off.
+When  turned  off, the tachometer  will
+display  all r/min  levels  below  the red
+zone  in black  or white  (depending  on
+wallpaper  settings).  When  turned  on,
+the mid and mid-to-high  r/min  zones
+can be set to come  on in green  and
+then orange colors.1. Select “IND Mode”.
+1000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd
+2. Select  ON t o turn the tachometer
+color  display  mode  on (or select
+OFF to turn this function off).
+1000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd
+3. Select  “Tach  I ND 1st” to set the
+green zone starting r/min.Instrument and control functions
+4-2641000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd4. Set  the s tarting  r/min  by rotating
+and then short  pushing  the wheel
+switch.  All r/min  above  this value
+up to the “Tach  IND 2nd” setting
+value  (or the 11800  r/min  red
+zone), will be displayed in green.
+1000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd
+TIP
+Green  bar s tart setting  range:  5000–
+11800 r/min.5. Select “Tach IND 2nd”.
+1000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd
+6. Set  the o range  color  starting  r/min
+by rotating and then short pushing
+the wheel  switch.  All r/min  above
+this figure until the 11800 r/min red
+zone, will be displayed in orange.
+TIP
+Orange  bar s tart setting  range:  5000–
+11800 r/min.
+1000 r/min12:00  km/h Shift Indicator
+T
+ach IND Setting
+IND Mode ON 
+5000  r/min
+8000  r/minTach IND 1st
+Tach IND 2nd“Peak Rev IND Setting”
+Th
+is module  allows  you to turn the rev-
+olution peak hold indicator on or off.
+“Display Setting”
+This module  allows  you to set how the
+information  display  items  (like TRIP-1,
+ODO,  C. TEMP,  etc.) are grouped  on
+the main  screen.  There  are four display
+groups.
+km/h
+ 1 2 NQS LIF 1 12:00  EBM 1
+MODE-A PWR 1 TCS  3 SCS  11000 r/min
+A-1TRIP-1 km
+km
+OFF99
+90.09990.0
+TRIP-21
+1. Information display item (STREET MODE)Instrument and control functions
+4-2741234 12 LAP 09
+km/h 56 NGEARQS LIF 1 12:00  EBM 1
+MODE-A PWR 1 TCS  3 SCS  11000 r/min
+OFFkm1234.5TRIP-1
+A-111. Information display item (TRACK MODE)
+To set the display groups
+1.
+“DISPLAY-1”, “DISPLAY-2”, “DIS-
+PLAY-3”  and “DISPLAY-4”  are
+displayed.
+GPS
+DISPLAY-3DISPLA
+Y-2
+DISPLAY-4Display Setting
+DISPLAY-1km/h 10:00  
+2. For  example,  l et’s select  “DIS-
+PLAY-1”.3. Select “STREET MODE 1-1”.
+ STREET MODE    1 - 1 A.TEMP
+C.TEMP
+C.TEMPDisplay Setting
+DISPLAY-1km/h GPS 10:00  
+ TRACK MODE STREET MODE    1 - 2
+4. Select the desired information dis-
+pl
+ay item with the wheel switch.
+ STREET MODE    1 - 1 A.TEMP
+C.TEMP
+C.TEMPDisplay Setting
+DISPLAY-1km/h GPS 10:00  
+ TRACK MODE STREET MODE    1 - 2
+TIP
+The information  d isplay  items  which
+can be selected are:
+A.TEMP: air temperature
+C.TEMP: coolant temperature
+TRIP-1: tripmeter 1TRIP-2: tripmeter 2
+OD
+O: odometer
+ SPEED: cruise control speed setting
+FU
+EL AVG: average fuel consumption
+CRNT FUEL: current fuel consumption
+FUEL  CON:  the amount  of fuel con-
+sumed
+5. Select  “STREET  M ODE 1-2” or
+“TRACK MODE” to set the remain-
+ing DISPLAY-1 group items.
+ STREET MODE    1 - 1 A.TEMP
+C.TEMP
+C.TEMPDisplay Setting
+DISPLAY-1km/h GPS 10:00  
+ TRACK MODE STREET MODE    1 - 2
+6. Select  the t riangle  symbol  to exit.
+To set the other display groups, re-
+peat from step 3.
+“Brightness”
+This module  allows  you to adjust  the
+general  brightness  level of the display
+screen.Instrument and control functions
+4-284“Grip Warmer Setting” (if equipped)
+Th
+is module is for adjusting the temper-
+ature values for the grip warmer presets
+(LO/MIDDLE/HIGH).  Each  preset  can
+be set from 1 (low heat)  to 10 (high
+heat).
+“Clock”
+This module  allows  you to set the
+clock.
+“All Reset”
+This module  resets  everything,  except
+the odometer  and clock,  to its factory
+preset or default setting.
+Select  YES to reset  all items.  After se-
+lecting  YES,  all items  will be reset  and
+the screen  will automatically  return  to
+the MENU screen.EAU12823
+Cl
+utch lever
+1
+1. Clutch lever
+To disengage  t he drivetrain  from the
+engine,  such  as when  shifting  gears,
+pull the clutch  lever toward  to the han-
+dlebar. Release the lever to engage the
+clutch  and transmit  power  to the rear
+wheel.
+TIP
+The lever s hould  be pulled  rapidly  and
+released  slowly  for smooth  shifting.
+(See page 6-3.)EAU83692
+Sh
+ift pedal
+1 1122
+1. Shift pedal
+2. Shift sensor
+The shift p edal  is located  on the left
+side of the motorcycle.  To shift the
+transmission to a higher gear, move the
+shift pedal up. To shift the transmission
+to a lower  gear,  move  the shift pedal
+down. (See page 6-3.)
+The shift rod is equipped  with a shift
+sensor,  which  is part of the quick  shift-
+er. The shift sensor  reads  up and down
+movement,  as well as the strength  of
+the input  force  when  the shift pedal  is
+moved.Instrument and control functions
+4-294TIPTo prevent unintended shifts, the quick
+sh
+ifter is programmed to ignore unclear
+input signals. Therefore, be sure to shift
+using  quick  and sufficiently  forceful  in-
+puts.EAU93080
+Br
+ake lever
+11
+22
+33(a)(a)
+(b)(b)
+1. Brake lever
+2. Distance
+3. Brake lever position adjusting knob
+The brake l ever  is located  on the right
+side of the handlebar. To apply the front
+brake,  pull the lever toward  the throttle
+grip.
+The brake  lever  is equipped  with a
+brake  lever position  adjusting  knob.  To
+adjust  the distance  between  the brake
+lever and the throttle  grip, turn the ad-
+justing  knob while holding  the lever
+pushed away from the throttle grip.
+Turn the adjusting  knob  in direction  (a)
+to increase  the distance.  Turn the ad-
+justing knob in direction (b) to decrease
+the distance.EAU12944
+Br
+ake pedal
+11
+1. Brake pedal
+The brake p edal is located  on the right
+side of the motorcycle.  To apply  the
+rear brake,  press  down  on the brake
+pedal.Instrument and control functions
+4-304EAU94200
+Br
+ake control system (BC)
+The brake control system regulates hy-
+draulic  brake  pressure  for the front and
+rear wheels  independently  when  the
+brakes  are applied  and wheel  lock is
+detected. This system has two settings
+which  can be changed  in the settings
+MENU. (See page 4-19.)
+BC1 is standard  ABS,  which  adjusts
+brake pressure based on vehicle speed
+and wheel  speed  data.  BC1 is de-
+signed  to engage  and maximize  brak-
+ing when  the vehicle  is upright.  BC2
+uses additional  data from the IMU to
+regulate  applied  brake  power  when
+cornering  to suppress  lateral  wheel
+slip.
+Regarding  ABS,  operate  the brakes  as
+you would  conventional  brakes.  When
+the brake  control  system  engages,  a
+pulsating  sensation  may be felt at the
+brake  lever or brake  pedal  as the hy-
+draulic unit rapidly applies and reduces
+brake pressure. In this situation, contin-
+ue to apply  the brake  lever and brake
+pedal to allow the ABS to work—do not
+“pump  the brakes”  as this will reduce
+braking effectiveness.EWA16051
+WARNING
+Always  keep a s ufficient  distance
+from  the vehicle  ahead  to match  the
+riding speed even with ABS.
+lThe ABS performs  best with
+long braking distances.
+lOn certain  surfaces,  such  as
+rough  or gravel  roads,  the brak-
+ing distance  may be longer  with
+the ABS than without.
+The ABS h ydraulic  unit is monitored  by
+the ABS ECU, which will revert the sys-
+tem to conventional  braking  if a mal-
+function occurs.
+EWA20891
+WARNING
+The brake c ontrol  system  is not a
+substitute  for the use of proper  rid-
+ing and braking  techniques.  The
+brake control system cannot prevent
+all loss of traction  due to over-brak-
+ing from  excessive  speed,  or lateral
+wheel  slip when  braking  on slippery
+surfaces.
+TIPThe ABS p erforms  a self-diagnostic
+test when  the vehicle  is started  and
+reaches  a speed  of 5 km/h  (3 mi/h).
+During this test, a clicking noise may be
+audible  from the hydraulic  control  unit,
+and a vibration  may be felt at the brake
+lever or pedal, but this is normal.
+ECA20100
+NOTICE
+Be careful  n ot to damage  the wheel
+sensor  or wheel  sensor  rotor;  other-
+wise,  improper  performance  of the
+ABS will result.
+2211
+1. Front wheel sensor rotor
+2. Front wheel sensorInstrument and control functions
+4-31422
+111. Rear wheel sensor rotor
+2. Rear wheel sensorEAU13077
+Fu
+el tank cap
+2211
+1. Fuel tank cap lock cover
+2. Unlock.
+To open the fuel tank cap
+Op
+en the fuel tank cap lock cover,  in-
+sert the key, and then turn it 1/4 turn
+clockwise.  The lock will be released
+and the fuel tank cap can be opened.
+To close the fuel tank cap
+With the key still inserted,  push  down
+the fuel tank cap. Turn the key 1/4 turn
+counterclockwise,  remove  it, and then
+close the lock cover.
+TIP
+The fuel t ank  cap cannot  be closed  un-
+less the key is in the lock. In addition,the key cannot be removed if the cap is
+no
+t properly closed and locked.
+EWA11092
+WARNING
+Make  sure t hat the fuel tank cap is
+properly  closed  after  filling  fuel.
+Leaking fuel is a fire hazard.Instrument and control functions
+4-324EAU13222
+Fu
+el
+Make sure there is sufficient gasoline in
+the tank.
+EWA10882
+WARNING
+Gasoline and gasoline vapors are ex-
+tr
+emely  flammable.  To avoid  fires
+and explosions  and to reduce  the
+risk of injury  when  refueling,  follow
+these instructions.
+1. Before  refueling,  t urn off the en-
+gine and be sure that no one is sit-
+ting on the vehicle.  Never  refuel
+while  smoking,  or while  in the vi-
+cinity  of sparks,  open  flames,  or
+other  sources  of ignition  such  as
+the pilot lights of water heaters and
+clothes dryers.
+2. Do  not overfill  the fuel tank.  When
+refueling,  be sure to insert  the
+pump nozzle into the fuel tank filler
+hole.  Stop  filling  when  the fuel
+reaches the bottom of the filler
+tube.  Because  fuel expands  when
+it heats up, heat from the engine or
+the sun can cause  fuel to spill out
+of the fuel tank.
+2 11. Fuel tank filler tube
+2.
+Maximum fuel level
+3. Wipe  up a ny spilled  fuel immedi-
+ately. NOTICE:  Immediately wipe
+off spilled  fuel with a clean,  dry,
+soft cloth,  since  fuel may deteri-
+orate painted surfaces or plastic
+parts. [ECA10072]
+4. Be  sure to securely  close  the fuel
+tank cap.
+EWA15152
+WARNING
+Gasoline  is p oisonous  and can
+cause  injury  or death.  Handle  gaso-
+line with care. Never siphon gasoline
+by mouth.  If you should  swallow
+some  gasoline  or inhale  a lot of gas-
+oline  vapor,  or get some  gasoline  inyour eyes, s ee your doctor  immedi-
+ately.  If gasoline  spills  on your skin,
+wash  with soap  and water.  If gaso-
+line spills  on your clothing,  change
+your clothes.
+EAU86072
+ 
+Yo
+ur Yamaha  engine  was designed  to
+use unleaded  gasoline  with a research
+octane  number  of 95 or higher.  If en-
+gine knocking  or pinging  occurs,  use a
+gasoline  of a different  brand  or higher
+octane rating.
+Recommended fuel:
+Unleaded gasoline (E10 acceptable)
+Octane number (RON):
+95
+Fuel tank capacity:
+17 L (4.5 US gal, 3.7 Imp.gal)
+Fuel tank reserve:
+4.0 L (1.06 US gal, 0.88 Imp.gal)Instrument and control functions
+4-334E5 E10
+TIPlThis m ark  identifies  the recom-
+mended  fuel for this vehicle  as
+specified  by European  regulation
+(EN228).
+lConfirm  the gasoline  pump  nozzle
+has the same  fuel identification
+mark.
+Gasohol
+Th
+ere are two types  of gasohol:  gaso-
+hol containing  ethanol  and that con-
+taining  methanol.  Gasohol  containing
+ethanol  can be used  if the ethanol  con-
+tent does not exceed 10% (E10). Gaso-
+hol containing  methanol  is not
+recommended  by Yamaha  because  it
+can cause  damage  to the fuel system
+or vehicle performance problems.ECA11401
+NOTICE
+Use only unleaded gasoline. The use
+of l
+eaded  gasoline  will cause  severe
+damage  to internal  engine  parts,
+such  as the valves  and piston  rings,
+as well as to the exhaust system.EAU86160
+Fu
+el tank overflow hose
+11
+22
+1. Clamp
+2. Fuel tank overflow  hose
+T
+he overflow hose drains excess gaso-
+li
+ne and directs  it safely  away  from the
+vehicle.
+Before operating the vehicle:
+lCheck  the fuel tank overflow  hose
+connection.
+lCheck  the fuel tank overflow  hose
+for cracks  or damage,  and replace
+it if necessary.
+lMake  sure that the fuel tank over-
+flow hose  is not blocked,  and
+clean it if necessary.
+lMake  sure that the fuel tank over-
+flow hose is positioned as shown.Instrument and control functions
+4-344TIPSee page 7 -10 for canister  informa-
+tion.EAU13435
+Ca
+talytic converter
+The exhaust  system  contains  catalytic
+converter(s)  to reduce  harmful  exhaust
+emissions.
+EWA10863
+WARNING
+The exhaust system is hot after oper-
+at
+ion. To prevent  a fire hazard  or
+burns:
+lDo not park  the vehicle  near
+possible  fire hazards  such  as
+grass  or other  materials  that
+easily burn.
+lPark the vehicle in a place where
+pedestrians  or children  are not
+likely  to touch  the hot exhaust
+system.
+lMake  sure that the exhaust  sys-
+tem has cooled down before do-
+ing any maintenance work.
+lDo not allow  the engine  to idle
+more  than a few minutes.  Long
+idling  can cause  a build-up  of
+heat.EAU94110
+Se
+at
+To remove the seat
+1. Open  the seat lock cover,  insert
+the key into the seat lock, and then
+turn the key counterclockwise.
+2233
+11
+1. Seat lock cover
+2. Seat lock
+3. Unlock.
+2. While  holding  t he key in that posi-
+tion, slide the seat backward  and
+then lift the rear of the seat up, and
+then pull the seat off.
+To install the seat
+1. Insert  the projections  into the seat
+holders as shown.Instrument and control functions
+4-35422211. Projection
+2. Seat holder
+2. Push  the r ear of the seat down  to
+lock it in place.
+3. Remove the key.
+TIP
+Make  sure t hat the seat is properly  se-
+cured before riding.
+ECA27380
+NOTICE
+The IMU i s  located  under  the seat.  It
+is not user serviceable and very sen-
+sitive,  so we advise  against  handling
+the IMU directly.
+lDo not remove,  modify,  or place
+any foreign  materials  in or
+around the IMU.lDo not subject the IMU to strong
+s
+hocks.EAU94871
+Ad
+justing the front fork
+ECA22472
+NOTICE
+lUse e xtra  care to avoid  scratch-
+ing the anodized  finish  when
+making  suspension  adjust-
+ments.
+lTo avoid  damaging  the suspen-
+sion’s  internal  mechanisms,  do
+not attempt  to turn beyond  the
+maximum or minimum settings.
+This model  i s equipped  with ÖHLINS
+electronic  racing  suspension.  The
+compression  and rebound  damping
+forces  are electronically  adjusted  (see
+ERS on page  4-21).  The spring  preload
+is manually adjusted.
+Spring preload
+1. Turn the vehicle off.
+2. Slide  the rubber  cover  back  at
+each coupler.
+3. Remove  the coupler  on each  front
+fork. NOTICE:  To prevent  dam-
+aging  the couplers,  do not use
+sharp  tools  or excessive  force.
+[ECA22770]Instrument and control functions
+4-364211. Rubber cover
+2. Coupler
+4. Turn  the a djusting  bolt in direction
+(a) to increase  the spring  preload.
+Turn the adjusting  bolt in direction
+(b) to decrease  the spring  preload.
+To set the spring  preload,  turn the
+adjuster  in direction  (b) until it
+stops,  and then count  the turns  in
+direction (a).
+1
+(a)(b)1. Spring preload adjusting bolt
+Spring preload setting:
+Mi
+nimum (soft):
+0 turn(s) in direction (a)
+Standard:
+11 turn(s) in direction (a)
+Maximum (hard):
+15 turn(s) in direction (a)
+TIP
+When  turning  t he spring  preload  ad-
+juster  in direction  (a), it may turn be-
+yond  the stated  specifications,
+however  such adjustments  are ineffec-
+tive and may damage the suspension.
+5. Attach the coupler on each fork.
+6.
+Slide  the rubber  cover  to the origi-
+nal position.EAU94880
+Ad
+justing the shock absorber
+assembly
+EWA10222
+WARNING
+This shock  a bsorber  assembly  con-
+tains  highly  pressurized  nitrogen
+gas. Read  and understand  the fol-
+lowing  information  before  handling
+the shock absorber assembly.
+lDo not tamper with or attempt to
+open the cylinder assembly.
+lDo not subject  the shock  ab-
+sorber  assembly  to an open
+flame  or other  high heat source.
+This may cause  the unit to ex-
+plode  due to excessive  gas
+pressure.
+lDo not deform  or damage  the
+cylinder  in any way.  Cylinder
+damage  will result  in poor
+damping performance.
+lDo not dispose  of a damaged  or
+worn-out  shock  absorber  as-
+sembly yourself. Take the shock
+absorber assembly to a Yamaha
+dealer for any service.Instrument and control functions
+4-374This model i s equipped  with ÖHLINS
+electronic racing suspension.
+Compression damping force and
+rebound damping force
+The compression  and rebound  damp-
+ing forces  are electronically  controlled
+and can be adjusted  from the MENU
+screen. See ERS on page 4-21 for infor-
+mation on how to adjust these settings.
+Spring preload
+The spring  preload  adjustment  is per-
+formed manually.
+1. Loosen the locknut.
+2. Turn  the adjusting  nut in direction
+(a) to increase  the spring  preload.
+Turn the adjusting  nut in direction
+(b) to decrease the spring preload.
+The spring preload setting is deter-
+mined  by measuring  distance  A.
+The longer distance A is, the higher
+the spring preload; the shorter dis-
+tance  A is, the lower  the spring
+preload.
+lUse the special  wrench  in the
+tool kit to make the adjustment.
+(a)(a)(b)(b)1122331. Spring preload adjusting nut
+2. Locknut
+3. Special wrench
+1
+1. Distance ASpring preload:
+Mi
+nimum (soft):
+Distance A = 0.0 mm (0.00 in)
+Standard:
+Distance A = 4.0 mm (0.16 in)
+Maximum (hard):
+Distance A = 9.0 mm (0.35 in)
+3. Tighten  th e locknut  to the speci-
+fied torque.  NOTICE:  Always
+tighten  the locknut  against  the
+adjusting  nut, and then tighten
+the locknut  to the specified  tor-
+que. [ECA10122]
+Tightening torque:
+Locknut:
+25 N·m (2.5 kgf·m, 18 lb·ft)
+ECA10102
+NOTICE
+To avoid d amaging  the mechanism,
+do not attempt  to turn beyond  the
+maximum or minimum settings.Instrument and control functions
+4-384EAU84680
+Lu
+ggage strap holders
+11
+1. Luggage strap holder
+Use the i ndicated  strap  points  to se-
+cure luggage ties to the vehicle.EAU67050
+EX
+UP system
+This model  is equipped  with Yamaha’s
+EXUP  (EXhaust  Ultimate  Power  valve)
+system.  This system  boosts  engine
+power by means of a valve that controls
+exhaust  flow within  the exhaust  cham-
+ber.
+ECA15611
+NOTICE
+The EXUP s ystem  has been  set and
+extensively  tested  at the Yamaha
+factory.  Changing  these  settings
+without  sufficient  technical  knowl-
+edge may result in poor performance
+of or damage to the engine.EAU93890
+Po
+wer outlet
+11
+1. Power outlet cap
+A 12-V a ccessory  connected  to the
+power  outlet  can be used  when  the
+main switch is on.
+ECA27360
+NOTICE
+The accessory  c onnected  to the
+power outlet should not be used with
+the engine  turned  off, and the load
+must  never  exceed  12 W (1.0A),  oth-
+erwise  the fuse may blow  or the bat-
+tery may discharge.
+To use the power outlet
+1.
+Turn the main switch off.
+2. Remove the power outlet cap.Instrument and control functions
+4-3943. Turn the accessory off.
+4.
+Insert  the accessory  plug into the
+power outlet.
+11
+1. Power outlet
+5. Turn  the m ain switch  on, and start
+the engine. (See page 6-2.)
+6. Turn the accessory on.
+EWA21220
+WARNING
+To prevent  e lectrical  shock  or short-
+circuiting,  make  sure that the cap is
+installed  when  the power  outlet  is
+not being used.EAU15306
+Si
+destand
+The sidestand is located on the left side
+of the frame.  Raise  the sidestand  or
+lower  it with your foot while  holding  the
+vehicle upright.
+TIP
+The built-in  s idestand  switch  is part of
+the ignition  circuit  cut-off  system,
+which  cuts the ignition  in certain  situa-
+tions.  (See the following  section  for an
+explanation  of the ignition  circuit  cut-
+off system.)
+EWA10242
+WARNING
+The vehicle  m ust not be ridden  with
+the sidestand  down,  or if the side-
+stand  cannot  be properly  moved  up
+(or does  not stay up), otherwise  the
+sidestand  could  contact  the ground
+and distract  the operator,  resulting
+in a possible  loss of control.
+Yamaha’s ignition circuit cut-off sys-
+tem has been  designed  to assist  the
+operator  in fulfilling  the responsibili-
+ty of raising the sidestand before
+starting  off. Therefore,  check  this
+system regularly and have a Yamahadealer  repair  i t if it does  not function
+properly.Instrument and control functions
+4-404EAUA1270
+Ig
+nition circuit cut-off system
+This system  prevents  in-gear  engine
+starts  unless  the clutch  lever is pulled
+and the sidestand is up. Also, it will stop
+the running  engine  should  the side-
+stand  be lowered  while  the transmis-
+sion is in gear.
+Periodically  check  this system  via the
+following procedure.
+TIP
+lThis c heck  is most  reliable  if per-
+formed with a warmed-up engine.
+lSee pages  4-2 and 4-3 for switch
+operation information.Instrument and control functions
+4-414EAUA1280
+ 
+With the engine turned off:
+1. Mo
+ve the sidestand down.
+2. Set engine stop switch to run position.
+3. Turn main switch to on position. 
+4. Shift transmission into neutral.
+5. Push the start switch.
+Does the engine start?
+With the engine still running:
+6. Move the sidestand up.
+7. Pull the clutch lever.
+8. Shift transmission into gear.
+9. Move the sidestand down.
+Does the engine stall?
+After the engine has stalled:
+10. Move the sidestand up.
+11. Pull the clutch lever.
+12. Push the start switch.
+Does the engine start?
+The system is OK. The motorcycle can be ridden.YES NOYES NOYES NO
+The neutral switch may not be working.
+The motorc
+ycle should not be ridden until
+checked by a Y amaha dealer.
+The clutch switch may not be working.
+The motorcycle should not be ridden until
+checked by a Y amaha dealer.The sidestand switch may not be working.
+The motorc
+ycle should not be ridden until
+checked by a Y amaha dealer.If a malfunction is found, have the vehicle 
+inspected before riding.WARNINGInstrument and control functions
+4-424EAU1559B
+ 
+In
+spect your vehicle each time you use it to make sure the vehicle is in safe operating condition. Always follow the inspection
+and maintenance procedures and schedules described in the Owner’s Manual.
+EWA11152
+WARNING
+Failure to inspect or maintain the vehicle properly increases the possibility of an accident or equipment damage. Do
+no
+t operate  the vehicle  if you find any problem.  If a problem  cannot  be corrected  by the procedures  provided  in this
+manual, have the vehicle inspected by a Yamaha dealer.
+Before using this vehicle, check the following points:
+ITEM CHECKS PAGE
+Fuel• Check fuel level in fuel tank.
+• R
+efuel if necessary.
+• Check fuel line for leakage.
+• Check fuel tank breather/overflow hose for obstructions, cracks or damage, and
+check hose connection.4-33, 4-34
+Engine oil• Check oil level in engine.
+• I
+f necessary, add recommended oil to specified level.
+• Check vehicle for oil leakage.7-10
+Coolant• Check coolant level in reservoir.
+• I
+f necessary, add recommended coolant to specified level.
+• Check cooling system for leakage.7-11
+Front brake• Check operation.
+• I
+f soft or spongy, have Yamaha dealer bleed hydraulic system.
+• Check brake pads for wear.
+• Replace if necessary.
+• Check fluid level in reservoir.
+• If necessary, add specified brake fluid to specified level.
+• Check hydraulic system for leakage.7-20, 7-20For your safety – pre-operation checks
+5-15ITEM CHECKS PAGE
+Rear brake• Check operation.
+•I
+f soft or spongy, have Yamaha dealer bleed hydraulic system.
+• Check brake pads for wear.
+• Replace if necessary.
+• Check fluid level in reservoir.
+• If necessary, add specified brake fluid to specified level.
+• Check hydraulic system for leakage.7-20, 7-20
+Clutch• Check operation.
+• L
+ubricate cable if necessary.
+• Check lever free play.
+• Adjust if necessary.7-18
+Throttle grip • Check for smooth rotation and automatic return. 7-24
+Control cables• Make sure that operation is smooth.
+• L
+ubricate if necessary.7-24
+Drive chain• Check chain slack.
+• A
+djust if necessary.
+• Check chain condition.
+• Lubricate if necessary.7-22, 7-23
+Wheels and tires• Check for damage.
+• C
+heck tire condition and tread depth.
+• Check air pressure.
+• Correct if necessary.7-15, 7-17
+Brake and shift pedals• Make sure that operation is smooth.
+• L
+ubricate pedal pivoting points if necessary.7-24
+Brake and clutch levers• Make sure that operation is smooth.
+• L
+ubricate lever pivoting points if necessary.7-25
+Sidestand• Make sure that operation is smooth.
+• L
+ubricate pivot if necessary.7-26
+Chassis fasteners• Make sure that all nuts, bolts and screws are properly tightened.
+• T
+ighten if necessary.—For your safety – pre-operation checks
+5-25ITEM CHECKS PAGE
+Instruments, lights, signals
+an
+d switches• Check operation.
+• C
+orrect if necessary.—
+Sidestand switch• Check operation of ignition circuit cut-off system.
+• I
+f system is not working correctly, have Yamaha dealer check vehicle.4-40For your safety – pre-operation checks
+5-35EAU15952
+ 
+Re
+ad the Owner’s  Manual  carefully  to
+become  familiar  with all controls.  If
+there is a control or function you do not
+understand, ask your Yamaha dealer.
+EWA10272
+WARNING
+Failure  to f amiliarize  yourself  with
+the controls  can lead to loss of con-
+trol, which  could  cause  an accident
+or injury.EAU16842
+En
+gine break-in
+There  is never  a more  important  period
+in the life of your engine than the period
+between  0 and 1600  km (1000  mi). For
+this reason, you should read the follow-
+ing material carefully.
+Since  the engine  is brand  new, do not
+put an excessive  load on it for the first
+1600 km (1000 mi). The various parts in
+the engine  wear  and polish  themselves
+to the correct  operating  clearances.
+During this period, prolonged full-throt-
+tle operation  or any condition  that
+might result in engine overheating must
+be avoided.
+EAU17085
+ 
+0–1000 km (0–600 mi)
+Avoid prolonged operation above 5900
+r/min.  NOTICE:  After  1000  km (600
+mi) of operation,  the engine  oil must
+be changed  and the oil filter  car-
+tridge or element replaced. [ECA10303]1000–1600 km (600–1000 mi)
+Av
+oid prolonged operation above 7100
+r/min.
+1600 km (1000 mi) and beyond
+The vehicle  can now be operated  nor-
+mally.
+ECA10311
+NOTICE
+lKeep t he  engine  speed  out of
+the tachometer red zone.
+lIf any engine  trouble  should  oc-
+cur during  the engine  break-in
+period,  immediately  have  a
+Yamaha  dealer  check  the vehi-
+cle.
+TIP
+During  and a fter the engine  break-in
+period,  the exhaust  heat may cause
+discoloration  of the exhaust  pipe,  but
+this is normal.Operation and important riding points
+6-16EAU91411
+St
+arting the engine
+The ignition  circuit  cut-off  system  will
+enable starting when:
+lthe transmission  is in the neutral
+position or
+lthe transmission  is in gear,  the
+sidestand is up, and the clutch lev-
+er is pulled.
+To start the engine
+1.
+Turn the main  switch  on and set
+the engine  stop switch  to the run
+position.
+2. Confirm  the indicator  and warning
+light(s) come on for a few seconds,
+and then go off. (See page 4-5.)
+TIP
+lDo n ot  start the engine  if the mal-
+function indicator light remains on.
+lThe oil pressure  and coolant  tem-
+perature  warning  light should
+come  on and stay on until the en-
+gine is started.
+lThe ABS warning  light should
+come on and stay on until the vehi-
+cle reaches  a speed  of 5 km/h  (3
+mi/h).ECA24110
+NOTICE
+If a warning  o r indicator  light does
+not work as described above, have a
+Yamaha dealer check the vehicle.
+3. Shift the transmission into the neu-
+tr
+al position.
+4. Start  the engine  by pushing  the
+start switch.
+5. Release  the start switch  when  the
+engine  starts,  or after 5 seconds.
+Wait 10 seconds  before  pressing
+the switch  again  to allow  battery
+voltage to restore.
+TIP
+If the e ngine  fails to start,  try again  with
+the throttle grip turned by a 1/4 turn (20
+degrees) open.
+111. 1/4 turn (20 degrees)
+ECA11043
+NOTICE
+For maximum  e ngine  life, never  ac-
+celerate  hard  when  the engine  is
+cold!Operation and important riding points
+6-26EAU68221
+ 
+TIP
+This model is equipped with:
+lan
+ inertial measurement unit (IMU).
+This unit stops  the engine  in case
+of a turnover. Turn the main switch
+off and then on before  attempting
+to restart  the engine.  Failing  to do
+so will prevent  the engine  from
+starting  even  though  the engine
+will crank  when  pushing  the start
+switch.
+lan engine  auto-stop  system.  The
+engine  stops  automatically  if left
+idling  for 20 minutes.  If the engine
+stops, simply push the start switch
+to restart the engine.EAU67084
+Sh
+ifting
+226
+5
+4
+3
+2
+N
+111
+1. Shift pedal
+2. Gear positions
+Shifting  gears l ets you control  the
+amount  of engine  power  available  for
+starting  off, accelerating,  climbing  hills,
+etc.
+This model  is equipped  with a quick
+shifter. See pages 3-3 and 4-20.
+TIP
+To shift into neutral (
+ ), gently depress
+th
+e shift pedal from 2nd gear, or slightly
+raise it while in 1st gear.ECA22523
+NOTICE
+lWhen s hifting,  press  the shift
+pedal  firmly  until you feel the
+gear shift is complete.
+lEven  with the transmission  in
+the neutral  position,  do not
+coast  for long periods  of time
+with the engine  off, nor tow the
+motorcycle  for long distances.
+The transmission  is properly  lu-
+bricated only when the engine is
+running.  Inadequate  lubrication
+may damage the transmission.
+lExcept  when  using  the quick
+shifter,  always  pull the clutch
+lever  when  changing  gears  to
+avoid  damaging  the engine,
+transmission, and drivetrain.
+EAU85370
+To
+ start out and accelerate
+1. Pull  the clutch  lever to disengage
+the clutch.
+2. Shift  the transmission  into first
+gear.  The neutral  indicator  light
+should go out.Operation and important riding points
+6-363. Open  the t hrottle  gradually,  and at
+the same  time,  release  the clutch
+lever slowly.
+4. After  starting  out, close  the throt-
+tle, and at the same  time,  quickly
+pull the clutch lever in.
+5. Shift  the transmission  into second
+gear.  (Make  sure not to shift the
+transmission  into the neutral  posi-
+tion.)
+6. Open  the throttle part way and
+gradually release the clutch lever.
+7. Follow  the same  procedure  when
+shifting to the next higher gear.
+EAU85380
+To decelerate
+1. Release  the throttle  and apply
+both the front and the rear brakes
+smoothly to slow the motorcycle.
+2. As  the vehicle  decelerates,  shift to
+a lower gear.
+3. When the engine is about to stall or
+runs roughly,  pull the clutch  lever
+in, use the brakes  to slow the mo-
+torcycle,  and continue  to down-
+shift as necessary.
+4. Once the motorcycle has stopped,
+the transmission can  be shiftedinto the n eutral  position.  The neu-
+tral indicator  light should  come  on
+and then the clutch  lever can be
+released.
+EWA17380
+WARNING
+lImproper  b raking  can cause
+loss of control  or traction.  Al-
+ways  use both  brakes  and apply
+them smoothly.
+lMake  sure that the motorcycle
+and the engine  have  sufficiently
+slowed before shifting to a lower
+gear.  Engaging  a lower  gear
+when  the vehicle  or engine
+speed  is too high could  make
+the rear wheel  lose traction  or
+the engine  to over-rev.  This
+could  cause  loss of control,  an
+accident and injury. It could also
+cause engine or drive train dam-
+age.EAU16811
+Ti
+ps for reducing fuel
+consumption
+Fuel consumption  depends  largely  on
+your riding style. Consider the following
+tips to reduce fuel consumption:
+lShift up swiftly, and avoid high en-
+gine speeds during acceleration.
+lDo not rev the engine while shifting
+down,  and avoid  high engine
+speeds with no load on the engine.
+lTurn the engine  off instead  of let-
+ting it idle for an extended length of
+time (e.g.,  in traffic  jams,  at traffic
+lights or at railroad crossings).Operation and important riding points
+6-46EAU17214
+Pa
+rking
+When  parking,  stop the engine,  and
+then remove  the key from the main
+switch.
+EWA10312
+WARNING
+lSince t he  engine  and exhaust
+system  can become  very hot,
+park  in a place  where  pedes-
+trians or children are not likely to
+touch them and be burned.
+lDo not park on a slope or on soft
+ground,  otherwise  the vehicle
+may overturn,  increasing  the
+risk of a fuel leak and fire.
+lDo not park near grass  or other
+flammable  materials  which
+might catch fire.Operation and important riding points
+6-56EAU17246
+ 
+Pe
+riodic  inspection,  adjustment,  and
+lubrication  will keep  your vehicle  in the
+safest  and most  efficient  condition
+possible.  Safety  is an obligation  of the
+vehicle  owner/operator.  The most  im-
+portant  points  of vehicle  inspection,
+adjustment,  and lubrication  are ex-
+plained on the following pages.
+The intervals given in the periodic main-
+tenance  charts  should  be simply  con-
+sidered  as a general  guide  under
+normal riding conditions. However, de-
+pending  on the weather,  terrain,  geo-
+graphical  location,  and individual  use,
+the maintenance  intervals  may need  to
+be shortened.
+EWA10322
+WARNING
+Failure to properly maintain the vehi-
+cl
+e or performing  maintenance  ac-
+tivities incorrectly may increase your
+risk of injury  or death  during  service
+or while  using  the vehicle.  If you are
+not familiar  with vehicle  service,
+have  a Yamaha  dealer  perform  serv-
+ice.EWA15123
+WARNING
+Turn off the engine when performing
+ma
+intenance  unless  otherwise
+specified.
+lA running  engine  has moving
+parts  that can catch  on body
+parts  or clothing  and electrical
+parts  that can cause  shocks  or
+fires.
+lRunning the engine while servic-
+ing can lead to eye injury, burns,
+fire, or carbon  monoxide  poi-
+soning  – possibly  leading  to
+death. See page 1-2 for more in-
+formation  about  carbon  monox-
+ide.
+EWA15461
+WARNING
+Brake discs, calipers, drums, and lin-
+in
+gs can become  very hot during
+use. To avoid  possible  burns,  let
+brake  components  cool  before
+touching them.EAU17303
+ 
+Em
+ission  controls  not only function  to
+ensure  cleaner  air, but are also vital to
+proper engine operation and maximum
+performance.  In the following  periodic
+maintenance  charts,  the services  relat-
+ed to emissions  control  are grouped
+separately. These services require spe-
+cialized  data,  knowledge,  and equip-
+ment.  Maintenance,  replacement,  or
+repair  of the emission  control  devices
+and systems  may be performed  by any
+repair  establishment  or individual  that
+is certified (if applicable). Yamaha deal-
+ers are trained  and equipped  to per-
+form these particular services.Periodic maintenance and adjustment
+7-17EAU85240
+To
+ol kits
+1
+1. Tool kit
+The on–board  t ool kit is in the location
+shown.  Also,  an additional  tool kit was
+handed out separately at the time of ve-
+hicle purchase.
+The information included in this manual
+and the tools  provided  in the tool kits
+are intended  to assist  you in the per-
+formance  of preventive  maintenance
+and minor  repairs.  However,  a torque
+wrench  and other  tools  are necessary
+to perform  certain  maintenance  work
+correctly.
+TIPIf you d o  not have the tools  or experi-
+ence  required  for a particular  job, have
+your Yamaha dealer perform it for you.Periodic maintenance and adjustment
+7-27EAU71033
+Pe
+riodic maintenance charts
+TIP
+lItems  m arked  with an asterisk  should  be performed  by your Yamaha  dealer  because  these  items  require  special  tools,
+data, and technical skills.
+lFrom 50000 km (30000 mi), repeat the maintenance intervals starting from 10000 km (6000 mi).
+lThe annual  checks  must  be performed  every  year,  except  if a distance-based  maintenance  is performed  in-
+stead.
+EAU71052
+Pe
+riodic maintenance chart for the emission control system
+NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+1*Fuel line• Check fuel hoses for cracks or
+da
+mage.
+• Replace if necessary.  Ö Ö Ö Ö Ö
+2*Spark plugs• Check condition.
+• A
+djust gap and clean.  Ö   Ö    
+• Replace.     Ö   Ö  
+3*Valve clearance • Check and adjust. Every 40000 km (24000 mi)
+4*Fuel injection• Check engine idle speed. Ö Ö Ö Ö Ö Ö
+• Check and adjust synchronization.   Ö Ö Ö Ö Ö
+5*Exhaust system• Check for leakage.
+• T
+ighten if necessary.
+• Replace gaskets if necessary.Ö Ö Ö Ö Ö  
+6*Evaporative emis-
+si
+on control system• Check control system for damage.
+• R
+eplace if necessary.    Ö   Ö  Periodic maintenance and adjustment
+7-37NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+7*Air induction system• Check the air cut-off valve, reed
+va
+lve, and hose for damage.
+• Replace any damaged parts if nec-
+essary.  Ö Ö Ö Ö ÖPeriodic maintenance and adjustment
+7-47EAU71354
+Ge
+neral maintenance and lubrication chart
+NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+1*Diagnostic system
+ch
+eck• Perform dynamic inspection using
+Ya
+maha diagnostic tool.
+• Check the error codes.Ö Ö Ö Ö Ö Ö
+2*Air filter element • Replace. Every 40000 km (24000 mi)
+3 Clutch• Check operation.
+• A
+djust.Ö Ö Ö Ö Ö  
+4*Front brake• Check operation, fluid level, and for
+fl
+uid leakage.
+• Adjust brake lever free play.
+• Replace brake pads if necessary.Ö Ö Ö Ö Ö Ö
+5*Rear brake• Check operation, fluid level, and for
+fl
+uid leakage.
+• Replace brake pads if necessary.Ö Ö Ö Ö Ö Ö
+6*Brake hoses• Check for cracks or damage.   Ö Ö Ö Ö Ö
+• Replace. Every 4 years
+7*Brake fluid • Change. Every 2 years
+8*Wheels• Check runout and for damage.
+• R
+eplace if necessary.  Ö Ö Ö Ö  
+9*Tires• Check tread depth and for dam-
+ag
+e.
+• Replace if necessary.
+• Check air pressure.
+• Correct if necessary.  Ö Ö Ö Ö Ö
+10*Wheel bearings• Check bearing for looseness or
+da
+mage.  Ö Ö Ö Ö  Periodic maintenance and adjustment
+7-57NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+11*Swingarm pivot
+be
+arings• Check operation and for excessive
+pl
+ay.  Ö Ö Ö Ö  
+• Lubricate with lithium-soap-based
+gr
+ease.Every 50000 km (30000 mi)
+12 Drive chain• Check chain slack, alignment and
+co
+ndition.
+• Adjust and lubricate chain with a
+special O-ring chain lubricant thor-
+oughly.Every 1000 km (600 mi) and after washing the motorcycle, riding in the rain or riding
+in
+ wet areas
+13*Steering bearings• Check bearing assemblies for
+lo
+oseness.Ö Ö   Ö    
+• Moderately repack with lithium-
+so
+ap-based grease.    Ö   Ö  
+14*Steering damper• Check operation and for oil leak-
+ag
+e.  Ö Ö Ö Ö  
+15*Chassis fasteners• Make sure that all nuts, bolts and
+sc
+rews are properly tightened.  Ö Ö Ö Ö Ö
+16*Brake lever pivot
+sh
+aft• Lubricate with silicone grease.   Ö Ö Ö Ö Ö
+17 Brake pedal pivot
+sh
+aft• Lubricate with lithium-soap-based
+gr
+ease.  Ö Ö Ö Ö Ö
+18 Clutch lever pivot
+sh
+aft• Lubricate with lithium-soap-based
+gr
+ease.  Ö Ö Ö Ö Ö
+19 Shift pedal pivot
+sh
+aft• Lubricate with molybdenum disul-
+fi
+de grease.  Ö Ö Ö Ö Ö
+20 Sidestand• Check operation.
+• L
+ubricate with lithium-soap-based
+grease.  Ö Ö Ö Ö ÖPeriodic maintenance and adjustment
+7-67NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+21*Sidestand switch• Check operation and replace if
+ne
+cessary.Ö Ö Ö Ö Ö Ö
+22*Front fork• Check operation and for oil leak-
+ag
+e.
+• Replace if necessary.  Ö Ö Ö Ö  
+23*Shock absorber as-
+se
+mbly• Check operation and for oil leak-
+ag
+e.
+• Replace if necessary.  Ö Ö Ö Ö  
+24*Rear suspension re-
+la
+y arm and connect-
+ing arm pivoting
+points• Check operation.   Ö Ö Ö Ö  
+25*Engine oil• Change (warm engine before drain-
+in
+g).
+• Check oil level and vehicle for oil
+leakage.Ö Ö Ö Ö Ö Ö
+26*Engine oil filter car-
+tr
+idge• Replace. Ö   Ö   Ö  
+27*Cooling system• Check coolant level and vehicle for
+co
+olant leakage.  Ö Ö Ö Ö Ö
+• Change. Every 3 years
+28*EXUP system• Check operation, cable free play
+an
+d pulley position.Ö   Ö   Ö  
+29*Front and rear brake
+sw
+itches• Check operation. Ö Ö Ö Ö Ö Ö
+30*Moving parts and ca-
+bl
+es• Lubricate.   Ö Ö Ö Ö ÖPeriodic maintenance and adjustment
+7-77NO. ITEM CHECK OR MAINTENANCE JOBODOMETER READINGANNUAL
+CH
+ECK1000 km
+(6
+00 mi)10000 km
+(6
+000 mi)20000 km
+(1
+2000 mi)30000 km
+(1
+8000 mi)40000 km
+(2
+4000 mi)
+31*Throttle grip• Check operation.
+• L
+ubricate throttle grip housing tube
+guides.  Ö Ö Ö Ö Ö
+32*Lights, signals and
+sw
+itches• Check operation.
+• A
+djust headlight beam.Ö Ö Ö Ö Ö Ö
+EAU94952
+ 
+TIP
+lAir filter
+•
+This model’s  air filter is equipped  with a disposable  oil-coated  paper  element,  which  must  not be cleaned  with com-
+pressed air to avoid damaging it.
+• The air filter element needs to be replaced more frequently when riding in unusually wet or dusty areas.
+lHydraulic brake service
+• Regularly check and, if necessary, correct the brake fluid level.
+• Every  two years  replace  the internal  components  of the brake  master  cylinders  and calipers,  and change  the brake
+fluid.
+• Replace the brake hoses every four years and if cracked or damaged.
+• Replace  the front brake  hose  every  four years  or sooner  if any section  of the brake  hose,  which  is made  of stainless
+steel, has turned black.Periodic maintenance and adjustment
+7-87EAU67110
+Ch
+ecking the spark plugs
+The spark  plugs  are important  engine
+components, which should be checked
+periodically,  preferably  by a Yamaha
+dealer.  Since  heat and deposits  will
+cause  any spark  plug to slowly  erode,
+they should  be removed  and checked
+in accordance  with the periodic  main-
+tenance  and lubrication  chart.  In addi-
+tion, the condition  of the spark  plugs
+can reveal the condition of the engine.
+The porcelain insulator around the cen-
+ter electrode of each spark plug should
+be a medium-to-light  tan (the ideal col-
+or when  the vehicle  is ridden  normally),
+and all spark  plugs  installed  in the en-
+gine should  have the same  color.  If any
+spark  plug shows  a distinctly  different
+color,  the engine  could  be operating
+improperly. Do not attempt to diagnose
+such problems  yourself.  Instead,  have
+a Yamaha dealer check the vehicle.
+If a spark plug shows signs of electrode
+erosion  and excessive  carbon  or other
+deposits, it should be replaced.Specified spark plug:
+NI
+TERRA CO., LTD.(Former NGK
+SPARK PLUG CO., LTD.)/LMAR9E-J
+Before installing a spark plug, the spark
+pl
+ug gap should  be measured  with a
+wire thickness gauge and, if necessary,
+adjusted to specification.
+11
+1. Spark plug gap
+Spark plug gap:
+0.
+6–0.7 mm (0.024–0.028 in)
+Clean  the s urface  of the spark  plug
+gasket and its mating surface, and then
+wipe off any grime  from the spark  plug
+threads.Tightening torque:
+Sp
+ark plug (new):
+18 N·m (1.8 kgf·m, 13 lb·ft)
+Spark plug (after checking):
+13 N·m (1.3 kgf·m, 9.6 lb·ft)
+ECA10841
+NOTICE
+Do not use any tools to remove or in-
+st
+all the spark  plug cap, otherwise
+the ignition  coil coupler  may get
+damaged.  The spark  plug cap may
+be difficult  to remove  because  the
+rubber seal on the end of the cap fits
+tightly. To remove  the spark  plug
+cap, simply  twist  it back  and forth
+while pulling it out; to install it, twist it
+back and forth while pushing it in.Periodic maintenance and adjustment
+7-97EAU36113
+Ca
+nister
+12
+1. Canister
+2. Canister breather
+This model i s equipped  with a canister
+to prevent the discharging of fuel vapor
+into the atmosphere.  Before  operating
+this vehicle, make sure to check the fol-
+lowing:
+lCheck each hose connection.
+lCheck  each  hose  and canister  for
+cracks  or damage.  Replace  if
+damaged.
+lMake  sure that the canister
+breather is not blocked, and if nec-
+essary, clean it.EAU94853
+En
+gine oil
+The engine  oil level should  be checked
+before each ride. In addition, the engine
+oil must  be changed  and the oil filter
+cartridge  replaced  by your Yamaha
+dealer  at the intervals  specified  in the
+periodic maintenance chart.
+Recommended engine oil:
+Full synthetic
+10W-40, 15W-50
+Oil quantity:
+Oil change:
+3.90 L (4.12 US qt, 3.43 Imp.qt)
+With oil filter removal:
+4.10 L (4.33 US qt, 3.61 Imp.qt)
+ECA11621
+NOTICE
+lIn o rder  to prevent  clutch  slip-
+page  (since  the engine  oil also
+lubricates the clutch), do not mix
+any chemical  additives.  Do not
+use oils with a diesel  specifica-
+tion of “CD”  or oils of a higher
+quality  than specified.  In addi-
+tion, do not use oils labeled “EN-
+ERGY  CONSERVING  II” or
+higher.lMake sure that no foreign mate-
+r
+ial enters the crankcase.
+To check the engine oil level
+1.
+Start  the engine,  warm  it up for
+several  minutes,  and then turn it
+off.
+2. Wait a few minutes until the oil lev-
+el settles  and with the vehicle  on a
+level surface,  hold it upright  for an
+accurate reading.
+3. Check  the oil level through  the
+check  window  located  at the bot-
+tom of the left-side  of the crank-
+case.
+TIP
+The engine  o il should  be between  the
+minimum and maximum level marks.
+211
+3Periodic maintenance and adjustment
+7-1071. Engine oil level check window
+2. Maximum level mark
+3. Minimum level mark
+4. If the e ngine  oil is at or below  the
+minimum  level mark,  remove  the
+oil filler cap and add oil.
+1
+2
+1. Engine oil filler cap
+2.
+O-ring
+5. Check  the O -ring for damage,  and
+replace if necessary.
+6. Install the engine oil filler cap.
+To change the engine oil and the
+oil filter cartridge
+Have  a Yamaha  dealer  change  the en-
+gine oil and the oil filter cartridge.EAU85450
+Wh
+y Yamalube
+YAMALUBE  oil is a Genuine  YAMAHA
+Part born of the engineers’ passion and
+belief that engine oil is an important liq-
+uid engine component. We form teams
+of specialists in the fields of mechanical
+engineering, chemistry, electronics and
+track  testing,  and have them  develop
+the engine  together  with the oil it will
+use. Yamalube  oils take full advantage
+of the base  oil’s qualities  and blend  in
+the ideal balance  of additives  to make
+sure the final oil clears our performance
+standards.  Thus,  Yamalube  mineral,
+semisynthetic  and synthetic  oils have
+their own distinct characters and value.
+Yamaha’s  experience  gained  over
+many  years  of research  and develop-
+ment  into oil since  the 1960’s  helps
+make  Yamalube  the best choice  for
+your Yamaha engine.
+EAUS1203
+Co
+olant
+The coolant  level should  be checked
+regularly.  In addition,  the coolant  must
+be changed at the intervals specified in
+the periodic maintenance chart.
+Recommended coolant:
+YAMALUBE coolant
+Coolant quantity:
+Coolant reservoir (max level mark):
+0.24 L (0.25 US qt, 0.21 Imp.qt)
+Radiator (including all routes):
+2.25 L (2.38 US qt, 1.98 Imp.qt)
+TIP
+If genuine  Y amaha  coolant  is not avail-
+able,  use an ethylene  glycol  antifreeze
+containing  corrosion  inhibitors  for alu-
+minum  engines  and mix with distilled
+water at a 1:1 ratio.
+EAU94092
+To
+ check the coolant level
+Since  the coolant  level varies  with en-
+gine temperature,  check  when  the en-
+gine is cold.
+1. Park the vehicle on a level surface.Periodic maintenance and adjustment
+7-1172. With the vehicle in an upright posi-
+ti
+on, look at the coolant level in the
+reservoir.
+21
+1. Maximum level mark
+2. Minimum level mark
+3. If the c oolant  is at or below  the
+minimum  level mark,  remove  the
+coolant  reservoir  cap by referring
+to the following procedure.4. Remove the quick fastener.
+1
+1. Quick fastener
+TIP
+The quick fastener is removed by push-
+in
+g in the center pin and then pulling the
+fastener out.
+5. Pull  the c oolant  reservoir  cover  A
+toward you as shown, and then re-move  it b y  sliding  it downward.
+NOTICE:  When  removing  the
+coolant reservoir cover  A, re-
+move it while making sure that it
+does  not contact  the radiator
+fin. [ECA27400]
+1122
+11
+1. Coolant reservoir cover A
+2. Radiator fin
+6. Remove the bolt, and then remove
+th
+e coolant reservoir cover B.Periodic maintenance and adjustment
+7-12711221. Bolt
+2. Coolant reservoir cover B
+7. Remove the coolant reservoir cap.
+WA
+RNING!  Remove  only the
+coolant  reservoir  cap. Never  at-
+tempt  to remove  the radiator
+cap when  the engine  is hot.
+[EWA15162]
+1
+1. Coolant reservoir cap8. Add  coolant  t o the maximum  level
+mark.  NOTICE:  If coolant  is not
+available,  use distilled  water  or
+soft tap water  instead.  Do not
+use hard  water  or salt water
+since  it is harmful  to the engine.
+If water  has been  used  instead
+of coolant,  replace  it with cool-
+ant as soon  as possible,  other-
+wise  the cooling  system  will not
+be protected  against  frost  and
+corrosion.  If water  has been
+added  to the coolant,  have  a
+Yamaha  dealer  check  the anti-
+freeze  content  of the coolant  as
+soon  as possible,  otherwise  the
+effectiveness  of the coolant  will
+be reduced. [ECA10473]
+9. Install the coolant reservoir cap.
+10. Place the coolant reservoir cover B
+in its original  position,  and then
+tighten  the bolts  to the specified
+torque.
+Tightening torque:
+Coolant reservoir cover bolt:
+4.3 N·m (0.43 kgf·m, 3.2 lb·ft)11. Place the coolant reservoir cover A
+in i
+ts original  position,  and then in-
+stall the quick fastener.
+TIP
+The quick fastener is installed by push-
+in
+g out the center pin, inserting the fas-
+tener  into the cover,  and then by
+pushing  the center  pin flush with the
+fastener head.
+EAU33032
+Ch
+anging the coolant
+The coolant must be changed at the in-
+tervals specified in the periodic mainte-
+nance  and lubrication  chart.  Have  a
+Yamaha  dealer  change  the coolant.
+WARNING! Never attempt to remove
+the radiator  cap when  the engine  is
+hot. [EWA10382]Periodic maintenance and adjustment
+7-137EAU36765
+Ai
+r filter element
+The air filter element  must  be replaced
+at the intervals  specified  in the periodic
+maintenance  and lubrication  chart.
+Have  a Yamaha  dealer  replace  the air
+filter element.EAU44735
+Ch
+ecking the engine idling
+speed
+Check  the engine  idling  speed  and, if
+necessary,  have  it corrected  by a
+Yamaha dealer.
+Engine idling speed:
+1200–1400 r/minEAU21403
+Va
+lve clearance
+The valves  are an important  engine
+component,  and since  valve  clearance
+changes  with use, they must  be
+checked  and adjusted  at the intervals
+specified  in the periodic  maintenance
+chart.  Unadjusted  valves  can result  in
+improper air-fuel mixture, engine noise,
+and eventually engine damage. To pre-
+vent this from occurring,  have  your
+Yamaha  dealer  check  and adjust  the
+valve clearance at regular intervals.
+TIP
+This service  m ust be performed  when
+the engine is cold.Periodic maintenance and adjustment
+7-147EAU94082
+Ti
+res
+Tires  are the only contact  between  the
+vehicle  and the road.  Safety  in all con-
+ditions of riding depends on a relatively
+small area of road contact. Therefore, it
+is essential to maintain the tires in good
+condition  at all times  and replace  them
+at the appropriate  time with the speci-
+fied tires.
+Tire air pressure
+The tire air pressure should be checked
+and, if necessary, adjusted before each
+ride.
+EWA10504
+WARNING
+Operation  of t his vehicle  with im-
+proper  tire pressure  may cause  se-
+vere injury  or death  from  loss of
+control.
+lThe tire air pressure  must  be
+checked  and adjusted  on cold
+tires (i.e., when  the temperature
+of the tires equals  the ambient
+temperature).
+lThe tire air pressure must be ad-
+justed  in accordance  with the
+riding  speed  and with the totalweight  of r ider, passenger,  car-
+go, and accessories  approved
+for this model.
+Cold tire air pressure:
+1 
+person:
+Front:
+250 kPa (2.50 kgf/cm², 36 psi)
+Rear:
+290 kPa (2.90 kgf/cm², 42 psi)
+2 persons:
+Front:
+250 kPa (2.50 kgf/cm², 36 psi)
+Rear:
+290 kPa (2.90 kgf/cm², 42 psi)
+Maximum load:
+Vehicle:
+171 kg (377 lb)
+The vehicle’s maximum load is the
+combined weight of the rider, passen-
+ger, cargo, and any accessories.
+EWA10512
+WARNING
+Never  overload  y our vehicle.  Opera-
+tion of an overloaded  vehicle  could
+cause an accident.Tire inspection
+2
+12
+1. Tire sidewall
+2. Tire tread depth
+The tires must be checked before each
+ri
+de. If the center  tread  depth  reaches
+the specified limit, if the tire has a nail or
+glass fragments in it, or if the sidewall is
+cracked, have a Yamaha dealer replace
+the tire immediately.
+Minimum tire tread depth (front and
+rear):
+1.6 mm (0.06 in)
+TIP
+The tire t read  depth  limits  may differ
+from country  to country.  Always  com-
+ply with the local regulations.Periodic maintenance and adjustment
+7-157EWA10472
+WARNING
+lHave a Y amaha  dealer  replace
+excessively  worn  tires.  Besides
+being  illegal,  operating  the vehi-
+cle with excessively  worn  tires
+decreases  riding  stability  and
+can lead to loss of control.
+lThe replacement  of all wheel
+and brake-related  parts,  includ-
+ing the tires,  should  be left to a
+Yamaha  dealer,  who has the
+necessary  professional  knowl-
+edge and experience to do so.
+lRide  at moderate  speeds  after
+changing a tire since the tire sur-
+face must first be “broken in” for
+it to develop  its optimal  charac-
+teristics.Tire information
+12
+3
+1. Tire air valve cap with seal
+2. Clamp-in valve
+3. Wheel rim
+1
+1. Tire air valve
+This model i s equipped  with tubeless
+tires and tire air valves.Tires  age, e ven if they have not been
+used or have only been used occasion-
+ally. Cracking  of the tread  and sidewall
+rubber,  sometimes  accompanied  by
+carcass  deformation,  is an evidence  of
+ageing.  Old and aged  tires shall be
+checked  by tire specialists  to ascertain
+their suitability for further use.
+EWA21232
+WARNING
+lThe f ront  and rear tires should
+be of the same  make  and de-
+sign,  otherwise  the handling
+characteristics  of the motorcy-
+cle may be different,  which
+could lead to an accident.
+lAlways  make  sure that the valve
+caps are  securely installed to
+prevent air pressure leakage.
+lUse only the tire valves  and
+valve cores listed below to avoid
+tire deflation during a ride.
+lThe tire air valve  original  posi-
+tion is with the valve  cap point-
+ing to the right  side of the
+vehicle,  perpendicular  (90 de-
+gree  right  angle)  to the axis
+(center  line) of the wheel.  If thePeriodic maintenance and adjustment
+7-167tire air v alve  becomes  mis-
+aligned, do not twist it back to its
+original  position  by yourself.
+Otherwise,  leakage  may occur.
+Have  a Yamaha  dealer  inspect
+the valve.
+After extensive  t ests, only the tires list-
+ed below  have been  approved  for this
+model by Yamaha.
+Front tire:
+Size:
+120/70ZR17M/C(58W)
+Manufacturer/model:
+BRIDGESTONE/BATTLAX HY-
+PERSPORT S22F
+Rear tire:
+Size:
+190/55ZR17M/C(75W)
+Manufacturer/model:
+BRIDGESTONE/BATTLAX HY-
+PERSPORT S22R
+FRONT and REAR:
+Tire air valve:
+PVR251
+EWA10601
+WARNING
+This motorcycle  i s fitted  with super-
+high-speed  tires.  Note  the followingpoints in order to make the most effi-
+ci
+ent use of these tires.
+lUse only the specified  replace-
+ment  tires.  Other  tires may run
+the danger  of bursting  at super
+high speeds.
+lBrand-new tires can have a rela-
+tively  poor  grip on certain  road
+surfaces until  they have been
+“broken  in”. Therefore,  it is ad-
+visable  before  doing  any high-
+speed  riding  to ride
+conservatively  for approximate-
+ly 100 km (60 mi) after installing a
+new tire.
+lThe tires must  be warmed  up
+before a high-speed run.
+lAlways  adjust  the tire air pres-
+sure according  to the operating
+conditions.EAU21963
+Ca
+st wheels
+To maximize the performance, durabili-
+ty, and safe operation  of your vehicle,
+note the following  points  regarding  the
+specified wheels.
+lThe wheel rims should be checked
+for cracks, bends, warpage or oth-
+er damage  before  each  ride. If any
+damage  is found,  have a Yamaha
+dealer  replace  the wheel.  Do not
+attempt even the smallest repair to
+the wheel.  A deformed  or cracked
+wheel must be replaced.
+lThe wheel  should  be balanced
+whenever  either  the tire or wheel
+has been changed or replaced. An
+unbalanced  wheel  can result  in
+poor performance,  adverse  han-
+dling  characteristics,  and a short-
+ened tire life.Periodic maintenance and adjustment
+7-177EAU94121
+Ad
+justing the clutch lever free
+play
+Measure  the clutch  lever free play as
+shown.
+12(a)
+(b)(b)
+1. Clutch lever free play
+2. Clutch lever free play adjusting bolt
+Clutch lever free play:
+10
+.0–15.0 mm (0.39–0.59 in)
+Periodically  ch eck the clutch  lever free
+play and, if necessary,  adjust  it as fol-
+lows.
+To increase  the clutch  lever free play,
+turn the clutch  lever free play adjusting
+bolt at the clutch  lever in direction  (a).
+To decrease  the clutch  lever free play,
+turn the adjusting bolt in direction (b).
+TIPIf the s pecified  clutch  lever free play
+cannot  be obtained  as described
+above, proceed as follows.
+1. Fully  turn t he adjusting  bolt at the
+clutch  lever in direction  (a) to loos-
+en the clutch cable.
+2. Loosen  the locknut  further  down
+the clutch cable.
+3. To  increase  the clutch  lever free
+play, turn the clutch  lever free play
+adjusting  nut in direction  (a). To
+decrease the clutch lever free play,
+turn the adjusting  nut in direction
+(b).
+(b)(b)11 2 2
+(a)(a)
+1. Locknut
+2. Clutch lever free play adjusting nut4. Tighten  th e locknut  to the speci-
+fied torque.
+Tightening torque:
+Locknut:
+7 N·m (0.7 kgf·m, 5.2 lb·ft)Periodic maintenance and adjustment
+7-187EAU37914
+Ch
+ecking the brake lever free
+play
+11
+1. No brake lever free play
+There  should  b e no free play at the
+brake  lever end. If there  is free play,
+have  a Yamaha  dealer  inspect  the
+brake system.
+EWA14212
+WARNING
+A soft o r  spongy  feeling  in the brake
+lever can indicate the presence of air
+in the hydraulic system. If there is air
+in the hydraulic  system,  have  a
+Yamaha dealer bleed the system be-
+fore operating  the vehicle.  Air in the
+hydraulic  system  will diminish  the
+braking performance, which may re-sult in l oss  of control  and an acci-
+dent.EAU36505
+Br
+ake light switches
+The brake light should come on just be-
+fore braking  takes  effect.  The brake
+light is activated  by switches  connect-
+ed to the brake  lever and brake  pedal.
+Since the brake light switches are com-
+ponents  of the anti-lock  brake  system,
+they should  only be serviced  by a
+Yamaha dealer.Periodic maintenance and adjustment
+7-197EAU22393
+Ch
+ecking the front and rear
+brake pads
+The front and rear brake  pads  must  be
+checked for wear at the intervals speci-
+fied in the periodic maintenance and lu-
+brication chart.
+EAU36892
+Front brake pads
+1 1
+1. Brake pad wear indicator
+Each  front b rake pad is provided  with
+wear  indicators,  which  allows  you to
+check the brake pad wear without hav-
+ing to disassemble the brake. To check
+the brake  pad wear,  check  the position
+of the wear  indicators  while  applying
+the brake.  If a brake  pad has worn  to
+the point  that a wear  indicator  almosttouches the brake disc, have a Yamaha
+de
+aler replace the brake pads as a set.
+EAU46292
+Rear brake pads
+1 1
+1. Brake pad wear indicator groove
+Each  rear b rake pad is provided  with
+wear indicator grooves, which allow
+you to check  the brake  pad wear  with-
+out having  to disassemble  the brake.
+To check  the brake  pad wear,  check
+the wear  indicator  grooves.  If a brake
+pad has worn  to the point  that a wear
+indicator  groove  almost  appears,  have
+a Yamaha  dealer  replace  the brake
+pads as a set.EAU22585
+Ch
+ecking the brake fluid level
+Before riding, check that the brake fluid
+is above the minimum level mark.
+TIP
+Make sure the reservoir is level with the
+gr
+ound when checking the fluid level.
+Specified brake fluid:
+DO
+T 4
+ECA17641
+NOTICE
+Brake fluid may damage painted sur-
+fa
+ces or plastic  parts.  Always  clean
+up spilled fluid immediately.
+Front brake
+1
+1. Minimum level markPeriodic maintenance and adjustment
+7-207Rear brake
+11
+1. Minimum level mark
+As the b rake  pads  wear,  it is normal  for
+the brake  fluid level to gradually  go
+down.
+lA low brake fluid level may indicate
+worn  brake  pads  or brake  system
+leakage;  therefore,  be sure to
+check the brake pads for wear and
+the brake system for leakage.
+lIf the brake  fluid level goes  down
+suddenly,  have a Yamaha  dealer
+check the cause before further rid-
+ing.EWA15991
+WARNING
+Improper  ma intenance  can result  in
+loss of braking ability. Observe these
+precautions:
+lInsufficient  brake  fluid may al-
+low air to enter  the brake  sys-
+tem,  reducing  braking
+performance.
+lClean  the filler cap before  re-
+moving.  Use only DOT  4 brake
+fluid from a sealed container.
+lUse only the specified brake flu-
+id; otherwise,  the rubber  seals
+may deteriorate,  causing  leak-
+age.
+lRefill  with the same  type of
+brake  fluid.  Adding  a brake  fluid
+other  than DOT 4 may result  in a
+harmful chemical reaction.
+lBe careful  that water  does  not
+enter  the brake  fluid reservoir
+when  refilling.  Water  will signifi-
+cantly  lower  the boiling  point  of
+the fluid and may result  in vapor
+lock.EAU22734
+Ch
+anging the brake fluid
+Have  a Yamaha  dealer  change  the
+brake  fluid every  2 years.  In addition,
+have the seals  of the master  cylinders
+and brake calipers, as well as the brake
+hoses  replaced  at the intervals  listed
+below or sooner if they are damaged or
+leaking.
+lBrake seals: every 2 years
+lBrake hoses: every 4 yearsPeriodic maintenance and adjustment
+7-217EAU22762
+Dr
+ive chain slack
+The drive  chain  slack  should  be
+checked before each ride and adjusted
+if necessary.
+EAU74253
+To check the drive chain slack
+1. Place  the motorcycle  on the side-
+stand.
+TIP
+When  checking  a nd adjusting  the drive
+chain  slack,  there  should  be no weight
+on the motorcycle.
+2. Shift the transmission into the neu-
+tr
+al position.
+3. Measure  the drive  chain  slack  as
+shown.
+11
+1. Drive chain slackDrive chain slack:
+20
+.0–30.0 mm (0.79–1.18 in)
+4. If the drive chain slack is incorrect,
+ad
+just it as follows.  NOTICE:  Im-
+proper  drive  chain  slack  will
+overload  the engine  as well as
+other  vital parts  of the motorcy-
+cle and can lead to chain  slip-
+page  or breakage.  To prevent
+this from  occurring,  keep  the
+drive  chain  slack  within  the
+specified limits. [ECA10572]
+EAU74260
+To adjust the drive chain slack
+Consult  a Yamaha  dealer  before  ad-
+justing the drive chain slack.
+1. Loosen  the axle nut and the lock-
+nut on each side of the swingarm.
+2. To  tighten  the drive  chain,  turn the
+drive  chain  slack  adjusting  bolt on
+each side of the swingarm in direc-
+tion (a). To loosen  the drive  chain,
+turn the adjusting bolt on each side
+of the swingarm  in direction  (b),
+and then push  the rear wheel  for-
+ward.
+TIPUsing  the a lignment  marks  on each
+side of the swingarm,  make  sure that
+both drive chain pullers are in the same
+position for proper wheel alignment.
+1 2 3 41 2 3 4
+5(a)(a)
+(b)(b)
+1. Axle nut
+2. Drive chain puller
+3. Drive chain slack adjusting bolt
+4. Locknut
+5. Alignment marks
+3. Tighten the axle nut, then the lock-
+nu
+ts to their specified torques.
+Tightening torques:
+Axle nut:
+190 N·m (19 kgf·m, 140 lb·ft)
+Locknut:
+16 N·m (1.6 kgf·m, 12 lb·ft)Periodic maintenance and adjustment
+7-2274. Make sure that the drive chain pul-
+le
+rs are in the same  position,  the
+drive  chain  slack  is correct,  and
+the drive chain moves smoothly.EAU23027
+Cl
+eaning and lubricating the
+drive chain
+The drive  chain  must  be cleaned  and
+lubricated  at the intervals  specified  in
+the periodic  maintenance  and lubrica-
+tion chart, otherwise it will quickly wear
+out, especially  when  riding  in dusty  or
+wet areas.  Service  the drive  chain  as
+follows.
+ECA10584
+NOTICE
+The drive c hain must  be lubricated
+after  washing  the motorcycle,  riding
+in the rain or riding in wet areas.
+1. Clean  the d rive chain  with a drive
+chain  cleaner  and a small  soft
+brush. NOTICE:  To prevent dam-
+aging  the O-rings,  do not clean
+the drive  chain  with steam
+cleaners,  high-pressure  wash-
+ers or inappropriate  solvents.
+[ECA11122]
+2. Wipe the drive chain dry.
+3. Thoroughly  lubricate  the drive
+chain  with a special  O-ring  chain
+lubricant.  NOTICE:  Do not use
+engine oil or any other lubricantsfor the d rive  chain,  as they may
+contain  substances  that could
+damage the O-rings. [ECA11112]Periodic maintenance and adjustment
+7-237EAU23098
+Ch
+ecking and lubricating the
+cables
+The operation  of all control  cables  and
+the condition  of the cables  should  be
+checked  before  each  ride, and the ca-
+bles and cable ends should be lubricat-
+ed if necessary.  If a cable  is damaged
+or does  not move  smoothly,  have  a
+Yamaha  dealer  check  or replace  it.
+WARNING!  Damage  to the outer
+housing of cables may result in inter-
+nal rusting  and cause  interference
+with cable movement. Replace dam-
+aged  cables  as soon  as possible  to
+prevent unsafe conditions. [EWA10712]
+Recommended lubricant:
+Yamaha cable lubricant or other suit-
+able cable lubricantEAU82490
+Ch
+ecking and lubricating the
+throttle grip
+The operation of the throttle grip should
+be checked  before  each  ride. In addi-
+tion, the throttle grip housing should be
+lubricated  by a Yamaha  dealer  at the
+intervals specified in the periodic main-
+tenance chart.EAU88560
+Ch
+ecking and lubricating the
+brake and shift pedals
+The operation  of the brake  and shift
+pedals  should  be checked  before  each
+ride, and the pedal  pivots  should  be lu-
+bricated if necessary.
+Brake pedal
+Periodic maintenance and adjustment
+7-247Shift pedal
+Recommended lubricants:
+Br
+ake pedal:
+Lithium-soap-based grease
+Shift pedal:
+Molybdenum disulfide greaseEAU94800
+Ch
+ecking and lubricating the
+brake and clutch levers
+The operation  of clutch  lever should  be
+checked before each ride, and the lever
+pivot should be lubricated if necessary.
+The brake  lever pivot  must  be lubricat-
+ed by a Yamaha  dealer  at the intervals
+specified  in the periodic  maintenance
+and lubrication chart.
+Clutch lever
+Brake lever
+Recommended lubricants:
+Cl
+utch lever:
+Lithium-soap-based grease
+Brake lever:
+Silicone greasePeriodic maintenance and adjustment
+7-257EAU23203
+Ch
+ecking and lubricating the
+sidestand
+The operation  o f the sidestand  should
+be checked  before  each  ride, and the
+sidestand  pivot  and metal-to-metal
+contact surfaces should be lubricated if
+necessary.
+EWA10732
+WARNING
+If the s idestand  does  not move  up
+and down  smoothly,  have  a Yamaha
+dealer  check  or repair  it. Otherwise,
+the sidestand  could  contact  the
+ground and distract the operator, re-
+sulting in a possible loss of control.
+Recommended lubricant:
+Li
+thium-soap-based greaseEAUM1653
+Lu
+bricating the swingarm
+pivots
+The swingarm  p ivots must  be lubricat-
+ed by a Yamaha  dealer  at the intervals
+specified  in the periodic  maintenance
+and lubrication chart.
+Recommended lubricant:
+Lithium-soap-based greaseEAU23273
+Ch
+ecking the front fork
+The condition and operation of the front
+fork must  be checked  as follows  at the
+intervals specified in the periodic main-
+tenance and lubrication chart.
+To check the condition
+Check  the inner  tubes  for scratches,
+damage and excessive oil leakage.
+To check the operation
+1. Place the vehicle on a level surface
+and hold it in an upright  position.
+WARNING!  To avoid  injury,  se-
+curely  support  the vehicle  so
+there  is no danger  of it falling
+over. [EWA10752]
+2. While  applying  the front brake,
+push down hard on the handlebars
+several  times  to check  if the front
+fork compresses  and rebounds
+smoothly.Periodic maintenance and adjustment
+7-267ECA10591
+NOTICE
+If any d amage  is found  or the front
+fork does  not operate  smoothly,
+have  a Yamaha  dealer  check  or re-
+pair it.EAU23285
+Ch
+ecking the steering
+Worn  or loose  steering  bearings  may
+cause danger. Therefore, the operation
+of the steering  must  be checked  as fol-
+lows at the intervals specified in the pe-
+riodic  maintenance  and lubrication
+chart.
+1. Raise  the front wheel  off the
+ground.  (See  page  7-31.)
+WARNING!  To avoid  injury,  se-
+curely  support  the vehicle  so
+there  is no danger  of it falling
+over. [EWA10752]
+2. Hold  the lower  ends  of the front
+fork legs and try to move them for-
+ward  and backward.  If any free
+play can be felt, have a Yamaha
+dealer check or repair the steering.
+EAU23292
+Ch
+ecking the wheel bearings
+The front and rear wheel bearings must
+be c
+hecked  at the intervals  specified  in
+the periodic  maintenance  and lubrica-
+tion chart.  If there  is play in the wheel
+hub or if the wheel  does  not turn
+smoothly, have a Yamaha dealer check
+the wheel bearings.Periodic maintenance and adjustment
+7-277EAU50292
+Ba
+ttery
+1
+31
+223
+1. Positive battery lead (red)
+2. Battery
+3. Negative battery lead (black)
+The battery  i s located  under  the seat.
+(See page 4-35.)
+This model  is equipped  with a VRLA
+(Valve  Regulated  Lead  Acid)  battery.
+There  is no need  to check  the electro-
+lyte or to add distilled  water.  However,
+the battery  lead connections  need  to
+be checked  and, if necessary,  tight-
+ened.
+EWA10761
+WARNING
+lElectrolyte  i s poisonous  and
+dangerous  since  it contains  sul-
+furic acid,  which  causes  severeburns.  Avoid a ny contact  with
+skin,  eyes  or clothing  and al-
+ways  shield  your  eyes  when
+working  near batteries.  In case
+of contact,  administer  the fol-
+lowing FIRST AID.
+• EXTERNAL:  Flush  with plenty
+of water.
+• INTERNAL:  Drink  large  quan-
+tities  of water  or milk and im-
+mediately call a physician.
+• EYES:  Flush  with water  for 15
+minutes  and seek  prompt
+medical attention.
+lBatteries  produce  explosive  hy-
+drogen  gas. Therefore,  keep
+sparks,  flames,  cigarettes,  etc.,
+away  from  the battery  and pro-
+vide sufficient  ventilation  when
+charging  it in an enclosed
+space.
+lKEEP  THIS  AND  ALL BATTER-
+IES OUT  OF THE REACH  OF
+CHILDREN.
+To charge the battery
+Ha
+ve a Yamaha  dealer  charge  the bat-
+tery as soon  as possible  if it seems  tohave discharged. Keep in mind that the
+ba
+ttery tends to discharge more quick-
+ly if the vehicle is equipped with option-
+al electrical accessories.
+ECA16522
+NOTICE
+To charge  a V RLA (Valve  Regulated
+Lead  Acid)  battery,  a special  (con-
+stant-voltage)  battery  charger  is re-
+quired.  Using  a conventional  battery
+charger will damage the battery.
+To store the battery
+1.
+If the vehicle  will not be used  for
+more  than one month,  remove  the
+battery,  fully charge  it, and then
+place  it in a cool,  dry place.  NO-
+TICE:  When  removing  the bat-
+tery, be sure to turn the main
+switch  off, then disconnect  the
+negative  lead before  discon-
+necting the positive lead. [ECA16304]
+2. If the battery will be  stored for
+more  than two months,  check  it at
+least  once  a month  and fully
+charge it if necessary.
+3. Fully  charge  the battery  before  in-
+stallation.  NOTICE:  WhenPeriodic maintenance and adjustment
+7-287installing  the b attery,  be sure to
+turn the main  switch  off, then
+connect the positive lead before
+connecting  the negative  lead.
+[ECA16842]
+4. After  installation,  make  sure that
+the battery leads are properly con-
+nected to the battery terminals.
+ECA16531
+NOTICE
+Always  keep t he battery  charged.
+Storing  a discharged  battery  can
+cause permanent battery damage.EAU94164
+Re
+placing the fuses
+The main  fuse,  ABS motor  fuse,  and
+fuse boxes  containing  individual  circuit
+fuses are all located under the seat.
+TIP
+Remove  the s tarter  relay cover  by pull-
+ing it upward.
+4422
+11 33
+1. Starter relay cover
+2. ABS motor spare fuse
+3. ABS motor fuse
+4. Main fuse
+117
+6
+5
+4
+3
+2 81. Fuse box 1
+2. ABS solenoid fuse
+3. Fuel injection system fuse
+4. Electronic throttle valve fuse
+5. Backup fuse
+6. Sub radiator fan motor fuse
+7. Radiator fan motor fuse
+8. Spare fuse
+23456
+711
+1. Fuse box 2Periodic maintenance and adjustment
+7-2972. Ignition fuse
+3. ABS ECU fuse
+4. Signaling system fuse
+5. Headlight fuse
+6. Terminal fuse 1
+7. Spare fuse
+4 3 2
+11
+1. Fuse box 3
+2. Brake light fuse
+3. Cruise control fuse
+4. Spare fuse
+2
+111. Fuse box 4
+2. SCU fuse
+If a fuse is blown, replace it as follows.
+1.
+Turn the key to “OFF”  and turn off
+the electrical circuit in question.
+2. Remove  the blown  fuse,  and then
+install  a new fuse of the specified
+amperage.  WARNING!  Do not
+use a fuse of a higher  amperage
+rating  than  recommended  to
+avoid  causing  extensive  dam-
+age to the electrical  system  and
+possibly a fire. [EWA15132]Specified fuses:
+Ma
+in fuse:
+50.0 A
+Terminal fuse 1:
+2.0 A
+Headlight fuse:
+10.0 A
+Signaling system fuse:
+7.5 A
+Ignition fuse:
+15.0 A
+Radiator fan motor fuse:
+15.0 A
+Sub radiator fan motor fuse:
+10.0 A
+ABS motor fuse:
+30.0 A
+ABS ECU fuse:
+7.5 A
+ABS solenoid fuse:
+15.0 A
+SCU fuse:
+7.5 A
+Fuel injection system fuse:
+15.0 A
+Backup fuse:
+10.0 A
+Electronic throttle valve fuse:
+7.5 A
+Brake light fuse:
+1.0 A
+Cruise control fuse:
+1.0 APeriodic maintenance and adjustment
+7-3073. Turn  the k ey to “ON”  and turn on
+the electrical  circuit  in question  to
+check if the device operates.
+4. If the fuse immediately  blows
+again,  have  a Yamaha  dealer
+check the electrical system.EAU72980
+Ve
+hicle lights
+1 12
+1. Headlight
+2. Auxiliary light
+This model i s equipped  with full-LED
+lighting.  There  are no user replaceable
+bulbs.
+If a light does  not come  on, check  the
+fuses  and then have a Yamaha  dealer
+check the vehicle.
+ECA16581
+NOTICE
+Do not a ffix  any type of tinted  film or
+stickers to the headlight lens.EAU67131
+Su
+pporting the motorcycle
+1
+1. Maintenance stand (example)
+Since this model is not equipped with a
+ce
+nterstand,  use maintenance  stands
+when  removing  the front or rear wheel
+or when performing other maintenance
+that requires  the motorcycle  to stand
+up right.
+Check that the motorcycle is in a stable
+and level position  before  starting  any
+maintenance.Periodic maintenance and adjustment
+7-317EAU25872
+Tr
+oubleshooting
+Although  Yamaha  motorcycles  receive
+a thorough  inspection  before  shipment
+from the factory,  trouble  may occur
+during  operation.  Any problem  in the
+fuel, compression,  or ignition  systems,
+for example,  can cause  poor starting
+and loss of power.
+The following  troubleshooting charts
+represent  quick  and easy procedures
+for checking  these  vital systems  your-
+self. However,  should  your motorcycle
+require  any repair,  take it to a Yamaha
+dealer,  whose  skilled  technicians  have
+the necessary  tools,  experience,  and
+know-how  to service  the motorcycle
+properly.
+Use only genuine Yamaha replacement
+parts.  Imitation  parts  may look like
+Yamaha parts, but they are often inferi-
+or, have a shorter  service  life and can
+lead to expensive repair bills.
+EWA15142
+WARNING
+When  checking  t he fuel system,  do
+not smoke,  and make  sure there  are
+no open flames or sparks in the area,
+including  pilot lights  from  waterheaters  or f urnaces.  Gasoline  or
+gasoline  vapors  can ignite  or ex-
+plode, causing severe injury or prop-
+erty damage.Periodic maintenance and adjustment
+7-327EAU86350
+Tr
+oubleshooting chart
+Check the fuel level in
+the fuel tank.1. Fuel
+There is enough fuel.
+There is no fuel.Check the battery.
+Supply fuel.The engine does not start. 
+Check the battery.
+Try starting the engine.4. Compression
+There is compression.
+There is no compression.The engine does not start.
+Have a Yamaha dealer check the vehicle.
+Have a Yamaha dealer check the vehicle.Remove the spark plug
+and check the electrodes.3. IgnitionWipe off with a dry cloth and correct the
+spark plug gap, or replace the spark plug(s).
+Have a Yamaha dealer check the vehicle.The engine does not start.
+Check the compression.Operate the electric starter.2. BatteryThe engine turns over 
+quickly.
+The engine turns over 
+slowly.The battery is good.
+DryWet Try starting the engine.Check the battery lead connections,
+and charge the battery if necessary.The engine does not start.
+Check the ignition.Periodic maintenance and adjustment
+7-337EAU86420
+En
+gine overheating
+EWAT1041
+WARNING
+lDo not remove the radiator cap when the engine and radiator are hot. Scalding hot fluid and steam may be blown
+o
+ut under pressure, which could cause serious injury. Be sure to wait until the engine has cooled.
+lPlace  a thick  rag, like a towel,  over the radiator  cap, and then slowly  rotate  the cap counterclockwise  to the
+detent  to allow  any residual  pressure  to escape.  When  the hissing  sound  has stopped,  press  down  on the cap
+while turning it counterclockwise, and then remove the cap.
+Wait until the 
+engine has cooled.Check the coolant level in the 
+reservoir and radiator.
+The coolant level 
+is OK.
+The coolant level is low.
+Check the cooling system
+for leakage.
+Have a Yamaha dealer check
+and repair the cooling system.
+
+Add coolant. (See TIP.)
+
+Start the engine. If the engine overheats again, have a 
+Yamaha dealer check and repair the cooling system.There is
+leakage.
+
+There is 
+no leakage.
+TIP
+If coolant is not available, tap water can be temporarily used instead, provided that it is changed to the recommended cool-
+an
+t as soon as possible.Periodic maintenance and adjustment
+7-347EAU37834
+Ma
+tte color caution
+ECA15193
+NOTICE
+Some  models  a re equipped  with
+matte colored finished parts. Be sure
+to consult  a Yamaha  dealer  for ad-
+vice on what  products  to use before
+cleaning  the vehicle.  Using  a brush,
+harsh chemical products or cleaning
+compounds  when  cleaning  these
+parts  will scratch  or damage  their
+surface.  Wax also should  not be ap-
+plied  to any matte  colored  finished
+parts.EAU83446
+Ca
+re
+Frequent,  thorough  cleaning  of the ve-
+hicle will not only enhance  its appear-
+ance  but also will improve  its general
+performance  and extend  the useful  life
+of many  components.  Washing,  clean-
+ing, and polishing  will also give you a
+chance  to inspect  the condition  of the
+vehicle  more  frequently.  Be sure to
+wash  the vehicle  after riding  in the rain
+or near the sea, because  salt is corro-
+sive to metals.
+Special care in winter
+ECA28181
+NOTICE
+In cold w eather,  when  roads  may be
+salted  as a de-icing  method,  it’s im-
+portant  to clean  the vehicle  thor-
+oughly to remove road salt and avoid
+corrosion.  Wheel  spokes,  bolts/nuts
+and other  unpainted  metal  parts  can
+be especially vulnerable to corrosion
+from  road  salt. Apply  an anti-corro-
+sion product  to any vulnerable  parts
+after washing and drying the vehicle.
+TIPlThe r oads  of heavy  snowfall  areas
+may be sprayed  with salt as a de-
+icing method. This salt can stay on
+the roads  well into spring,  so be
+sure to wash  the underside  and
+chassis  parts  after riding  in such
+areas.
+lGenuine Yamaha care and mainte-
+nance products are sold under the
+YAMALUBE  brand  in many  mar-
+kets worldwide.
+lSee your Yamaha  dealer  for addi-
+tional cleaning tips.
+ECA26280
+NOTICE
+Improper  cl eaning  can cause  cos-
+metic  and mechanical  damage.  Do
+not use:
+lhigh-pressure  washers  or
+steam-jet  cleaners.  Excessive
+water  pressure  may cause  wa-
+ter seepage and deterioration of
+wheel  bearings,  brakes,  trans-
+mission  seals  and electrical  de-
+vices.  Avoid  high-pressure
+detergent  applications  such  asMotorcycle care and storage
+8-18those available in coin-operated
+ca
+r washers.
+lharsh  chemicals,  including
+strong  acidic  wheel  cleaners,
+especially on spoke or magnesi-
+um wheels.
+lharsh  chemicals,  abrasive
+cleaning  compounds,  or wax on
+matte-finished  parts.  Brushes
+can scratch  and damage  the
+matte-finish,  use soft sponge  or
+towel only.
+ltowels,  sponges,  or brushes
+contaminated  with abrasive
+cleaning  products  or strong
+chemicals  such  as, solvents,
+gasoline,  rust removers,  brake
+fluid, or antifreeze, etc.
+Before washing
+1.
+Park the vehicle  out of direct  sun-
+light and allow  it to cool.  This will
+help avoid water spots.
+2. Make sure all caps, covers, electri-
+cal couplers  and connectors  are
+tightly installed.
+3. Cover  the muffler  end with a plas-
+tic bag and a strong rubber band.4. Pre-soak  st ubborn  stains  like in-
+sects  or bird droppings  with a wet
+towel for a few minutes.
+5. Remove  road grime  and oil stains
+with a quality  degreasing  agent
+and a plastic-bristle  brush  or
+sponge.  NOTICE:  Do not use de-
+greasing  agent  on areas  requir-
+ing lubrication  such  as seals,
+gaskets,  and wheel  axles.  Fol-
+low product instructions. [ECA26290]
+Washing
+1. Rinse  off any degreaser  and spray
+down  the vehicle  with a garden
+hose. Use only enough pressure to
+do the job. Avoid  spraying  water
+directly into the muffler, instrument
+panel, air inlet, or other inner areas
+such  as underseat  storage  com-
+partments.
+2. Wash the vehicle with a quality au-
+tomotive-type  detergent  mixed
+with cool water  and a soft, clean
+towel or sponge. Use an old tooth-
+brush  or plastic-bristle  brush  for
+hard-to-reach  places.  NOTICE:
+Use cold water if the vehicle has
+been exposed to salt. Warm wa-ter will i ncrease  salt’s  corrosive
+properties. [ECA26301]
+3. For windshield-equipped vehicles:
+Clean  the windshield  with a soft
+towel  or sponge  dampened  with
+water  and a pH neutral  detergent.
+If necessary,  use a high-quality
+windshield  cleaner  or polish  for
+motorcycles.  NOTICE:  Never  use
+any strong  chemicals  to clean
+the windshield.  Additionally,
+some  cleaning  compounds  for
+plastic  may scratch  the wind-
+shield,  so be sure to test all
+cleaning products before gener-
+al application. [ECA26310]
+4. Rinse  off thoroughly  with clean
+water. Be sure to remove all deter-
+gent residues,  as they can be
+harmful to plastic parts.
+After washing
+1. Dry  the vehicle  with a chamois  or
+absorbent towel, preferably micro-
+fiber terrycloth.
+2. For  drive  chain-equipped  models:
+Dry and then lubricate  the drive
+chain to prevent rust.Motorcycle care and storage
+8-283. Use  a ch rome  polish  to shine
+chrome,  aluminum,  and stainless
+steel parts.  Often  the thermally  in-
+duced  discoloring  of stainless
+steel exhaust  systems  can be re-
+moved through polishing.
+4. Apply a corrosion protection spray
+on all metal parts including chrome
+or nickel-plated  surfaces.  WARN-
+ING! Do not apply  silicone  or oil
+spray  to seats,  hand  grips,  rub-
+ber foot pegs or tire treads. Oth-
+erwise  these  parts  will become
+slippery, which could cause loss
+of control.  Thoroughly  clean  the
+surfaces  of these  parts  before
+operating the vehicle. [EWA20651]
+5. Treat  rubber,  vinyl,  and unpainted
+plastic  parts  with a suitable  care
+product.
+6. Touch  up minor  paint  damage
+caused by stones, etc.
+7. Wax  all painted  surfaces  using  a
+non-abrasive  wax or use a detail
+spray for motorcycles.
+8. When  finished  cleaning,  start the
+engine and let it idle for several mi-
+nutes  to help dry any remaining
+moisture.9. If the headlight lens has fogged up,
+st
+art the engine  and turn on the
+headlight to help remove the mois-
+ture.
+10. Let  the vehicle  dry completely  be-
+fore storing or covering it.
+ECA26320
+NOTICE
+lDo n ot  apply  wax to rubber  or
+unpainted plastic parts.
+lDo not use abrasive  polishing
+compounds  as they will wear
+away the paint.
+lApply  sprays  and wax sparingly.
+Wipe off excess afterwards.
+EWA20660
+WARNING
+Contaminants  le ft on the brakes  or
+tires can cause loss of control.
+lMake  sure there  is no lubricant
+or wax on the brakes or tires.
+lIf necessary,  wash  the tires with
+warm  water  and a mild deter-
+gent.
+lIf necessary,  clean  the brake
+discs  and pads  with brake
+cleaner or acetone.lBefore  r iding  at higher  speeds,
+test the vehicle’s  braking  per-
+formance  and cornering  behav-
+ior.
+EAU83450
+Cl
+eaning the titanium muffler
+This model  is equipped  with a titanium
+muffler  which  requires  special  care.
+Use only a soft cloth  or sponge  and
+mild detergent  with water  to clean  the
+muffler.  This should  remove  finger-
+prints  and other  oil stains.  If necessary,
+an alkaline  pH cleaning  product  and
+soft brush  may be used.  However,  do
+not use abrasive compounds or special
+treatments  to clean  the muffler,  as
+these  will wear  away  the protective  fin-
+ish.
+TIP
+The thermally  i nduced  discoloring  of
+the exhaust  pipe leading  into the titani-
+um muffler  is normal  and cannot  be re-
+moved.Motorcycle care and storage
+8-38EAU83472
+St
+orage
+Always  store  the vehicle  in a cool,  dry
+place.  If necessary,  protect  it against
+dust with a porous  cover.  Be sure the
+engine and the exhaust system are cool
+before  covering  the vehicle.  If the vehi-
+cle often  sits for weeks  at a time be-
+tween  uses,  the use of a quality  fuel
+stabilizer  is recommended  after each
+fill-up.
+ECA21170
+NOTICE
+lStoring  t he vehicle  in a poorly
+ventilated  room  or covering  it
+with a tarp,  while  it is still wet,
+will allow  water  and humidity  to
+seep in and cause rust.
+lTo prevent  corrosion,  avoid
+damp  cellars,  stables  (because
+of the presence  of ammonia)
+and areas  where  strong  chemi-
+cals are stored.
+Long term storage
+Be
+fore storing the vehicle long term (60
+days or more):1. Make  all n ecessary  repairs  and
+perform  any outstanding  mainte-
+nance.
+2. Follow  all instructions  in the Care
+section of this chapter.
+3. Fill  up the fuel tank,  adding  fuel
+stabilizer  according  to product  in-
+structions.  Run the engine  for 5
+minutes  to distribute  treated  fuel
+through the fuel system.
+4. For  vehicles  equipped  with a fuel
+cock:  Turn the fuel cock  lever to
+the off position.
+5. For  vehicles  with a carburetor:  To
+prevent fuel deposits from building
+up, drain  the fuel in the carburetor
+float chamber into a clean contain-
+er. Retighten  the drain  bolt and
+pour the fuel back  into the fuel
+tank.
+6. Use a quality engine fogging oil ac-
+cording  to product  instructions  to
+protect  internal  engine  compo-
+nents  from corrosion.  If engine
+fogging oil is not available, perform
+the following  steps  for each  cylin-
+der:
+a. Remove  the spark  plug cap
+and spark plug.b. Pour a teaspoonful of engine oil
+in
+to the spark plug bore.
+c. Install  the spark  plug cap onto
+the spark  plug,  and then place
+the spark  plug on the cylinder
+head  so that the electrodes  are
+grounded. (This will limit spark-
+ing during the next step.)
+d. Turn  the engine  over several
+times  with the starter.  (This will
+coat the cylinder  wall with oil.)
+WARNING!  To prevent  dam-
+age or injury  from  sparking,
+make  sure  to ground  the
+spark  plug electrodes  while
+turning  the engine  over.
+[EWA10952]
+e. Remove  the spark  plug cap
+from the spark  plug,  and then
+install  the spark  plug and the
+spark plug cap.
+7. Lubricate all control cables, pivots,
+levers  and pedals,  as well as the
+sidestand  and centerstand  (if
+equipped).
+8. Check and correct the tire air pres-
+sure,  and then lift the vehicle  so
+that all wheels  are off the ground.
+Otherwise,  turn the wheels  a littleMotorcycle care and storage
+8-48once  a month i n order  to prevent
+the tires from becoming  degraded
+in one spot.
+9. Cover  the muffler  outlet  with a
+plastic  bag to prevent  moisture
+from entering it.
+10. Remove  the battery  and fully
+charge  it, or attach  a maintenance
+charger  to keep  the battery  opti-
+mally  charged.  NOTICE:  Confirm
+that the battery  and its charger
+are compatible.  Do not charge  a
+VRLA battery with a convention-
+al charger. [ECA26330]
+TIP
+lIf t he  battery  will be removed,
+charge it once a month and store it
+in a temperate location between 0-
+30 °C (32-90 °F).
+lSee page  7-28 for more  informa-
+tion on charging  and storing  the
+battery.Motorcycle care and storage
+8-58Dimensions:
+Ov
+erall length:
+2100 mm (82.7 in)
+Overall width:
+800 mm (31.5 in)
+Overall height:
+1165 mm (45.9 in)
+Seat height:
+835 mm (32.9 in)
+Wheelbase:
+1405 mm (55.3 in)
+Ground clearance:
+135 mm (5.31 in)
+Minimum turning radius:
+3.4 m (11.16 ft)
+Weight:
+Curb weight:
+214 kg (472 lb)
+Engine:
+Combustion cycle:
+4-stroke
+Cooling system:
+Liquid cooled
+Valve train:
+DOHC
+Cylinder arrangement:
+Inline
+Number of cylinders:
+4-cylinder
+Displacement:
+998 cm³
+Bore ´ stroke:
+79.0 ´ 50.9 mm (3.11 ´ 2.00 in)Starting system:
+El
+ectric starter
+Engine oil:
+Recommended brand:
+Type:
+Fu
+ll synthetic
+SAE viscosity grades:
+10W-40, 15W-50
+Recommended engine oil grade:
+API service SG type or higher, JASO
+standard MA
+Engine oil quantity:
+Oil change:
+3.90 L (4.12 US qt, 3.43 Imp.qt)
+With oil filter removal:
+4.10 L (4.33 US qt, 3.61 Imp.qt)
+Coolant quantity:
+Coolant reservoir (up to the maximum level
+mark):
+0.24 L (0.25 US qt, 0.21 Imp.qt)
+Radiator (including all routes):
+2.25 L (2.38 US qt, 1.98 Imp.qt)
+Fuel:
+Recommended fuel:
+Unleaded gasoline (E10 acceptable)
+Octane number (RON):
+95
+Fuel tank capacity:
+17 L (4.5 US gal, 3.7 Imp.gal)Fuel reserve amount:
+4.
+0 L (1.06 US gal, 0.88 Imp.gal)
+Fuel injection:
+Throttle body:
+ID mark:
+B5Y1 00
+Drivetrain:
+Gear ratio:
+1st:
+2.600 (39/15)
+2nd:
+2.176 (37/17)
+3rd:
+1.842 (35/19)
+4th:
+1.579 (30/19)
+5th:
+1.381 (29/21)
+6th:
+1.250 (30/24)
+Front tire:
+Type:
+Tubeless
+Size:
+120/70ZR17M/C(58W)
+Manufacturer/model:
+BRIDGESTONE/BATTLAX HYPERSPORT
+S22F
+Rear tire:
+Type:
+Tubeless
+Size:
+190/55ZR17M/C(75W)Specifications
+9-19Manufacturer/model:
+BR
+IDGESTONE/BATTLAX HYPERSPORT
+S22R
+Loading:
+Maximum load:
+171 kg (377 lb)
+The vehicle’s maximum load is the combined
+weight of the rider, passenger, cargo and
+any accessories.
+Front brake:
+Type:
+Hydraulic dual disc brake
+Rear brake:
+Type:
+Hydraulic single disc brake
+Front suspension:
+Type:
+Telescopic fork
+Rear suspension:
+Type:
+Swingarm (link suspension)
+Electrical system:
+System voltage:
+12 V
+Battery:
+Model:
+YTZ10S
+Voltage, capacity:
+12 V, 8.6 Ah (10 HR)
+Bulb wattage:
+Headlight:
+LED
+Brake/tail light:
+LEDFront turn signal light:
+LE
+D
+Rear turn signal light:
+LED
+Auxiliary light:
+LED
+License plate light:
+LEDSpecifications
+9-29EAU53562
+Id
+entification numbers
+Record  the vehicle  identification  num-
+ber, engine  serial  number,  and the
+model  label information  in the spaces
+provided  below.  These  identification
+numbers  are needed  when  registering
+the vehicle  with the authorities  in your
+area and when  ordering  spare  parts
+from a Yamaha dealer.
+ 
+VEHICLE IDENTIFICATION NUMBER:
+ENGINE SERIAL NUMBER:
+MODEL LABEL INFORMATION:
+EAU26401
+Ve
+hicle identification number
+11
+1. Vehicle identification  number
+T
+he vehicle  i dentification  number  is
+stamped  into the steering  head  pipe.
+Record  this number  in the space  pro-
+vided.
+TIP
+The vehicle  i dentification  number  is
+used  to identify  your motorcycle  and
+may be used  to register  your motorcy-
+cle with the licensing  authority  in your
+area.EAU26442
+En
+gine serial number
+11
+1. Engine serial number
+The engine  s erial number  is stamped
+into the crankcase.
+EAU26481
+Model label
+1
+1. Model labelConsumer information
+10-110The model l abel is affixed  to the frame
+under  the seat.  (See page  4-35.)  Re-
+cord the information  on this label in the
+space  provided.  This information  will
+be needed  when  ordering  spare  parts
+from a Yamaha dealer.EAU69910
+Di
+agnostic connector
+11
+1. Diagnostic connector
+The diagnostic  c onnector  is located  as
+shown.Consumer information
+10-210EAUA0872
+Us
+e of your data
+This is a brief summary of how Yamaha (Yamaha Motor Co. Ltd., and Yamaha Europe N.V.) uses your data. For more
+details, please go to the specific URL below for the Privacy Policy:
+Country Language URL
+Austria German https://www.yamaha-motor.eu/at/de/privacy/privacy-policy/
+Belgium Dutch https://www.yamaha-motor.eu/be/nl/privacy/privacy-policy/
+Belgium French https://www.yamaha-motor.eu/be/fr/privacy/privacy-policy/
+Bulgaria Bulgarian https://www.yamaha-motor.eu/bg/bg/privacy/privacy-policy/
+Czech Republic Czech https://www.yamaha-motor.eu/cz/cs/privacy/privacy-policy/
+Denmark Danish https://www.yamaha-motor.eu/dk/da/privacy/privacy-policy/
+Finland Finnish https://www.yamaha-motor.eu/fi/fi/privacy/privacy-policy/
+France French https://www.yamaha-motor.eu/fr/fr/privacy/privacy-policy/
+Germany German https://www.yamaha-motor.eu/de/de/privacy/privacy-policy/
+Greece Greek https://www.yamaha-motor.eu/gr/el/privacy/privacy-policy/
+Hungary Hungarian https://www.yamaha-motor.eu/hu/hu/privacy/privacy-policy/
+Italy Italian https://www.yamaha-motor.eu/it/it/privacy/privacy-policy/
+Ireland English https://www.yamaha-motor.eu/ie/en/privacy/privacy-policy/
+Netherlands Dutch https://www.yamaha-motor.eu/nl/nl/privacy/Privacybeleid/
+Norway Norwegian https://www.yamaha-motor.eu/no/nb/privacy/privacy-policy/
+Poland Polish https://www.yamaha-motor.eu/pl/pl/prywatnosc/polityka-prywatnosci/
+Portugal Portuguese https://www.yamaha-motor.eu/pt/pt/privacy/privacy-policy/
+Romania Romanian https://www.yamaha-motor.eu/ro/ro/privacy/privacy-policy/
+Spain Spanish https://www.yamaha-motor.eu/es/es/privacy/privacy-policy/
+Sweden Swedish https://www.yamaha-motor.eu/se/sv/privacy/privacy-policy/Consumer information
+10-310Country Language URL
+Switzerland German https://www.yamaha-motor.eu/ch/de/privacy/privacy-policy/
+Switzerland French https://www.yamaha-motor.eu/ch/fr/privacy/privacy-policy/
+Turkey Turkish https://www.yamaha-motor.eu/tr/tr/privacy/privacy-policy/
+U.K. English https://www.yamaha-motor.eu/gb/en/privacy/privacy-policy/
+What data we collect? and How we collect your data?
+Th
+is vehicle  collects  three  types  of data through  integrated  Engine  Control  Units  (ECU).:  (1) Vehicle  Identification  Number
+(VIN); (2) live data showing the performance of the vehicle such as engine/motor operating state, vehicle speed, mileage; and
+(3) other data showing the status of the vehicle such as diagnostic trouble code (DTC).
+The collected data will be uploaded to server at Yamaha Motor Co., Ltd. by attaching a special Yamaha diagnostic tool to the
+vehicle, only when maintenance checks or service procedures are performed.
+How will we use your data?
+Yamaha  use collected  data from your vehicle,  (1) to conduct  adequate  maintenance  service  including  diagnostics,  (2) to
+implement proper warranty claim judgement, (3) to conduct research and development of vehicle, (4) to provide and improve
+quality  of products,  features,  and services,  (5) to ensure  our business  purpose,  and (6) to comply  with requirements  of laws
+and regulations.
+How we share your data?
+We may share your data with: (i)our subsidiaries, affiliates, and business partners; (ii) dealers in your country or region, and (iii)
+contractors within the scope necessary to achieve the purpose of use described above.
+How to contact us
+Yamaha  Motor  Co., Ltd., and Yamaha  Motor  Europe  N.V. are joint data controller  regarding  your data collected.  Any ques-
+tions or complaints regarding the processing of your Personal Data can be submitted in writing to:
+Yamaha Motor Europe NV/Digital Marketing & CRM
+– PO Box 75033 – 1117 ZN Schiphol – The Netherlands.Consumer information
+10-410The SOLE P URPOSE  of above  provided  contact  information  is TO RESPOND  DATA  PROCESSING  INQUIRY  AND
+OTHER  KINDS  OF INQUIRIES  WILL  NOT BE RESPONDED.  Please  provide  the following  information  for the proper  han-
+dling of your inquiry: (1) Your Name; (2) Your Email Address; (3) Your Country of Residence; and (4) Your VIN.  We will use
+your personal information provided only for the purpose of supporting your data processing inquiry.Consumer information
+10-510A
+AB
+S warning light........................................ 4-7
+Air filter element.........................................7-14
+Auxiliary system warning light...................... 4-8
+B
+Battery...................................................... 7-28
+Brake and clutch levers, checking and
+lubricating...............................................7-25
+Brake and shift pedals, checking and lu-
+bricating................................................. 7-24
+Brake control system (BC)..........................4-31
+Brake fluid level, checking..........................7-20
+Brake fluid, changing................................. 7-21
+Brake lever................................................ 4-30
+Brake lever free play, checking...................7-19
+Brake light switches...................................7-19
+Brake pedal............................................... 4-30
+C
+Cables, checking and lubricating............... 7-24
+Canister.....................................................7-10
+Care............................................................ 8-1
+Catalytic converter.................................... 4-35
+Clutch lever............................................... 4-29
+Clutch lever free play, adjusting..................7-18
+Coolant..................................................... 7-11
+Cruise control indicator lights.......................4-6
+Cruise control system.................................. 3-6
+Cruise control/YVSL switches......................4-4
+D
+Diagnostic connector................................ 10-2
+Dimmer/Pass switch....................................4-3
+Display, main screen....................................4-9
+Display, menu screen.................................4-18
+Drive chain slack........................................7-22Drive chain, cleaning and lubricating.......... 7-23
+E
+En
+gine break-in........................................... 6-1
+Engine idling speed, checking....................7-14
+Engine oil...................................................7-10
+Engine overheating....................................7-34
+Engine serial number................................. 10-1
+EXUP system.............................................4-39
+F
+Front and rear brake pads, checking...........7-20
+Front fork, adjusting...................................4-36
+Front fork, checking...................................7-26
+Fuel...........................................................4-33
+Fuel consumption, tips for reducing............. 6-4
+Fuel tank cap............................................. 4-32
+Fuel tank overflow hose............................. 4-34
+Fuses, replacing........................................ 7-29
+G
+Glossary......................................................3-4
+H
+Handlebar switches.....................................4-3
+Hazard switch............................................. 4-4
+High beam indicator light............................. 4-6
+Horn switch................................................. 4-4
+I
+Identification numbers............................... 10-1
+Ignition circuit cut-off system..................... 4-41
+Immobilizer system......................................4-1
+Immobilizer system indicator light................ 4-7
+Indicator lights and warning lights................ 4-5
+L
+Luggage strap holders...............................4-39
+M
+Main switch/steering lock............................ 4-2Maintenance and lubrication, periodic..........7-5
+Ma
+intenance, emission control system.........7-3
+Malfunction indicator light (MIL)................... 4-6
+Matte color, caution.....................................8-1
+Model label................................................10-1
+N
+Neutral indicator light...................................4-6
+O
+Oil pressure and Coolant temperature
+warning light............................................. 4-8
+P
+Parking........................................................6-5
+Part locations.............................................. 2-1
+Power outlet.............................................. 4-39
+S
+Safety information....................................... 1-1
+Seat.......................................................... 4-35
+Shift indicator light.......................................4-7
+Shift pedal................................................. 4-29
+Shifting........................................................6-3
+Shock absorber assembly, adjusting..........4-37
+Sidestand..................................................4-40
+Sidestand, checking and lubricating...........7-26
+Spark plugs, checking................................. 7-9
+Special features...........................................3-1
+Specifications..............................................9-1
+Stability control indicator light...................... 4-7
+Starting the engine.......................................6-2
+Steering, checking.....................................7-27
+Stop/Run/Start switch................................. 4-4
+Storage....................................................... 8-4
+Supporting the motorcycle.........................7-31
+Swingarm pivots, lubricating......................7-26Index
+11-111T
+Th
+rottle grip, checking and lubricating........7-24
+Tires..........................................................7-15
+Titanium muffler, cleaning............................8-3
+Tool kits.......................................................7-2
+Troubleshooting........................................ 7-32
+Troubleshooting chart................................7-33
+Turn signal indicator lights............................4-6
+Turn signal switch........................................4-4
+U
+Use, your data........................................... 10-3
+V
+Valve clearance......................................... 7-14
+Vehicle identification number..................... 10-1
+Vehicle lights............................................. 7-31
+W
+Wheel bearings, checking..........................7-27
+Wheels...................................................... 7-17
+Y
+Yamalube..................................................7-11
+YRC (Yamaha Ride Control)......................... 3-1
+YRC functions visual guide.......................... 3-5
+YRC settings............................................. 4-19
+YVSL...........................................................3-8Index
+11-211D83-28199-E0_cover.indd   3D83-28199-E0_cover.indd   3 2023/11/08   15:24:022023/11/08   15:24:02Original instructions
+PRINTED IN JAPAN
+2023.10-5.5×1 ! (E)
+D83-28199-E0_cover.indd   4D83-28199-E0_cover.indd   4 2023/11/08   15:24:032023/11/08   15:24:03
