@@ -1,19 +1,30 @@
-DocBot-P22-B: A Chatbot for PDF Information Extraction and Question 
+This repository comprises of Docbot which is a multimodal chatbot with current expanse to take in pdf inputs and then generating the answer and revelant image regarding the query. This is done in three phase:- 
 
-This project presents DocBot-P22-B, a user-friendly chatbot built using Google Gemma and Streamlit for extracting information from PDFs and answering your questions related to the content.
+Pre-processing:- 
 
-Key Features:
+1. PDF Input goes in and with use of apache pdfbox library we parse it into text file
+2. PDF file is also given into input to a function which we extract images and the revelant texts regarding it( above/below text of image)
+3. The text file is sent through a sentence transformer which generates embedding space for the text 
+4. The embedding file is then sent through ANNOY (Approximate Nearest Neighbour oh yeah) which makes tree structure correlating the embedding to each other 
 
-1. PDF Processing:
-Leverages Google Gemma's capabilities to extract text and relevant information (along with images) from PDFs.
-2. Provides a user interface for uploading and processing PDFs.
-3. Question Answering:
-Enables you to ask questions about the extracted information from the PDF.
-Employs a robust question-answering system to deliver accurate responses.
-4. Streamlit Deployment:
-Streamlit facilitates a user-friendly web application for easy interaction with DocBot-P22-B.
-5. Multilingual: The model can be used for both English and Japanese texts, given the input pdfs are also in those languages respectively.
+Query - Processing
 
+1. Query comes in and is passed through Sentence Transformer and embeddings generated respectively.
+2. Embeddings is then compared to pdf file's text embedding and then nearest k revelant sentence to query are retrieved (where k is hyperparameter)
+3. The Query and nearest k sentence are sent through LLM Model (gemma 2b in our case) and revelant output is generated 
+4. The output embedding representation is compared to the image captions and most revelant (by use of annoy algorithm) is then selected. 
+
+Output: 
+
+The answer and revelant image are given as output. 
+
+
+We support japanese language aswell as of right now and it basically same but the embedding generation is done using bert trained on japanese wiki 
+
+#TO-DO 
+1. Deploy the site and support multiple input type eg. docx
+2. Better database system 
+3. Voice query support and output TTS
 Prerequisites:
 
 Python 3.10 or later
@@ -29,7 +40,6 @@ Use code with caution.
 content_copy
 Navigate to the cloned repository directory and install the required packages:
 
-Bash
 pip install -r requirements.txt
 
 Running the Application:
@@ -38,7 +48,6 @@ Ensure you have the necessary prerequisites installed.
 
 Start the Streamlit app:
 
-Bash
 streamlit run streamlit.py
 
 Important Notes:
