@@ -1,0 +1,10 @@
+pikepdf
+numpy
+annoy
+sentence_transformers
+fitz
+pillow
+streamlit
+streamlit_authenticator
+PyPDF2
+transformers
