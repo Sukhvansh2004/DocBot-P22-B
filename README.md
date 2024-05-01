@@ -25,6 +25,10 @@ We support japanese language aswell as of right now and it basically same but th
 1. Deploy the site and support multiple input type eg. docx
 2. Better database system 
 3. Voice query support and output TTS
+
+Details regarding the project and model:
+    The details of the project and the model are given in the power point presentation named 'DOCBOT.pptx' in the current directory. A working vedio of the model name 'Working Clip.mp4' is also provided in the current directory.
+
 Prerequisites:
 
 Python 3.10 or later
