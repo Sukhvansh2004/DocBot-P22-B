@@ -37,14 +37,14 @@ class TextGen:
                     page = pdf_reader.pages[page_num]
                     text += page.extract_text()
                     
-            with open(os.path.join(self.datafolder, 'output.txt'), 'w', encoding='utf-8') as f:
+            with open(os.path.join(self.datafolder, id, 'output.txt'), 'w', encoding='utf-8') as f:
                 f.write(text)
                 
             print(f"PDF file '{pdf_name}' saved to '{pdf}'")
             
             paragraphs=[]
             if language=="English":
-                with open(os.path.join(self.datafolder, 'output.txt'), 'r', encoding='utf-8') as file:
+                with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
                     current_paragraph = ""
                     for line in file:
                         current_paragraph += line.strip() + " "
@@ -60,7 +60,7 @@ class TextGen:
                 self.annoy_index.build(n_trees=15)
                 self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
             elif language=="Japanese":
-                with open(os.path.join(self.datafolder, 'output.txt'), 'r', encoding='utf-8') as file:
+                with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
                     current_paragraph = ""
                     for line in file:
                         current_paragraph += line.strip() + " "
