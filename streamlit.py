@@ -177,11 +177,9 @@ def main():
             
             # Process the query using TextGen class
             
-            st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs)
+            st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs, st.session_state.session_id, st.session_state.uploaded.name)
             
             st.session_state.response['image'] = image_model.main_current(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id)
-            
-            pd.DataFrame(st.session_state.response).to_csv("Text.csv")
             
             # Display assistant response in chat message container
             with st.chat_message("assistant"):

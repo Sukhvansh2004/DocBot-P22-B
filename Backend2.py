@@ -83,11 +83,12 @@ class Image_Gen():
         doc.close()
         return text_blocks, images, xref_page, text_xref_pairs, text_xref_pairs_list, text_xref_pairs_list_rev
 
-    def process_images(self, pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list):
+    def process_images(self, pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list, id):
         text_xref_pairs_1 = {}
         text_xref_pairs_list_1 = []
         text_list_1 = []
         
+        os.makedirs(os.path.join(self.datafolder, id, "images"), exist_ok=True)
         for xref, image_data in images.items():
             size = int(image_data["width"]) * int(image_data["height"])
             image_data["cs-name"] = "DeviceGray"
@@ -104,12 +105,12 @@ class Image_Gen():
                 prev_text = text_xref_pairs[xref]
                 text_xref_pairs_list_1.append([xref, prev_text])
                 text_list_1.append(prev_text)
-
-                filename = f"images/extracted_image_{pdf_name}_{xref}.jpg"
-                try:
-                    img.save(filename)
-                except:
-                    print("Error")
+                
+                filename = os.path.join(self.datafolder, id, "images", f"extracted_image_{pdf_name}_{xref}.jpg")
+                # try:
+                img.save(filename)
+                # except:
+                #     print("Error")
 
         return text_xref_pairs_1, text_xref_pairs_list_1, text_list_1
 
@@ -137,6 +138,7 @@ class Image_Gen():
         return list_hold
         
     def text2embedd2query(self, query, pdf_path, id, name, language):
+        
         with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
             retrieved_list = pickle.load(f)
         sentences = retrieved_list
@@ -186,7 +188,7 @@ class Image_Gen():
             pdf.save(filename)
         
         
-    def process_pdf(self, pdf_path):
+    def process_pdf(self, pdf_path, id):
         # pdf_files = list_pdf_files_glob(datafolder)
 
         # for pdf_path in pdf_files:
@@ -198,7 +200,7 @@ class Image_Gen():
 
             # text_blocks = pdf2text(Current_file)
             
-            text_xref_pairs_1, text_xref_pairs_list_1, text_list_1 = self.process_images(pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list)
+            text_xref_pairs_1, text_xref_pairs_list_1, text_list_1 = self.process_images(pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list, id)
 
             self.save_data(pdf_path, text_xref_pairs_list_1, text_list_1)
 
@@ -226,7 +228,8 @@ class Image_Gen():
         # for pdf_path in pdf_files:
             pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
             # query = "Instrument and  control functions  4 - 3 3s"
-            self.process_pdf(pdf_path)
+            self.process_pdf(pdf_path, id)
+            
             nearest = self.text2embedd2query(query, pdf_path, id, name, language)
             
             with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
@@ -254,10 +257,10 @@ class Image_Gen():
 
             pair = self.find_most_similar_sentence(retrieved_list, xrefs, index, image_xref)
 
-            return self.display_images(pdf_name, pair)
+            return self.display_images(pdf_name, pair, id)
         
-    def display_images(self, pdf_name, pair):
+    def display_images(self, pdf_name, pair, id):
         img = []
         for i in pair:
-            img.append(os.path.join("images",f'extracted_image_{pdf_name}_{i}.jpg'))
+            img.append(os.path.join(self.datafolder, id, "images", f"extracted_image_{pdf_name}_{i}.jpg"))
         return img

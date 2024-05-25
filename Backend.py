@@ -27,61 +27,60 @@ class TextGen:
 
     def pdf2text(self, pdf, id, language, pdf_name):
         annoy_index_path = os.path.join(self.datafolder, id, f'{pdf_name}-{language}.ann')
-        self.annoy_index=self.load_annoy_index_from_file(768, annoy_index_path)
-        
-        if self.annoy_index is None:
-            text = ""
-            with open(pdf, 'rb') as f:
-                pdf_reader = PyPDF2.PdfReader(f)
-                for page_num in range(len(pdf_reader.pages)):
-                    page = pdf_reader.pages[page_num]
-                    text += page.extract_text()
-                    
-            with open(os.path.join(self.datafolder, id, 'output.txt'), 'w', encoding='utf-8') as f:
-                f.write(text)
+        text = ""
+        with open(pdf, 'rb') as f:
+            pdf_reader = PyPDF2.PdfReader(f)
+            for page_num in range(len(pdf_reader.pages)):
+                page = pdf_reader.pages[page_num]
+                text += page.extract_text()
                 
-            print(f"PDF file '{pdf_name}' saved to '{pdf}'")
+        with open(os.path.join(self.datafolder, id, 'output.txt'), 'w', encoding='utf-8') as f:
+            f.write(text)
+        
+        paragraphs=[]
+        if language=="English":
+            with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
+                current_paragraph = ""
+                for line in file:
+                    current_paragraph += line.strip() + " "
+                    if '.' in line:
+                        if current_paragraph.count('.') >= 5:
+                            paragraphs.append(current_paragraph.strip())
+                            current_paragraph = ""
+            paragraph_embeddings = [np.array(self.sbert_model.encode([paragraph])[0]) for paragraph in paragraphs]
+            vector_dimension = len(paragraph_embeddings[0])
+            annoy_index = AnnoyIndex(vector_dimension, 'angular')
+            for i, vector in enumerate(paragraph_embeddings):
+                annoy_index.add_item(i, vector)
+            annoy_index.build(n_trees=15)
+            self.save_annoy_index_to_file(annoy_index, annoy_index_path)
             
-            paragraphs=[]
-            if language=="English":
-                with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
-                    current_paragraph = ""
-                    for line in file:
-                        current_paragraph += line.strip() + " "
-                        if '.' in line:
-                            if current_paragraph.count('.') >= 5:
-                                paragraphs.append(current_paragraph.strip())
-                                current_paragraph = ""
-                paragraph_embeddings = [np.array(self.sbert_model.encode([paragraph])[0]) for paragraph in paragraphs]
-                vector_dimension = len(paragraph_embeddings[0])
-                self.annoy_index = AnnoyIndex(vector_dimension, 'angular')
-                for i, vector in enumerate(paragraph_embeddings):
-                    self.annoy_index.add_item(i, vector)
-                self.annoy_index.build(n_trees=15)
-                self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
-            elif language=="Japanese":
-                with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
-                    current_paragraph = ""
-                    for line in file:
-                        current_paragraph += line.strip() + " "
-                        if '.' in line:
-                            if current_paragraph.count('.') >= 3:
-                                paragraphs.append(current_paragraph.strip())
-                                current_paragraph = ""
-                paragraph_embeddings=[]
-                for paragraph in paragraphs:
-                    paragraph_embedding = self.vectorize_paragraph(paragraph)
-                    if len(paragraph_embedding) > 768:
-                        paragraph_embedding = paragraph_embedding[:768]
-                    paragraph_embeddings.append(paragraph_embedding)
-                vector_dimension=paragraph_embeddings[0].shape[0]
+        elif language=="Japanese":
+            with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
+                current_paragraph = ""
+                for line in file:
+                    current_paragraph += line.strip() + " "
+                    if '.' in line:
+                        if current_paragraph.count('.') >= 3:
+                            paragraphs.append(current_paragraph.strip())
+                            current_paragraph = ""
+            paragraph_embeddings=[]
+            for paragraph in paragraphs:
+                paragraph_embedding = self.vectorize_paragraph(paragraph)
+                if len(paragraph_embedding) > 768:
+                    paragraph_embedding = paragraph_embedding[:768]
+                paragraph_embeddings.append(paragraph_embedding)
+            vector_dimension=paragraph_embeddings[0].shape[0]
 
-                self.annoy_index=AnnoyIndex(vector_dimension,'angular')
-                for i,vector in enumerate(paragraph_embeddings):
-                    self.annoy_index.add_item(i,vector)
-                self.annoy_index.build(n_trees=15)
-                self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
-            return paragraphs
+            annoy_index=AnnoyIndex(vector_dimension,'angular')
+            for i,vector in enumerate(paragraph_embeddings):
+                annoy_index.add_item(i,vector)
+            annoy_index.build(n_trees=15)
+            self.save_annoy_index_to_file(annoy_index, annoy_index_path)
+            
+        print(f"PDF file '{pdf_name}' saved to '{pdf}'")
+            
+        return paragraphs
                 
     def vectorize_paragraph(self, paragraph, max_length=512):
         tokenized_paragraph = self.Jatokenizer([paragraph], return_tensors="pt").to(device)
@@ -98,14 +97,17 @@ class TextGen:
         paragraph_embedding = np.concatenate(chunk_embeddings, axis=0)
         return paragraph_embedding
     
-    def text2embedd2query(self, query, language, paragraphs):
+    def text2embedd2query(self, query, language, paragraphs, id, pdf_name):
 
         num_neighbors = 5
         if language=="English":
             query_embedding = self.sbert_model.encode([query])[0]
         elif language=="Japanese":
             query_embedding = self.vectorize_paragraph(query)
-        nearest_neighbor_indices = self.annoy_index.get_nns_by_vector(query_embedding, num_neighbors)
+        
+        annoy_index_path = os.path.join(self.datafolder, id, f'{pdf_name}-{language}.ann')
+        annoy_index=self.load_annoy_index_from_file(768, annoy_index_path)
+        nearest_neighbor_indices = annoy_index.get_nns_by_vector(query_embedding, num_neighbors)
         nearest_neighbor_paragraphs = [paragraphs[index] for index in nearest_neighbor_indices]
         return nearest_neighbor_paragraphs
 
@@ -134,9 +136,9 @@ class TextGen:
             
         return self.pdf2text(file_path, id, language, uploaded_pdf.name)
         
-    def process_query(self, query, language, paragraphs):
+    def process_query(self, query, language, paragraphs, id, pdf_name):
         # Process the query using text2embedd2query and generate_response
-        neighbor = self.text2embedd2query(query, language, paragraphs)
+        neighbor = self.text2embedd2query(query, language, paragraphs, id, pdf_name)
         combined_string = ' '.join(neighbor)
         if language == "English":
             input_text = self.tokenizer(
