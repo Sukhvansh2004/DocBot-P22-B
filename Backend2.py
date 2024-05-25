@@ -125,7 +125,6 @@ class Image_Gen():
                 embedding_2 = model.encode(sentences[index + 1], convert_to_tensor=True)
                 val = util.pytorch_cos_sim(embedding_1, embedding_2)
                 value = val.item()
-                print("val", value)
 
                 if value >= 0.93:
                     list_hold.append(xrefs[index])
@@ -134,7 +133,6 @@ class Image_Gen():
                 index += 1
             except:
                 index +=1
-                print("none")
 
         return list_hold
         
@@ -185,9 +183,8 @@ class Image_Gen():
         filename = pdf_path
 
         with pikepdf.open(filename, allow_overwriting_input=True) as pdf:
-            print(f"File {filename} opened correctly.")
             pdf.save(filename)
-        print(f"File {filename} unlocked.")
+        
         
     def process_pdf(self, pdf_path):
         # pdf_files = list_pdf_files_glob(datafolder)
@@ -198,7 +195,6 @@ class Image_Gen():
             self.unlock_pdf(pdf_path)
 
             text_blocks, images, xref_page, text_xref_pairs, text_xref_pairs_list, text_xref_pairs_list_rev = self.extract_text_and_images(pdf_path)
-            print("len = ",len(text_xref_pairs_list))
 
             # text_blocks = pdf2text(Current_file)
             
@@ -215,7 +211,7 @@ class Image_Gen():
             #     file.write(text)
                 # .encode('utf-8')
             
-            print(f"Extracted text blocks and {len(images)} images.")
+            
             
     def save_data(self, pdf_path, text_xref_pairs_list_1, text_list_1):
         with open(f"{pdf_path}_text_xref_pairs.pickle", "wb") as f:
@@ -232,7 +228,7 @@ class Image_Gen():
             # query = "Instrument and  control functions  4 - 3 3s"
             self.process_pdf(pdf_path)
             nearest = self.text2embedd2query(query, pdf_path, id, name, language)
-            print(nearest)
+            
             with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
                 retrieved = pickle.load(f)
 
@@ -245,7 +241,6 @@ class Image_Gen():
                     break
                 index += 1
 
-            print(image_xref)
 
             with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
                 retrieved_list = pickle.load(f)
@@ -257,10 +252,7 @@ class Image_Gen():
             for i in list2:
                 xrefs.append(i[0])
 
-            print("len = ",len(retrieved_list))
-
             pair = self.find_most_similar_sentence(retrieved_list, xrefs, index, image_xref)
-            print(pair)
 
             return self.display_images(pdf_name, pair)
         

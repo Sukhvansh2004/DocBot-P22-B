@@ -40,18 +40,19 @@ class TextGen:
             with open(os.path.join(self.datafolder, 'output.txt'), 'w', encoding='utf-8') as f:
                 f.write(text)
                 
-            print('converted')
+            print(f"PDF file '{pdf_name}' saved to '{pdf}'")
+            
+            paragraphs=[]
             if language=="English":
-                self.paragraphs = []
                 with open(os.path.join(self.datafolder, 'output.txt'), 'r', encoding='utf-8') as file:
                     current_paragraph = ""
                     for line in file:
                         current_paragraph += line.strip() + " "
                         if '.' in line:
                             if current_paragraph.count('.') >= 5:
-                                self.paragraphs.append(current_paragraph.strip())
+                                paragraphs.append(current_paragraph.strip())
                                 current_paragraph = ""
-                paragraph_embeddings = [np.array(self.sbert_model.encode([paragraph])[0]) for paragraph in self.paragraphs]
+                paragraph_embeddings = [np.array(self.sbert_model.encode([paragraph])[0]) for paragraph in paragraphs]
                 vector_dimension = len(paragraph_embeddings[0])
                 self.annoy_index = AnnoyIndex(vector_dimension, 'angular')
                 for i, vector in enumerate(paragraph_embeddings):
@@ -59,17 +60,16 @@ class TextGen:
                 self.annoy_index.build(n_trees=15)
                 self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
             elif language=="Japanese":
-                self.paragraphs=[]
                 with open(os.path.join(self.datafolder, 'output.txt'), 'r', encoding='utf-8') as file:
                     current_paragraph = ""
                     for line in file:
                         current_paragraph += line.strip() + " "
                         if '.' in line:
                             if current_paragraph.count('.') >= 3:
-                                self.paragraphs.append(current_paragraph.strip())
+                                paragraphs.append(current_paragraph.strip())
                                 current_paragraph = ""
                 paragraph_embeddings=[]
-                for paragraph in self.paragraphs:
+                for paragraph in paragraphs:
                     paragraph_embedding = self.vectorize_paragraph(paragraph)
                     if len(paragraph_embedding) > 768:
                         paragraph_embedding = paragraph_embedding[:768]
@@ -81,6 +81,7 @@ class TextGen:
                     self.annoy_index.add_item(i,vector)
                 self.annoy_index.build(n_trees=15)
                 self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
+            return paragraphs
                 
     def vectorize_paragraph(self, paragraph, max_length=512):
         tokenized_paragraph = self.Jatokenizer([paragraph], return_tensors="pt").to(device)
@@ -97,7 +98,7 @@ class TextGen:
         paragraph_embedding = np.concatenate(chunk_embeddings, axis=0)
         return paragraph_embedding
     
-    def text2embedd2query(self, query, language="English"):
+    def text2embedd2query(self, query, language, paragraphs):
 
         num_neighbors = 5
         if language=="English":
@@ -105,7 +106,7 @@ class TextGen:
         elif language=="Japanese":
             query_embedding = self.vectorize_paragraph(query)
         nearest_neighbor_indices = self.annoy_index.get_nns_by_vector(query_embedding, num_neighbors)
-        nearest_neighbor_paragraphs = [self.paragraphs[index] for index in nearest_neighbor_indices]
+        nearest_neighbor_paragraphs = [paragraphs[index] for index in nearest_neighbor_indices]
         return nearest_neighbor_paragraphs
 
     def save_annoy_index_to_file(self, annoy_index, file_path):
@@ -131,12 +132,11 @@ class TextGen:
         with open(file_path, 'wb') as f:
             f.write(uploaded_pdf.read())
             
-        print(f"PDF file '{uploaded_pdf.name}' saved to '{file_path}'")
-        self.pdf2text(file_path, id, language, uploaded_pdf.name)
+        return self.pdf2text(file_path, id, language, uploaded_pdf.name)
         
-    def process_query(self, query, language):
+    def process_query(self, query, language, paragraphs):
         # Process the query using text2embedd2query and generate_response
-        neighbor = self.text2embedd2query(query, language)
+        neighbor = self.text2embedd2query(query, language, paragraphs)
         combined_string = ' '.join(neighbor)
         if language == "English":
             input_text = self.tokenizer(

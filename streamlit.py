@@ -22,13 +22,7 @@ def loading_llm():
     return TextGen(), Image_Gen()
 
 text_model, image_model = loading_llm()
-# Check if a unique ID already exists in the session state
-if 'session_id' not in st.session_state:
-    # Generate a new unique ID
-    st.session_state.session_id = str(uuid.uuid4())
-    os.makedirs(os.path.join(text_model.datafolder, st.session_state.session_id), exist_ok=True)
-    
-st.session_state.str2=[0]
+
 def display_pdf_from_bytes(pdf_data):
     pdf_display = (
         f'<embed src="data:application/pdf;base64,{pdf_data}" '
@@ -86,6 +80,15 @@ def main():
 
 
     if authentication_status:
+        # Check if a unique ID already exists in the session state
+        if 'session_id' not in st.session_state:
+            # Generate a new unique ID
+            st.session_state.session_id = str(uuid.uuid4())
+            os.makedirs(os.path.join(text_model.datafolder, st.session_state.session_id), exist_ok=True)
+        
+        if 'str2' not in st.session_state:        
+            st.session_state.str2=[0]
+        
         st.sidebar.markdown("# © DocBot; developed by P22-B")
         st.sidebar.image("your_logo.png", width=250)
         st.sidebar.title("PDF Viewer")
@@ -93,7 +96,7 @@ def main():
 
         # Language selection dropdown
         selected_language = st.sidebar.selectbox("Select Language", options=["English", "Japanese"], index=0)
-        print(selected_language)
+        
         st.session_state.selected_language = selected_language
 
         typing_text = st.empty()
@@ -118,16 +121,17 @@ def main():
 
 
         # PDF uploader
-        uploaded = st.sidebar.file_uploader(label="Please browse for a PDF file", type="pdf")
-        if uploaded is not None:
-            print(uploaded)
+        st.session_state.uploaded = st.sidebar.file_uploader(label="Please browse for a PDF file", type="pdf")
+        if st.session_state.uploaded is not None:
+            
             # Display PDF directly from bytes
             # Process the PDF using TextGen class
-            str1=[uploaded.name + " " + st.session_state.selected_language]
+            str1=[st.session_state.uploaded.name + " " + st.session_state.selected_language]
+            
             if str1[0]!=st.session_state.str2[0]:
-                text_model.process_pdf(uploaded, st.session_state.selected_language, st.session_state.session_id)
+                st.session_state.paragraphs = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
                 # Display PDF on the sidebar
-                base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
+                base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
                 st.session_state.str2[0]=str1[0]
 
@@ -154,30 +158,37 @@ def main():
 
         # Accept user input
         if prompt := st.chat_input("What is up?"):
-            str1=[uploaded.name + " " + st.session_state.selected_language]
+            str1=[st.session_state.uploaded.name + " " + st.session_state.selected_language]
             if str1[0]!=st.session_state.str2[0]:
-                text_model.process_pdf( uploaded, st.session_state.selected_language, st.session_state.session_id)
+                st.session_state.paragraphs = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
                 # Display PDF on the sidebar
-                base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
+                base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
                 st.session_state.str2[0]=str1[0]
                 
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
+            
             # Display user message in chat message container
             with st.chat_message("user"):
                 st.markdown(prompt)
 
-            response = {}
+            st.session_state.response = {}
+            
             # Process the query using TextGen class
-            response['text'] = text_model.process_query(prompt, st.session_state.selected_language)
-            response['image'] = image_model.main_current(prompt, os.path.join("data", st.session_state.session_id, uploaded.name), uploaded.name, st.session_state.selected_language, st.session_state.session_id)
-            pd.DataFrame(response).to_csv("Text.csv")
+            
+            st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs)
+            
+            st.session_state.response['image'] = image_model.main_current(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id)
+            
+            pd.DataFrame(st.session_state.response).to_csv("Text.csv")
+            
             # Display assistant response in chat message container
             with st.chat_message("assistant"):
-                st.markdown(response['text'].decode('utf-8'))
-                st.session_state.messages.append({"role":"assistant","content":response['text'].decode('utf-8')})
-            for image_path in response['image']:    
+                st.markdown(st.session_state.response['text'].decode('utf-8'))
+                st.session_state.messages.append({"role":"assistant","content":st.session_state.response['text'].decode('utf-8')})
+                
+            for image_path in st.session_state.response['image']:    
                 st.image(image_path)
                 st.session_state.messages.append({"role":"assistant","content":Image.open(image_path)})
 
