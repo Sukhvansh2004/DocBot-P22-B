@@ -158,13 +158,7 @@ def main():
 
         # Accept user input
         if prompt := st.chat_input("What is up?"):
-            str1=[st.session_state.uploaded.name + " " + st.session_state.selected_language]
-            if str1[0]!=st.session_state.str2[0]:
-                st.session_state.paragraphs = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
-                # Display PDF on the sidebar
-                base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
-                display_pdf_from_bytes(base64_pdf)
-                st.session_state.str2[0]=str1[0]
+            assert st.session_state.uploaded is not None, "Please upload a PDF to Chat"
                 
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
