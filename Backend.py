@@ -20,18 +20,15 @@ class TextGen:
         self.sbert_model = self.sbert_model.to(self.device)
         self.model = self.model.to(self.device)
         self.model.eval()
+        self.Jatokenizer = AutoTokenizer.from_pretrained("cl-tohoku/bert-base-japanese")
+        self.Jamodel = AutoModel.from_pretrained("cl-tohoku/bert-base-japanese")
+        self.Jamodel.to(device)
+        self.Jamodel.eval()
 
-    def pdf2text(self, pdf, language="English"):
-        if language== "Japanese":
-            self.Jatokenizer = AutoTokenizer.from_pretrained("cl-tohoku/bert-base-japanese")
-            self.Jamodel = AutoModel.from_pretrained("cl-tohoku/bert-base-japanese")
-
-            device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-            self.Jamodel.to(device)
-
+    def pdf2text(self, pdf, id, language, pdf_name):
+        annoy_index_path = os.path.join(self.datafolder, id, f'{pdf_name}-{language}.ann')
+        self.annoy_index=self.load_annoy_index_from_file(768, annoy_index_path)
         
-        annoy_index_path = os.path.join(self.datafolder, f'{self.name}-{language}.ann')
-        self.annoy_index=self.load_annoy_index_from_file(768,annoy_index_path)
         if self.annoy_index is None:
             text = ""
             with open(pdf, 'rb') as f:
@@ -39,8 +36,10 @@ class TextGen:
                 for page_num in range(len(pdf_reader.pages)):
                     page = pdf_reader.pages[page_num]
                     text += page.extract_text()
+                    
             with open(os.path.join(self.datafolder, 'output.txt'), 'w', encoding='utf-8') as f:
                 f.write(text)
+                
             print('converted')
             if language=="English":
                 self.paragraphs = []
@@ -83,7 +82,7 @@ class TextGen:
                 self.annoy_index.build(n_trees=15)
                 self.save_annoy_index_to_file(self.annoy_index, annoy_index_path)
                 
-    def vectorize_paragraph(self,paragraph, max_length=512):
+    def vectorize_paragraph(self, paragraph, max_length=512):
         tokenized_paragraph = self.Jatokenizer([paragraph], return_tensors="pt").to(device)
         tokenized_chunks = []
         for i in range(0, tokenized_paragraph['input_ids'].size(1), max_length):
@@ -97,6 +96,7 @@ class TextGen:
                 chunk_embeddings.append(outputs.last_hidden_state[:, 0, :].squeeze().cpu().numpy())
         paragraph_embedding = np.concatenate(chunk_embeddings, axis=0)
         return paragraph_embedding
+    
     def text2embedd2query(self, query, language="English"):
 
         num_neighbors = 5
@@ -126,17 +126,17 @@ class TextGen:
         output = output[output.find("Answer the query accordingly") + len("Answer the query accordingly"):]
         return output.encode('utf-8')
 
-    def process_pdf(self, uploaded_pdf,language="English"):
-        file_path = os.path.join(self.datafolder, uploaded_pdf.name)
+    def process_pdf(self, uploaded_pdf, language, id):
+        file_path = os.path.join(self.datafolder, id, uploaded_pdf.name)
         with open(file_path, 'wb') as f:
             f.write(uploaded_pdf.read())
-        self.name=uploaded_pdf.name
+            
         print(f"PDF file '{uploaded_pdf.name}' saved to '{file_path}'")
-        self.pdf2text(file_path,language)
+        self.pdf2text(file_path, id, language, uploaded_pdf.name)
         
-    def process_query(self, query,language):
+    def process_query(self, query, language):
         # Process the query using text2embedd2query and generate_response
-        neighbor = self.text2embedd2query(query,language)
+        neighbor = self.text2embedd2query(query, language)
         combined_string = ' '.join(neighbor)
         if language == "English":
             input_text = self.tokenizer(

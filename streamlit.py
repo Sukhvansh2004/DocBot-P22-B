@@ -14,11 +14,7 @@ import pandas as pd
 import uuid
 
 st.set_page_config(page_title="DocBot", page_icon="🛵", layout="wide", initial_sidebar_state="expanded")
-# Check if a unique ID already exists in the session state
-if 'session_id' not in st.session_state:
-    # Generate a new unique ID
-    st.session_state.session_id = str(uuid.uuid4())
-    
+
 # Function to display PDF from bytes
 
 @st.cache_resource
@@ -26,6 +22,12 @@ def loading_llm():
     return TextGen(), Image_Gen()
 
 text_model, image_model = loading_llm()
+# Check if a unique ID already exists in the session state
+if 'session_id' not in st.session_state:
+    # Generate a new unique ID
+    st.session_state.session_id = str(uuid.uuid4())
+    os.makedirs(os.path.join(text_model.datafolder, st.session_state.session_id), exist_ok=True)
+    
 st.session_state.str2=[0]
 def display_pdf_from_bytes(pdf_data):
     pdf_display = (
@@ -92,7 +94,7 @@ def main():
         # Language selection dropdown
         selected_language = st.sidebar.selectbox("Select Language", options=["English", "Japanese"], index=0)
         print(selected_language)
-        st.session_state.language = selected_language
+        st.session_state.selected_language = selected_language
 
         typing_text = st.empty()
         message = "Hello there! How can I assist you today?"
@@ -121,9 +123,9 @@ def main():
             print(uploaded)
             # Display PDF directly from bytes
             # Process the PDF using TextGen class
-            str1=[uploaded.name+" "+selected_language]
+            str1=[uploaded.name + " " + st.session_state.selected_language]
             if str1[0]!=st.session_state.str2[0]:
-                text_model.process_pdf(uploaded,selected_language)
+                text_model.process_pdf(uploaded, st.session_state.selected_language, st.session_state.session_id)
                 # Display PDF on the sidebar
                 base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
@@ -152,13 +154,14 @@ def main():
 
         # Accept user input
         if prompt := st.chat_input("What is up?"):
-            str1=[uploaded.name+" "+selected_language]
+            str1=[uploaded.name + " " + st.session_state.selected_language]
             if str1[0]!=st.session_state.str2[0]:
-                text_model.process_pdf(uploaded,selected_language)
+                text_model.process_pdf( uploaded, st.session_state.selected_language, st.session_state.session_id)
                 # Display PDF on the sidebar
                 base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
                 st.session_state.str2[0]=str1[0]
+                
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
             # Display user message in chat message container
@@ -167,8 +170,8 @@ def main():
 
             response = {}
             # Process the query using TextGen class
-            response['text'] = text_model.process_query(prompt,selected_language)
-            response['image'] = image_model.main_current(prompt, os.path.join("data", uploaded.name), uploaded.name, selected_language, st.session_state.session_id)
+            response['text'] = text_model.process_query(prompt, st.session_state.selected_language)
+            response['image'] = image_model.main_current(prompt, os.path.join("data", st.session_state.session_id, uploaded.name), uploaded.name, st.session_state.selected_language, st.session_state.session_id)
             pd.DataFrame(response).to_csv("Text.csv")
             # Display assistant response in chat message container
             with st.chat_message("assistant"):
