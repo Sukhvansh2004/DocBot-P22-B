@@ -6,11 +6,27 @@ from streamlit_authenticator import Authenticate
 from streamlit_authenticator.utilities.hasher import Hasher
 import yaml
 from yaml.loader import SafeLoader
-from Backend import text_gen  # Import the TextGen class from Backend
+from Backend import TextGen  # Import the TextGen class from Backend
 import os
-from Backend2 import main_current
+from Backend2 import Image_Gen
 from PIL import Image
+import pandas as pd
+import uuid
+
+st.set_page_config(page_title="DocBot", page_icon="🛵", layout="wide", initial_sidebar_state="expanded")
+# Check if a unique ID already exists in the session state
+if 'session_id' not in st.session_state:
+    # Generate a new unique ID
+    st.session_state.session_id = str(uuid.uuid4())
+    
 # Function to display PDF from bytes
+
+@st.cache_resource
+def loading_llm():
+    return TextGen(), Image_Gen()
+
+text_model, image_model = loading_llm()
+st.session_state.str2=[0]
 def display_pdf_from_bytes(pdf_data):
     pdf_display = (
         f'<embed src="data:application/pdf;base64,{pdf_data}" '
@@ -46,10 +62,9 @@ def response_generator():
     for word in response.split():
         yield word + " "
         time.sleep(0.05)
-str2=[0]
+
 # Main function
 def main():
-    st.set_page_config(page_title="DocBot", page_icon="🛵", layout="wide", initial_sidebar_state="expanded")
 
     passwords_to_hash = ['abc', 'def']
     hashed_passwords = Hasher(passwords=passwords_to_hash).generate()
@@ -107,12 +122,12 @@ def main():
             # Display PDF directly from bytes
             # Process the PDF using TextGen class
             str1=[uploaded.name+" "+selected_language]
-            if str1[0]!=str2[0]:
-                text_gen.process_pdf(uploaded,selected_language)
+            if str1[0]!=st.session_state.str2[0]:
+                text_model.process_pdf(uploaded,selected_language)
                 # Display PDF on the sidebar
                 base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
-                str2[0]=str1[0]
+                st.session_state.str2[0]=str1[0]
 
 
         # Clickable element to view or hide related images
@@ -138,12 +153,12 @@ def main():
         # Accept user input
         if prompt := st.chat_input("What is up?"):
             str1=[uploaded.name+" "+selected_language]
-            if str1[0]!=str2[0]:
-                text_gen.process_pdf(uploaded,selected_language)
+            if str1[0]!=st.session_state.str2[0]:
+                text_model.process_pdf(uploaded,selected_language)
                 # Display PDF on the sidebar
                 base64_pdf = base64.b64encode(uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
-                str2[0]=str1[0]
+                st.session_state.str2[0]=str1[0]
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
             # Display user message in chat message container
@@ -152,9 +167,8 @@ def main():
 
             response = {}
             # Process the query using TextGen class
-            response['text'] = text_gen.process_query(prompt,selected_language)
-            response['image'] = main_current(prompt, os.path.join("data", uploaded.name), uploaded.name, selected_language)
-            import pandas as pd
+            response['text'] = text_model.process_query(prompt,selected_language)
+            response['image'] = image_model.main_current(prompt, os.path.join("data", uploaded.name), uploaded.name, selected_language, st.session_state.session_id)
             pd.DataFrame(response).to_csv("Text.csv")
             # Display assistant response in chat message container
             with st.chat_message("assistant"):

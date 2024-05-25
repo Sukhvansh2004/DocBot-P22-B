@@ -21,7 +21,7 @@ class TextGen:
         self.model = self.model.to(self.device)
         self.model.eval()
 
-    def pdf2text(self, pdf,language="English"):
+    def pdf2text(self, pdf, language="English"):
         if language== "Japanese":
             self.Jatokenizer = AutoTokenizer.from_pretrained("cl-tohoku/bert-base-japanese")
             self.Jamodel = AutoModel.from_pretrained("cl-tohoku/bert-base-japanese")
@@ -97,7 +97,7 @@ class TextGen:
                 chunk_embeddings.append(outputs.last_hidden_state[:, 0, :].squeeze().cpu().numpy())
         paragraph_embedding = np.concatenate(chunk_embeddings, axis=0)
         return paragraph_embedding
-    def text2embedd2query(self, query,language="English"):
+    def text2embedd2query(self, query, language="English"):
 
         num_neighbors = 5
         if language=="English":
@@ -149,6 +149,3 @@ class TextGen:
         outputs = self.model.generate(**input_text, **self.generation_params)
         output = self.tokenizer.decode(outputs[0])
         return self.generate_response(output)
-
-# Instantiate the TextGen class
-text_gen = TextGen()
