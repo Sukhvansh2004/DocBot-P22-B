@@ -3,7 +3,6 @@ import streamlit as st
 import random
 import time
 from streamlit_authenticator import Authenticate
-from streamlit_authenticator.utilities.hasher import Hasher
 import yaml
 from yaml.loader import SafeLoader
 from Backend import TextGen  # Import the TextGen class from Backend
@@ -24,6 +23,7 @@ def loading_llm():
 text_model, image_model = loading_llm()
 
 def display_pdf_from_bytes(pdf_data):
+    pdf_data = base64.b64encode(pdf_data).decode('utf-8')
     pdf_display = (
         f'<embed src="data:application/pdf;base64,{pdf_data}" '
         'width="500" height="800" type="application/pdf"></embed>'
@@ -73,10 +73,10 @@ def main():
         config['preauthorized']
     )
 
-    _, authentication_status, _ = authenticator.login(location='main')
+    _, st.session_state.authentication_status, _ = authenticator.login(location='main')
 
 
-    if authentication_status:
+    if st.session_state.authentication_status:
         # Check if a unique ID already exists in the session state
         if 'session_id' not in st.session_state:
             # Generate a new unique ID
@@ -127,13 +127,14 @@ def main():
             
             if str1[0]!=st.session_state.str2[0]:
                 st.session_state.paragraphs, st.session_state.vector_dim = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
+                
                 try:
                     st.session_state.paragraphs_image, st.session_state.vector_dim_image = image_model.process_pdf(os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.session_id, st.session_state.uploaded.name, st.session_state.selected_language)
-                    # Display PDF on the sidebar
-                    base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
-                    display_pdf_from_bytes(base64_pdf)
                 except:
                     pass
+
+                # Display PDF on the sidebar
+                display_pdf_from_bytes(st.session_state.uploaded.read())
                 st.session_state.str2[0]=str1[0]
 
 
