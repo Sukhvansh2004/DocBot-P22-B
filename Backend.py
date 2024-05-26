@@ -15,7 +15,7 @@ class TextGen:
         self.sbert_model = SentenceTransformer('sentence-transformers/multi-qa-mpnet-base-cos-v1', use_auth_token=auth_token)
         self.tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it", use_auth_token=auth_token)
         self.model = AutoModelForCausalLM.from_pretrained("google/gemma-2b-it", torch_dtype=torch.bfloat16, use_auth_token=auth_token)
-        self.generation_params = {"max_length": 1000}
+        self.generation_params = {"max_length": 3000}
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.sbert_model = self.sbert_model.to(self.device)
         self.model = self.model.to(self.device)

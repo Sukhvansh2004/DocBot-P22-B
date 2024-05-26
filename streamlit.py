@@ -126,14 +126,17 @@ def main():
             
             # Display PDF directly from bytes
             # Process the PDF using TextGen class
-            str1=[st.session_state.uploaded.name + " " + st.session_state.selected_language]
+            str1=[st.session_state.uploaded]
             
             if str1[0]!=st.session_state.str2[0]:
                 st.session_state.paragraphs, st.session_state.vector_dim = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
-                st.session_state.paragraphs_image, st.session_state.vector_dim_image = image_model.process_pdf(os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.session_id, st.session_state.uploaded.name, st.session_state.selected_language)
-                # Display PDF on the sidebar
-                base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
-                display_pdf_from_bytes(base64_pdf)
+                try:
+                    st.session_state.paragraphs_image, st.session_state.vector_dim_image = image_model.process_pdf(os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.session_id, st.session_state.uploaded.name, st.session_state.selected_language)
+                    # Display PDF on the sidebar
+                    base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
+                    display_pdf_from_bytes(base64_pdf)
+                except:
+                    pass
                 st.session_state.str2[0]=str1[0]
 
 
@@ -174,16 +177,22 @@ def main():
             
             st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs, st.session_state.session_id, st.session_state.uploaded.name, st.session_state.vector_dim)
             
-            st.session_state.response['image'] = image_model.query(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id, st.session_state.vector_dim_image, st.session_state.paragraphs_image)
+            try:
+                st.session_state.response['image'] = image_model.query(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id, st.session_state.vector_dim_image, st.session_state.paragraphs_image)
+            except:
+                pass
             
             # Display assistant response in chat message container
             with st.chat_message("assistant"):
                 st.markdown(st.session_state.response['text'].decode('utf-8'))
                 st.session_state.messages.append({"role":"assistant","content":st.session_state.response['text'].decode('utf-8')})
-                
-            for image_path in st.session_state.response['image']:    
-                st.image(image_path)
-                st.session_state.messages.append({"role":"assistant","content":Image.open(image_path)})
-
+            
+            try:
+                for image_path in st.session_state.response['image']:    
+                    st.image(image_path)
+                    st.session_state.messages.append({"role":"assistant","content":Image.open(image_path)})
+            except:
+                pass
+            
 if __name__ == "__main__":
     main()
