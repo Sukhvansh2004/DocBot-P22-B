@@ -62,9 +62,6 @@ def response_generator():
 # Main function
 def main():
 
-    passwords_to_hash = ['abc', 'def']
-    hashed_passwords = Hasher(passwords=passwords_to_hash).generate()
-
     with open('config.yaml') as file:
         config = yaml.load(file, Loader=SafeLoader)
 
