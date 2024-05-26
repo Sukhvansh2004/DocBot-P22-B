@@ -129,7 +129,8 @@ def main():
             str1=[st.session_state.uploaded.name + " " + st.session_state.selected_language]
             
             if str1[0]!=st.session_state.str2[0]:
-                st.session_state.paragraphs = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
+                st.session_state.paragraphs, st.session_state.vector_dim = text_model.process_pdf(st.session_state.uploaded, st.session_state.selected_language, st.session_state.session_id)
+                st.session_state.paragraphs_image, st.session_state.vector_dim_image = image_model.process_pdf(os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.session_id, st.session_state.uploaded.name, st.session_state.selected_language)
                 # Display PDF on the sidebar
                 base64_pdf = base64.b64encode(st.session_state.uploaded.read()).decode("utf-8")
                 display_pdf_from_bytes(base64_pdf)
@@ -171,9 +172,9 @@ def main():
             
             # Process the query using TextGen class
             
-            st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs, st.session_state.session_id, st.session_state.uploaded.name)
+            st.session_state.response['text'] = text_model.process_query(prompt, st.session_state.selected_language, st.session_state.paragraphs, st.session_state.session_id, st.session_state.uploaded.name, st.session_state.vector_dim)
             
-            st.session_state.response['image'] = image_model.main_current(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id)
+            st.session_state.response['image'] = image_model.query(prompt, os.path.join("data", st.session_state.session_id, st.session_state.uploaded.name), st.session_state.uploaded.name, st.session_state.selected_language, st.session_state.session_id, st.session_state.vector_dim_image, st.session_state.paragraphs_image)
             
             # Display assistant response in chat message container
             with st.chat_message("assistant"):

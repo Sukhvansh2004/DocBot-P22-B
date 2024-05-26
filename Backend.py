@@ -38,6 +38,7 @@ class TextGen:
             f.write(text)
         
         paragraphs=[]
+        vector_dimension = None
         if language=="English":
             with open(os.path.join(self.datafolder, id, 'output.txt'), 'r', encoding='utf-8') as file:
                 current_paragraph = ""
@@ -80,7 +81,7 @@ class TextGen:
             
         print(f"PDF file '{pdf_name}' saved to '{pdf}'")
             
-        return paragraphs
+        return paragraphs, vector_dimension
                 
     def vectorize_paragraph(self, paragraph, max_length=512):
         tokenized_paragraph = self.Jatokenizer([paragraph], return_tensors="pt").to(device)
@@ -97,7 +98,7 @@ class TextGen:
         paragraph_embedding = np.concatenate(chunk_embeddings, axis=0)
         return paragraph_embedding
     
-    def text2embedd2query(self, query, language, paragraphs, id, pdf_name):
+    def text2embedd2query(self, query, language, paragraphs, id, pdf_name, vector_dim):
 
         num_neighbors = 5
         if language=="English":
@@ -106,7 +107,7 @@ class TextGen:
             query_embedding = self.vectorize_paragraph(query)
         
         annoy_index_path = os.path.join(self.datafolder, id, f'{pdf_name}-{language}.ann')
-        annoy_index=self.load_annoy_index_from_file(768, annoy_index_path)
+        annoy_index=self.load_annoy_index_from_file(vector_dim, annoy_index_path)
         nearest_neighbor_indices = annoy_index.get_nns_by_vector(query_embedding, num_neighbors)
         nearest_neighbor_paragraphs = [paragraphs[index] for index in nearest_neighbor_indices]
         return nearest_neighbor_paragraphs
@@ -136,9 +137,9 @@ class TextGen:
             
         return self.pdf2text(file_path, id, language, uploaded_pdf.name)
         
-    def process_query(self, query, language, paragraphs, id, pdf_name):
+    def process_query(self, query, language, paragraphs, id, pdf_name, vector_dim):
         # Process the query using text2embedd2query and generate_response
-        neighbor = self.text2embedd2query(query, language, paragraphs, id, pdf_name)
+        neighbor = self.text2embedd2query(query, language, paragraphs, id, pdf_name, vector_dim)
         combined_string = ' '.join(neighbor)
         if language == "English":
             input_text = self.tokenizer(

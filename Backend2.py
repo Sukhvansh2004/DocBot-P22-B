@@ -137,7 +137,7 @@ class Image_Gen():
 
         return list_hold
         
-    def text2embedd2query(self, query, pdf_path, id, name, language):
+    def encode(self, pdf_path, id, name, language):
         
         with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
             retrieved_list = pickle.load(f)
@@ -148,15 +148,19 @@ class Image_Gen():
 
         vector_dimension = len(paragraph_embeddings[0])
         
-        annoy_index_path = os.path.join(self.datafolder, id, f'{name}-{language}.ann')
-        annoy_index = None # load_annoy_index_from_file(vector_dimension, annoy_index_path)
-        if annoy_index is None:
-            annoy_index = AnnoyIndex(vector_dimension, 'angular')
-            for i, vector in enumerate(paragraph_embeddings):
-                annoy_index.add_item(i, vector)
-            annoy_index.build(n_trees=15)
-            # save_annoy_index_to_file(annoy_index, annoy_index_path)
-            
+        annoy_index_path = os.path.join(self.datafolder, id, f'{name}-{language}-images.ann')
+        annoy_index = AnnoyIndex(vector_dimension, 'angular')
+        for i, vector in enumerate(paragraph_embeddings):
+            annoy_index.add_item(i, vector)
+        annoy_index.build(n_trees=15)
+        self.save_annoy_index_to_file(annoy_index, annoy_index_path)
+        print(f"Image PDF converted and saved at {annoy_index_path}")
+        return paragraphs, vector_dimension
+    
+    def text2embedd2query(self, query, id, name, language, paragraphs, vector_dim):
+        
+        annoy_index_path = os.path.join(self.datafolder, id, f'{name}-{language}-images.ann')
+        annoy_index = self.load_annoy_index_from_file(vector_dim, annoy_index_path)
         num_neighbors = 5
         query_embedding = self.sbert_model.encode([query])[0]
         num_neighbors = 5
@@ -164,23 +168,17 @@ class Image_Gen():
         nearest_neighbor_indices = annoy_index.get_nns_by_vector(query_embedding, num_neighbors)
 
         nearest_neighbor_paragraphs = [paragraphs[index] for index in nearest_neighbor_indices]
-        
         # nearest_neighbor_paragraphs = " Hello "
         return nearest_neighbor_paragraphs
 
     def save_annoy_index_to_file(self, annoy_index: AnnoyIndex, file_path):
-        try:
-            annoy_index.save(file_path)
-        except:
-            pass
+        annoy_index.save(file_path)
 
     def load_annoy_index_from_file(self, vector_dimension, file_path):
-        if os.path.exists(file_path):
-            annoy_index = AnnoyIndex(vector_dimension, 'angular')
-            annoy_index.load(file_path)
-            return annoy_index
-        else:
-            return None
+        annoy_index = AnnoyIndex(vector_dimension, 'angular')
+        annoy_index.load(file_path)
+        return annoy_index
+        
     def unlock_pdf(self, pdf_path):
         filename = pdf_path
 
@@ -188,30 +186,31 @@ class Image_Gen():
             pdf.save(filename)
         
         
-    def process_pdf(self, pdf_path, id):
+    def process_pdf(self, pdf_path, id, name, language):
         # pdf_files = list_pdf_files_glob(datafolder)
 
         # for pdf_path in pdf_files:
-            pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
+        pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
 
-            self.unlock_pdf(pdf_path)
+        self.unlock_pdf(pdf_path)
 
-            text_blocks, images, xref_page, text_xref_pairs, text_xref_pairs_list, text_xref_pairs_list_rev = self.extract_text_and_images(pdf_path)
+        text_blocks, images, xref_page, text_xref_pairs, text_xref_pairs_list, text_xref_pairs_list_rev = self.extract_text_and_images(pdf_path)
 
-            # text_blocks = pdf2text(Current_file)
-            
-            text_xref_pairs_1, text_xref_pairs_list_1, text_list_1 = self.process_images(pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list, id)
+        # text_blocks = pdf2text(Current_file)
+        
+        text_xref_pairs_1, text_xref_pairs_list_1, text_list_1 = self.process_images(pdf_path, pdf_name, images, xref_page, text_xref_pairs, text_xref_pairs_list, id)
 
-            self.save_data(pdf_path, text_xref_pairs_list_1, text_list_1)
-
-            # text = ""
-            # for i in text_blocks:
-            #     # print(i)
-            #     text += str(i)
-            # with open("data/output.txt", "w") as file:
-            #     # Write the text to the file
-            #     file.write(text)
-                # .encode('utf-8')
+        self.save_data(pdf_path, text_xref_pairs_list_1, text_list_1)
+        
+        return self.encode(pdf_path, id, name, language)
+        # text = ""
+        # for i in text_blocks:
+        #     # print(i)
+        #     text += str(i)
+        # with open("data/output.txt", "w") as file:
+        #     # Write the text to the file
+        #     file.write(text)
+        # .encode('utf-8')
             
             
             
@@ -222,42 +221,42 @@ class Image_Gen():
         with open(f"{pdf_path}_prev_text.pickle", "wb") as f:
             pickle.dump(text_list_1, f)
             
-    def main_current(self, query, pdf_path, name, language, id):
+            
+    def query(self, query, pdf_path, name, language, id, vector_dim, paragraphs):
         # pdf_files = list_pdf_files_glob(datafolder)
 
         # for pdf_path in pdf_files:
-            pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-            # query = "Instrument and  control functions  4 - 3 3s"
-            self.process_pdf(pdf_path, id)
-            
-            nearest = self.text2embedd2query(query, pdf_path, id, name, language)
-            
-            with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
-                retrieved = pickle.load(f)
+        pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
+        # query = "Instrument and  control functions  4 - 3 3s"
+        
+        nearest = self.text2embedd2query(query, id, name, language, paragraphs, vector_dim)
+        
+        with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
+            retrieved = pickle.load(f)
 
-            retrieved_list = []
-            index = 0
-            for i in retrieved:
-                retrieved_list.append(i[1])
-                if nearest[0] == i[1]:
-                    image_xref = i[0]
-                    break
-                index += 1
+        retrieved_list = []
+        index = 0
+        for i in retrieved:
+            retrieved_list.append(i[1])
+            if nearest[0] == i[1]:
+                image_xref = i[0]
+                break
+            index += 1
 
 
-            with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
-                retrieved_list = pickle.load(f)
+        with open(f"{pdf_path}_prev_text.pickle", "rb") as f:
+            retrieved_list = pickle.load(f)
 
-            with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
-                list2 = pickle.load(f)
+        with open(f"{pdf_path}_text_xref_pairs.pickle", "rb") as f:
+            list2 = pickle.load(f)
 
-            xrefs = []
-            for i in list2:
-                xrefs.append(i[0])
+        xrefs = []
+        for i in list2:
+            xrefs.append(i[0])
 
-            pair = self.find_most_similar_sentence(retrieved_list, xrefs, index, image_xref)
+        pair = self.find_most_similar_sentence(retrieved_list, xrefs, index, image_xref)
 
-            return self.display_images(pdf_name, pair, id)
+        return self.display_images(pdf_name, pair, id)
         
     def display_images(self, pdf_name, pair, id):
         img = []
