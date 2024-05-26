@@ -2,6 +2,7 @@ pikepdf
 numpy
 annoy
 sentence_transformers
+pymupdf
 fitz
 pillow
 streamlit
