@@ -53,11 +53,8 @@ streamlit run streamlit.py
 
 # Important Notes:
 
-The data folder is to be deleted when running the ```streamlit run streamlit.py``` command to prevent data conflicts.
-
-
 Remember to install PyTorch with CUDA support on your device as per the official PyTorch installation instructions.
-Additional Considerations:
 
+Additional Considerations:
 For enhanced performance and scalability, consider using a GPU-accelerated environment.
 Explore advanced question-answering techniques to improve the chatbot's accuracy and versatility.
