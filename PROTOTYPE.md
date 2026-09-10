@@ -1,14 +1,12 @@
 # Flask / LangChain prototype (archived)
 
 This branch preserves the **earlier Flask-based line of DocBot** that was never
-merged into `main`. It was recovered from the project's Google Drive folder,
-where it had been the only copy.
+merged into `main`.
 
 `main` is the version that shipped: Streamlit + Sentence-Transformers/Annoy +
 Gemma, in `streamlit.py` / `Backend.py` / `Backend2.py`. This branch is a
 *different architecture* for the same product — a Flask JSON API with a
-hand-written HTML/CSS/JS chat frontend — and it is **older** (Drive timestamps
-27 Apr – 1 May 2024, versus `main`'s last push on 7 Jul 2024).
+hand-written HTML/CSS/JS chat frontend — and it predates `main`.
 
 Nothing here is maintained. It is kept so the approach isn't lost.
 
@@ -62,7 +60,7 @@ has accepted their licences.
 
 ## Credentials
 
-The Drive copies had a Hugging Face access token hard-coded as
+These files originally had a Hugging Face access token hard-coded as
 `auth_token = "hf_..."` in `app2.py`, `app3.py`, `app4.py`, `Untitled-1.py`,
 `web/backend.py` and `web/test.py`. Those six lines now read
 `os.environ.get("HF_TOKEN")` instead.
