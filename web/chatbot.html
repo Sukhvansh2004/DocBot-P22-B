@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+</head>
+<body>
+    <h1>DocBOT-P22B</h1>
+    <div id="main-container">
+        <div id="chatbox">
+            <div id="chat-messages"></div>
+            <div id="input-container">
+              <input type="text" id="query" placeholder="Type your query here...">
+              <div class="button-container">
+                <button onclick="sendQuery()">Send</button>
+                <button onclick="EN()">EN</button>
+                <button onclick="clearChat()">Clear Chat</button>
+              </div>
+            </div>
+          </div>
+        <div class="button-container">
+            <input type="file" id="pdfFile" accept=".pdf" style="color: white; display: block; margin-bottom: 10px;">
+            <button onclick="uploadPDF()">Upload PDF</button>
+            <div id="pdf-viewer"></div>
+        </div>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <div id="google_translate_element"></div>
+    </div>
+    <div id="loadingBar">
+        <div id="progressBar"></div>
+    </div>
+
+    <script src="scripts/script.js"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>
